@@ -1696,7 +1696,7 @@
 				<div class="testimonial-block-two">
 					<div class="inner-box">
 						<div class="border-layer"></div>
-						<h3 class="mb-3"><a href="my"><b>Canada Assignment Writing Help Service
+						<h3 class="mb-3"><a href="canada"><b>Canada Assignment Writing Help Service
 						</b></a></h3>
 						<div class="text truncated-text">
 							<p>Our team is ready to help you understand your assignments and guide you through the process, all at an affordable price. No matter where you are in Canada, our assignment help is just a click away.  
