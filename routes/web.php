@@ -201,7 +201,7 @@ Route::get('/', function () {
         $title = 'Assignment help Online Writing Service- 40% Off & Get Free CV';
         $description = 'Get #1 Online Assignment writing help services from PHD experts! Enjoy 24/7 assistance for essays, research papers, homework help and more By Assignment In Need';
         $keyword = 'assignment writing help, assignment writing service, assignment writing services';
-        $canonical = 'https://www.assignmentinneed.com';
+        $canonical = 'https://www.assignnmentinneed.com';
         $website = generateWebsiteSchema();
         $org = generateOrganizationSchema();
         $priceRanges = [
@@ -419,7 +419,7 @@ Route::get('/assignment-writing-help-services', function () {
     'title' => 'Online Assignment Writing Help Services @ 40% Off & Free CV',
     'description' => '#1 Assignment Writing Help Services · Get expert writing services from verified professionals. We assist students who ask, "Can you write my assignment for me?".',
     'keyword' => 'assignment writing help service in london, cheap assignment help uk, assignment writing services',
-    'canonical' => 'https://www.assignmentinneed.com/assignment-writing-help-services',
+    'canonical' => 'https://www.assignnmentinneed.com/assignment-writing-help-services',
   ];
 
   $priceRanges = [
