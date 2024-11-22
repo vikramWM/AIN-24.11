@@ -1763,119 +1763,129 @@
 </section>
 
 
-<!-- FAQs Question  section     -->
-<div class="faq-section">
-	<div class="auto-container">
-		<div class="row">
-			<div class="column col-lg-12 col-md-12 col-sm-12">
-				<div class="title-box">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions
-					</h2>
+ 
+
+	 <!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+	 <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Online Assignment Help in the UK </b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. How can I get affordable homework help in the UK? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+										 <p>We offer budget-friendly homework help for UK students without compromising quality. Check our pricing options and student discounts to make homework assistance affordable.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What subjects does your cheap homework help cover?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+										 <p>Our homework help covers a wide range of subjects, including maths, English, science, history, and more, ensuring support across all academic areas.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. Can I get last-minute homework help at a low cost?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>We offer express homework help options in the UK for urgent deadlines, and we strive to keep these services as affordable as possible.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. What makes your "write my essay for me" service the best in the UK?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>Our service combines expert writers, affordable pricing, and free revisions, ensuring UK students receive high-quality, custom essays suited to their needs.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+					 
+					
+					</ul>
+					
 				</div>
-				<ul class="accordion-box">
-					<li class="accordion block">
-						<div class="acc-btn">1. How can I get affordable homework help in the UK?<div
-								class="icon fa fa-angle-down"></div>
-						</div>
-						<div class="acc-content">
-							<div class="content">
-								<div class="text">
-									<p>We offer budget-friendly homework help for UK students without compromising
-										quality. Check our pricing options and student discounts to make homework
-										assistance affordable.</p>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. Can I order a custom essay for any topic or academic level?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>Yes, our UK essay writing service is fully customizable. We cater to all topics, structures, and academic levels, from GCSE to postgraduate.</p>
+									</div>
 								</div>
 							</div>
-						</div>
-					</li>
-					<li class="accordion block">
-						<div class="acc-btn">2. What subjects does your cheap homework help cover?<div
-								class="icon fa fa-angle-down"></div>
-						</div>
-						<div class="acc-content">
-							<div class="content">
-								<div class="text">
-									<p> Our homework help covers a wide range of subjects, including maths, English,
-										science, history, and more, ensuring support across all academic areas.</p>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. How much does it cost to have an essay written in the UK?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>Our prices vary based on complexity, length, and urgency. We also offer student discounts, making our service affordable for all UK students.</p>
+									</div>
 								</div>
 							</div>
-						</div>
-					</li>
-					<li class="accordion block">
-						<div class="acc-btn">3. Can I get last-minute homework help at a low cost?<div
-								class="icon fa fa-angle-down"></div>
-						</div>
-						<div class="acc-content">
-							<div class="content">
-								<div class="text">
-									<p>We offer express homework help options in the UK for urgent deadlines, and we
-										strive to keep these services as affordable as possible.</p>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. Can I get expert help with my dissertation in the UK?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>Yes, we specialize in UK dissertation support, including help with research, writing, editing, and specific sections like literature reviews or methodology.</p>
+									</div>
 								</div>
 							</div>
-						</div>
-					</li>
-					<li class="accordion block">
-						<div class="acc-btn">4. What makes your "write my essay for me" service the best in the UK?<div
-								class="icon fa fa-angle-down"></div>
-						</div>
-						<div class="acc-content">
-							<div class="content">
-								<div class="text">
-									<p>Our service combines expert writers, affordable pricing, and free revisions,
-										ensuring UK students receive high-quality, custom essays suited to their needs.
-									</p>
-								</div>
-							</div>
-						</div>
-					</li>
-					<li class="accordion block">
-						<div class="acc-btn">5. Can I order a custom essay for any topic or academic level? <div
-								class="icon fa fa-angle-down"></div>
-						</div>
-						<div class="acc-content">
-							<div class="content">
-								<div class="text">
-									<p>Yes, our UK essay writing service is fully customizable. We cater to all topics,
-										structures, and academic levels, from GCSE to postgraduate.</p>
-								</div>
-							</div>
-						</div>
-					</li>
-					<li class="accordion block">
-						<div class="acc-btn">6. How much does it cost to have an essay written in the UK?<div
-								class="icon fa fa-angle-down"></div>
-						</div>
-						<div class="acc-content">
-							<div class="content">
-								<div class="text">
-									<p>Our prices vary based on complexity, length, and urgency. We also offer student
-										discounts, making our service affordable for all UK students.</p>
-								</div>
-							</div>
-						</div>
-					</li>
-					<li class="accordion block">
-						<div class="acc-btn">7. Can I get expert help with my dissertation in the UK? <div
-								class="icon fa fa-angle-down"></div>
-						</div>
-						<div class="acc-content">
-							<div class="content">
-								<div class="text">
-									<p>Yes, we specialize in UK dissertation support, including help with research,
-										writing, editing, and specific sections like literature reviews or methodology.
-									</p>
-								</div>
-							</div>
-						</div>
-					</li>
+						</li>
+							 
+						
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
 
-
-				</ul>
-			</div>
+				</div> 
+				 
+ 			</div>
+			  
 		</div>
-	</div>
-</div>
-
-
+		 
+   </section> 
 
 
 

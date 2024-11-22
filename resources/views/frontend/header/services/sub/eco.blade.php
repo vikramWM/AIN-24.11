@@ -746,7 +746,7 @@
 	</section>
         
      <!--Conclusion -->
-     <!-- <section class="py-0">
+     <section class="py-0">
 		<div class="auto-container ">
 			<div class="row clearfix">
 				<div class="title-column col-lg-12 col-md-12 col-sm-12">
@@ -767,130 +767,146 @@
 				</div>
 			</div>
 		</div>
-	</section> -->
+	</section>
      <!-- new code of conclusion -->
   
-	<section class="case-study-section mt-5 conclsn">
-    	<div class="auto-container">
-		<div class="row clearfix">
+	 <!-- new section -->
+
+	 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
 			<!-- Content Column -->
-			<div class="content-column col-lg-5 col-md-12 col-sm-12 ">
-				<div class="inner-column">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">Conclusion </h2>
-					<div class="text">
-						<p> Choosing our Economics assignment Help online means more than just finishing your assignments. It helps you truly understand how economics works. We're here to help if you ever find yourself thinking, "I need someone to write my economics assignment,"
-						</p>
-						<p> We aim to help you not only achieve short-term academic success but also develop a deep appreciation for economics. Whether you're dealing with basic concepts or advanced topics our services are personalized to meet your specific learning needs.
-						</p>
-					</div>
-					<!-- <a href="courses-single.html" class="theme-btn btn-style-seven"><span class="txt">Read Case
-							Study</span></a> -->
-				</div>
-			</div>
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Economic Assignment Writing Help Services Online By Assignment in Need Worldwide</h2>
+					  <div class="text">
+						 <p>At Assignment in Need, the focus is on providing exceptional economic assignment writing help to students. With 45,000+ assignments delivered and 98.2% of orders arriving timely, the platform ensures reliability and quality. Whether students are in Canada, the UAE, the UK, Malaysia, Spain, or Australia, each assignment is crafted with careful attention to meet academic requirements. A team of experienced economics experts delivers well-researched, original content that aligns with academic standards. Understanding the pressures of tight deadlines and other tasks, Assignment in Need offers 24/7 support to assist students whenever needed. For reliable, affordable, and timely economics assignment help, they are a trusted partner in achieving academic success.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
 
 			<!-- Image Column -->
-			<div class="image-column col-lg-7 col-md-12 col-sm-12">
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
 				<div class="inner-column">
-					<div class="icon-layer-three" style="background-image:url(images2/icons/icon-12.png)"></div>
-					<div class="icon-layer-four" style="background-image:url(images2/icons/icon-3.png)"></div>
-					<div class="icon-layer-six" style="background-image:url(images2/icons/icon-2.png)"></div>
-					<div class="image titlt" data-tilt="" data-tilt-max="4"
-						style="will-change: transform; transform: perspective(300px) rotateX(0deg) rotateY(0deg);">
-						<img src="images2/resource/case.png" alt="">
-					</div>
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
 				</div>
 			</div>
 
 		</div>
 	</div>
-</section>
-	     <!-- end new code of conclusion -->
-       	 <!-- FAQs Question  section for eco -->
-	     <section class="faq-section ">
-			        <div class="auto-container">
-			    	<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-					</div>
-                        <ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. What is Economic Assignment Help?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Economic assignment help is support for students in topics like international economics, microeconomics, macroeconomics, and others. It helps students understand these subjects better and complete their assignments on time.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. Why should I choose your Economic Assignment Help services?                               
-                                    <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>We provide original content by tailoring each assignment and thoroughly checking for plagiarism. You can select your expert based on their qualifications and area of expertise. You'll work directly with your expert to customize your assignment precisely. Our thorough editing process ensures your work is clear, logical, and well-structured. Plus, we offer unlimited revisions to make sure the final product meets your academic requirements perfectly.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. How do I request Economic Assignment Help?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>You can request economics assignment help online through our email INFO@ASSIGNNMENTINNEED.COM or by clicking the submit button on our website. 
-                                            </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. What types of economic assignments can you help with?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Assignment In Need helps with different areas of economics. We cover International Economics (trade between nations and global policies), Microeconomics (individual consumer and firm behavior), Macroeconomics (big economic factors like inflation and unemployment), Developmental Economics (growth in low-income countries), Environmental Economics (impact of environmental policies), Health Economics (healthcare systems and funding), and Labor Economics (employment trends and wages).</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. How long does it take to get my economic assignment completed?
-                                    <div class="icon fa fa-angle-down">
+            </section>
 
+           
+       
+ <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+ <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Economic Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. What is Economic Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>Economic assignment help is support for students in topics like international economics, microeconomics, macroeconomics, and others. It helps students understand these subjects better and complete their assignments on time.</P>
+										</div>
                                     </div>
                                 </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Our main goal is to complete your assignment as quickly as possible. We typically deliver it a day before your deadline. In cases where deadlines are tight, such as a 3-day delivery, you can expect to receive your work on either the second or third day. </p>
-										</div>
-									</div>
-								</div>
-							</li>
-
+                            </li>
                             <li class="accordion block">
-								<div class="acc-btn">6. How can I contact you for further questions about Economic Assignment Help?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>You can contact us in three different ways, first by email INFO@ASSIGNNMENTINNEED.COM . Call us on +44 2037695831, or just WhatsApp Number +44 7435256433.</p>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. Why should I choose your Economic Assignment Help services?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>We provide original content by tailoring each assignment and thoroughly checking for plagiarism. You can select your expert based on their qualifications and area of expertise. You'll work directly with your expert to customize your assignment precisely. Our thorough editing process ensures your work is clear, logical, and well-structured. Plus, we offer unlimited revisions to make sure the final product meets your academic requirements perfectly.</P>
 										</div>
-									</div>
-								</div>
-							</li>
-
-                           
-						</ul>
-					</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. How do I request Economic Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <P>You can request economics assignment help online through our email <b>INFO@ASSIGNNMENTINNEED.COM</b>  or by clicking the submit button on our website.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. What types of economic assignments can you help with?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <p>Assignment In Need helps with different areas of economics. We cover International Economics (trade between nations and global policies), Microeconomics (individual consumer and firm behavior), Macroeconomics (big economic factors like inflation and unemployment), Developmental Economics (growth in low-income countries), Environmental Economics (impact of environmental policies), Health Economics (healthcare systems and funding), and Labor Economics (employment trends and wages).</p>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How long does it take to get my economic assignment completed?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Our main goal is to complete your assignment as quickly as possible. We typically deliver it a day before your deadline. In cases where deadlines are tight, such as a 3-day delivery, you can expect to receive your work on either the second or third day.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border" style="font-weight:500; font-size: 20px;; color:black">6. How can I contact you for further questions about Economic Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <p>You can contact us in three different ways, first by email INFO@ASSIGNNMENTINNEED.COM . Call us on +44 2037695831, or just WhatsApp Number +44 7435256433.</p>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+						
+					 
+						 
 					
+					</ul>
+					
+				</div>
 				 
-			</div>
- </section>
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
           
 @endsection

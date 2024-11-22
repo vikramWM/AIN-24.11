@@ -954,160 +954,169 @@
 			</div>
 		</div>
 	</section>
-	
-	<section class="faq-section">
-		<div class="auto-container">
-			<div class="row clearfix">
-				<div class="column col-lg-12 col-md-12 col-sm-12">
-					<div class="title-box">
-						<h4>Frequently Asked Questions About Assignment Help In Australia</h4>
-					</div>
-					<ul class="accordion-box">
-						<li class="accordion block">
-							<div class="acc-btn">1. What is the best assignment help service in Australia?<div class="icon fa fa-angle-down"></div></div>
+	 
+	   <!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+	   <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For   Assignment Writing Help in the Australia  </b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. What is the best assignment help service in Australia?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="display: none;">
 								<div class="content">
 									<div class="text">
-										<p>The best assignment help service in Australia is one that offers comprehensive support, including experienced writers, timely delivery, and high-quality work tailored to local academic standards. Look for services that provide a range of academic support, from research and writing to editing and proofreading, and ensure they offer guarantees such as plagiarism-free work and satisfaction guarantees.</p>
+									 <P>The best assignment help service in Australia is one that offers comprehensive support, including experienced writers, timely delivery, and high-quality work tailored to local academic standards. Look for services that provide a range of academic support, from research and writing to editing and proofreading, and ensure they offer guarantees such as plagiarism-free work and satisfaction guarantees.</P>
 									</div>
 								</div>
 							</div>
 						</li>
-						<li class="accordion block active-block">
-							<div class="acc-btn active">2. What makes your assignment writing service the best for Australian students?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content current" style="display: block;">
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What makes your assignment writing service the best for Australian students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
 								<div class="content">
 									<div class="text">
-										<p>Our assignment writing service stands out for Australian students due to our team of highly qualified writers who specialize in various academic fields. We prioritize custom-written assignments, offer timely delivery, and provide free revisions to ensure the work meets all requirements. Additionally, our service includes a strict plagiarism policy and 24/7 customer support to address any concerns promptly.</p>
-									</div>
+									<P>Our assignment writing service stands out for Australian students due to our team of highly qualified writers who specialize in various academic fields. We prioritize custom-written assignments, offer timely delivery, and provide free revisions to ensure the work meets all requirements. Additionally, our service includes a strict plagiarism policy and 24/7 customer support to address any concerns promptly.</P> 
+										</div>
 								</div>
 							</div>
 						</li>
 						
 						<li class="accordion block">
-							<div class="acc-btn">3. How can Australian students benefit from your assignment writing service?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. How can Australian students benefit from your assignment writing service?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-                					Australian students get tailored support for their assignments, including detailed research, structured writing, and comprehensive editing, all aligned with local academic expectations.
-                							</p>
-									</div>
+										 <P>Australian students get tailored support for their assignments, including detailed research, structured writing, and comprehensive editing, all aligned with local academic expectations.</P>
+										</div>
 								</div>
 							</div>
 						</li>
 
 						<li class="accordion block">
-							<div class="acc-btn">4. What if I need help with an assignment last minute in Australia?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. What if I need help with an assignment last minute in Australia?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-							For urgent assignments, Australian students can opt for expedited service to ensure timely completion, even with short deadlines.
-										</p>
+									 <p>For urgent assignments, Australian students can opt for expedited service to ensure timely completion, even with short deadlines. </p>
 									</div>
 								</div>
 							</div>
 						</li>
-						
 						<li class="accordion block">
-							<div class="acc-btn">5. What types of assignments do you handle for Australian students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. What types of assignments do you handle for Australian students?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>										
-                                         We cover a variety of assignments, such as essays, research papers, case studies, and more, customized to fit the needs of Australian students.
-										</p>
-									</div>
+										 <P>We cover a variety of assignments, such as essays, research papers, case studies, and more, customized to fit the needs of Australian students.</P>
+										</div>
 								</div>
 							</div>
 						</li>
-						
+					 
 					
-							<li class="accordion block">
-							<div class="acc-btn">6. How do you ensure assignments are original for Australian students?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-						We create assignments from scratch and utilize plagiarism detection software to guarantee that the work is unique and meets academic standards.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						<li class="accordion block">
-							<div class="acc-btn">7. Can Australian students get support for different parts of their dissertation?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-					Yes, Australian students can receive help with any section of their dissertation, including the proposal, methodology, and data analysis.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						<li class="accordion block">
-							<div class="acc-btn">8. How do you ensure dissertations meet the deadlines for Australian students?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-											We manage deadlines carefully by prioritizing tasks and maintaining efficient workflows to ensure timely delivery of high-quality dissertations.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-							<li class="accordion block">
-							<div class="acc-btn">9. How can Australian students get help with their essays?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-						Australian students can access expert assistance for essay writing, including topic selection, drafting, and revision, to meet specific academic guidelines.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">10. Do you handle different types of essays for Australian students?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-						Yes, we assist with various essay types, such as analytical, persuasive, and reflective essays, customized to the needs of Australian students.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">11. How do you ensure essays are unique for Australian students?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-						We ensure originality by writing essays from scratch and using advanced plagiarism detection tools to confirm that all work is unique.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
 					</ul>
 					
 				</div>
-				
-			</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					  
+						 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. How do you ensure assignments are original for Australian students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We create assignments from scratch and utilize plagiarism detection software to guarantee that the work is unique and meets academic standards.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+							 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. Can Australian students get support for different parts of their dissertation?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, Australian students can receive help with any section of their dissertation, including the proposal, methodology, and data analysis.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. How do you ensure dissertations meet the deadlines for Australian students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We manage deadlines carefully by prioritizing tasks and maintaining efficient workflows to ensure timely delivery of high-quality dissertations.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">9. How can Australian students get help with their essays?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Australian students can access expert assistance for essay writing, including topic selection, drafting, and revision, to meet specific academic guidelines.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">10. Do you handle different types of essays for Australian students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, we assist with various essay types, such as analytical, persuasive, and reflective essays, customized to the needs of Australian students.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">11. How do you ensure essays are unique for Australian students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We ensure originality by writing essays from scratch and using advanced plagiarism detection tools to confirm that all work is unique.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
 		</div>
-	</section>
-	
+		 
+   </section> 
+
+
+
+
+
 	<script>
 		document.addEventListener('DOMContentLoaded', function() {
 			const readMoreBtns = document.querySelectorAll('.read-more-btn');

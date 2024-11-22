@@ -748,7 +748,7 @@
 	</section>
         
      <!--Conclusion -->
-     <!-- <section class="py-0">
+     <section class="py-0">
 		<div class="auto-container ">
 			<div class="row clearfix">
 				<div class="title-column col-lg-12 col-md-12 col-sm-12">
@@ -764,130 +764,146 @@
 				</div>
 			</div>
 		</div>
-	</section> -->
-      <!-- new code of conclusion -->
-  
-	<section class="case-study-section mt-5 conclsn">
-    	<div class="auto-container">
-		<div class="row clearfix">
+	</section>
+
+	 <!-- new section -->
+
+	 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
 			<!-- Content Column -->
-			<div class="content-column col-lg-5 col-md-12 col-sm-12 ">
-				<div class="inner-column">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">Conclusion </h2>
-					<div class="text">
-						<p> In conclusion, Assignment In Need offers reliable and professional English assignment assistance. We're committed to helping you succeed academically by providing unique and custom-made papers at affordable pricing and total anonymity. Contact us today and take the stress out of your English assignments!
-						</p>
-						 
-					</div>
-					<!-- <a href="courses-single.html" class="theme-btn btn-style-seven"><span class="txt">Read Case
-							Study</span></a> -->
-				</div>
-			</div>
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Assignment in Need- Online English Assignment Writing Help for Students across the Global</h2>
+					  <div class="text">
+						 <p>At Assignment in Need, complete English assignment writing help is offered to students, with over 30,000 happy clients and a team of 3,000+ PhD experts. The expert team is committed to providing the support necessary for students to succeed in their assignments. Whether it's grammar, essay writing, or tackling complex topics, they are ready to guide students. Support is available to students in countries like the UAE, UK, Malaysia, Spain, Australia, and Canada, delivering personalised, plagiarism-free solutions tailored to individual needs. With 24/7 support, easing the stress of deadlines is a priority. Count on Assignment in Need for reliable English assignment help, where originality and timely delivery are guaranteed.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
 
 			<!-- Image Column -->
-			<div class="image-column col-lg-7 col-md-12 col-sm-12">
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
 				<div class="inner-column">
-					<div class="icon-layer-three" style="background-image:url(images2/icons/icon-12.png)"></div>
-					<div class="icon-layer-four" style="background-image:url(images2/icons/icon-3.png)"></div>
-					<div class="icon-layer-six" style="background-image:url(images2/icons/icon-2.png)"></div>
-					<div class="image titlt" data-tilt="" data-tilt-max="4"
-						style="will-change: transform; transform: perspective(300px) rotateX(0deg) rotateY(0deg);">
-						<img src="images2/resource/case.png" alt="">
-					</div>
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
 				</div>
 			</div>
 
 		</div>
 	</div>
-  </section>
-	     <!-- end new code of conclusion -->
-       	 <!-- FAQs Question  section for canada -->
-	     <section class="faq-section ">
-			        <div class="auto-container">
-			    	<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                         
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-					</div>
-                        <ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. What types of English assignments can you help with?	<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>To help you excel in your studies we cover a wide range of writing tasks. our team is always here to assist you whether you need a research paper,  essay, dissertation,  term paper, or even a resume. Our customer support will confirm if we have a writer available once you lace your order.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. How do I submit my English assignment for help?                                
-                                    <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>Submitting your assignment is simple. You can click the submit button on our website or email us your assignment along with your specific instructions. Whichever way you choose, we'll promptly review and respond to your assignment.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. What information do you need to help with my English assignment?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>To get started, send us your assignment details and any specific requirements you have. If you're working under a tight deadline, please let us know your expectations.
-                                            </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. How much does an English assignment help cost?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Our prices are affordable and depend on the complexity of your assignment and your specific needs. You'll receive a price quote once we review the details of your assignment submission.	</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. How can I communicate with my English assignment helper?
-                                    <div class="icon fa fa-angle-down">
+            </section>
 
+            <!-- end new section -->
+       
+        
+        <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+ <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For English Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. What types of English assignments can you help with?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>To help you excel in your studies we cover a wide range of writing tasks. our team is always here to assist you whether you need a research paper, essay, dissertation, term paper, or even a resume. Our customer support will confirm if we have a writer available once you lace your order.</P>
+										</div>
                                     </div>
                                 </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Once we assign a writer to your project, you can communicate directly with them through secure platforms.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
+                            </li>
                             <li class="accordion block">
-								<div class="acc-btn">6. What are the benefits of using your English assignment help service?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>our writers can deliver high-quality content within your deadline if you're looking for reliable online help with your English homework. Here's why we're your best choice: we provide top-notch content, thorough editing and proofreading, timely delivery, and work with knowledgeable experts.</p>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. How do I submit my English assignment for help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Submitting your assignment is simple. You can click the submit button on our website or email us your assignment along with your specific instructions. Whichever way you choose, we'll promptly review and respond to your assignment.</P>
 										</div>
-									</div>
-								</div>
-							</li>
-
-                           
-						</ul>
-					</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. What information do you need to help with my English assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>To get started, send us your assignment details and any specific requirements you have. If you're working under a tight deadline, please let us know your expectations.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. How much does an English assignment help cost?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Our prices are affordable and depend on the complexity of your assignment and your specific needs. You'll receive a price quote once we review the details of your assignment submission.</P>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How can I communicate with my English assignment helper? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>Once we assign a writer to your project, you can communicate directly with them through secure platforms.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border" style="font-weight:500; font-size: 20px;; color:black">6. What are the benefits of using your English assignment help service? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>our writers can deliver high-quality content within your deadline if you're looking for reliable online help with your English homework. Here's why we're your best choice: we provide top-notch content, thorough editing and proofreading, timely delivery, and work with knowledgeable experts.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+						
+					 
+						 
 					
+					</ul>
+					
+				</div>
 				 
-			</div>
- </section>
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
       
 @endsection

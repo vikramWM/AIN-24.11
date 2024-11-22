@@ -792,91 +792,137 @@
 		</div>
 </section> 
 
- 
-       	 <!-- FAQs Question  section for canada -->
-	     <section class="faq-section ">
-			        <div class="auto-container">
-			    	<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                       
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class=" my-4">Frequently asked questions</h2>
+       
+ 	<!-- new section -->
+
+	 <section class="py-4" style="background-color:#BFECFF;">
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Help Me with Assignment Writing Online For Students across the Globe</h2>
+					<div class="text">
+					  <p>At Assignment in Need, the focus is on providing online assignment help for students in the UK, Spain, Malaysia, Canada, Australia, and the UAE. With 98.2% of orders arriving timely and a 4.5 rating, the platform ensures reliability and quality. By reducing the stress of academic work, Assignment in Need delivers well-written assignments tailored to each student's needs. A team of qualified writers covers various subjects, ensuring work that meets academic standards. Whether it's essays, research papers, dissertations, or homework, they handle it all. With a straightforward process, reasonable prices, and 24/7 support, students can easily access the help they need to succeed. For those looking for help with assignment online, Assignment in Need provides dependable assistance every step of the way. More than just assignments, they offer a trustworthy partner in your academic journey.</p>
 					</div>
-                        <ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. What is Assignment Help Online?
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Assignment Help Online is a service where students can receive expert assistance with their academic tasks, including essays, research papers, homework, and projects, from professionals over the internet.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. What is the Process of Getting Assignment Help Online?
-                         
-                                    <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>The process is simple: choose a reliable service, submit your assignment details, make payment, and connect with a subject expert who will work on your assignment and deliver it by the agreed deadline.
-                                            </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. How Can I Ensure the Quality of the Assignments Help Online?
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>To ensure quality, check the service's reviews, ask for samples, and verify the qualifications of the experts. Reputable services also offer revisions to meet your expectations.
-                                           </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. Are Online Assignment Help Services Reliable?
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, online assignment help services are reliable when you choose a trusted provider. Look for services with positive customer feedback, clear policies, and transparent communication.
-                                            </p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. What Subjects are Covered by Online Assignment Help?
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
 
-                                    <div class="icon fa fa-angle-down">
-
-                                    </div>
-                                </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Online assignment help services cover a wide range of subjects, including mathematics, science, engineering, humanities, business, and more, ensuring that you can find support for almost any academic area.
-                                            </p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                           
-
-                           
-						</ul>
-					</div>
-					
-				 
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
 			</div>
- </section>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+       	  
+        <!-- FAQs Question  section for Help With Assignment Online -->
+ 
+	        
+		<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Help With Assignment Online</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. What is Assignment Help Online?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+										 <p>Assignment Help Online is a service where students can receive expert assistance with their academic tasks, including essays, research papers, homework, and projects, from professionals over the internet.</p>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What is the Process of Getting Assignment Help Online?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+										 <p>The process is simple: choose a reliable service, submit your assignment details, make payment, and connect with a subject expert who will work on your assignment and deliver it by the agreed deadline.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. How Can I Ensure the Quality of the Assignments Help Online?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>To ensure quality, check the service's reviews, ask for samples, and verify the qualifications of the experts. Reputable services also offer revisions to meet your expectations.</p>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">4. Are Online Assignment Help Services Reliable?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>Yes, online assignment help services are reliable when you choose a trusted provider. Look for services with positive customer feedback, clear policies, and transparent communication.</p>
+										</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. What Subjects are Covered by Online Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>Online assignment help services cover a wide range of subjects, including mathematics, science, engineering, humanities, business, and more, ensuring that you can find support for almost any academic area.</p>
+										</div>
+								</div>
+							</div>
+						</li>
+						
+					 
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
       
 @endsection

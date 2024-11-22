@@ -874,144 +874,155 @@
 		</div>
 	</section>
       
+  
+       <!-- FAQs Question  section for Dissertation Writing Help Services -->
  
-	 
-	 <!-- FAQs Question  section for malaysia -->
-	 
-	 <section class="faq-section ">
-			<div class="auto-container">
-				<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                        
-                        <div class="sec-title">							
-                        <h2>Frequently asked questions </h2>
-						</div>
-						<ul class="accordion-box">
-						<li class="accordion block">
-							<div class="acc-btn">1. How can I find the best assignment help service in Malaysia?<div class="icon fa fa-angle-down"></div></div>
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Assignment Writing Help in the Malaysia </b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. How can I find the best assignment help service in Malaysia?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="display: none;">
 								<div class="content">
 									<div class="text">
-										<p>To find the best assignment help service in Malaysia, look for providers with experienced writers, positive reviews, and a strong track record of delivering high-quality work. Ensure they offer services tailored to Malaysian academic standards and deadlines.</p>
+									 <P>To find the best assignment help service in Malaysia, look for providers with experienced writers, positive reviews, and a strong track record of delivering high-quality work. Ensure they offer services tailored to Malaysian academic standards and deadlines. </P>
 									</div>
 								</div>
 							</div>
 						</li>
-						<li class="accordion block active-block">
-							<div class="acc-btn active">2. What types of assignments can you assist with in Malaysia?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content current" style="display: block;">
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What types of assignments can you assist with in Malaysia?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
 								<div class="content">
 									<div class="text">
-										<p>We assist Malaysian students with a variety of assignments, including essays, research papers, case studies, dissertations, and lab reports. Our team of experts is equipped to handle assignments across different academic disciplines.</p>
-									</div>
+									<P>We assist Malaysian students with a variety of assignments, including essays, research papers, case studies, dissertations, and lab reports. Our team of experts is equipped to handle assignments across different academic disciplines.</P> 
+										</div>
 								</div>
 							</div>
 						</li>
 						
 						<li class="accordion block">
-							<div class="acc-btn">3. Are there specific academic requirements for assignments in Malaysia?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. Are there specific academic requirements for assignments in Malaysia?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p> Yes, assignments in Malaysia may require adherence to specific formatting styles and academic standards set by local universities. Providing clear instructions and guidelines helps us tailor the work to meet these requirements
-                							</p>
-									</div>
+										 <P>Yes, assignments in Malaysia may require adherence to specific formatting styles and academic standards set by local universities. Providing clear instructions and guidelines helps us tailor the work to meet these requirements</P>
+										</div>
 								</div>
 							</div>
 						</li>
 
 						<li class="accordion block">
-							<div class="acc-btn">4. How can I ensure my homework is done correctly in Malaysia?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. How can I ensure my homework is done correctly in Malaysia?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>To ensure your homework is done correctly, provide detailed instructions and any specific guidelines when placing your order. Our experienced writers in Malaysia will follow these instructions closely to deliver accurate and high-quality work.
-										</p>
+									 <p>To ensure your homework is done correctly, provide detailed instructions and any specific guidelines when placing your order. Our experienced writers in Malaysia will follow these instructions closely to deliver accurate and high-quality work.</p>
 									</div>
 								</div>
 							</div>
 						</li>
-						
 						<li class="accordion block">
-							<div class="acc-btn">5. What is the process for getting help with a research paper in Malaysia?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. What is the process for getting help with a research paper in Malaysia?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>To get help with a research paper, submit your research topic, requirements, and deadlines through our platform. We will assign a writer with expertise in your field to conduct thorough research and produce a well-structured paper that meets Malaysian academic standards.
-										</p>
-									</div>
+										 <P>To get help with a research paper, submit your research topic, requirements, and deadlines through our platform. We will assign a writer with expertise in your field to conduct thorough research and produce a well-structured paper that meets Malaysian academic standards.</P>
+										</div>
 								</div>
 							</div>
 						</li>
-						
+					 
 					
-						<li class="accordion block">
-							<div class="acc-btn">6. How do you guarantee the originality of essays and research papers?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>We guarantee originality by writing essays and research papers from scratch and using advanced plagiarism detection tools to ensure each piece of work is unique and meets academic integrity standards.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						<li class="accordion block">
-							<div class="acc-btn">7. Can I get help with essay writing in Malaysia?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>Yes, we offer comprehensive essay writing help in Malaysia. Whether you need assistance with brainstorming, drafting, or final editing, our expert writers are here to help you craft a compelling and well-organized essay.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						<li class="accordion block">
-							<div class="acc-btn">8. How do I get urgent assignment help in Malaysia?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>For urgent assignment help in Malaysia, contact us as soon as possible. We offer expedited services to ensure your assignment is completed on time, even under tight deadlines, without compromising quality.
-
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">9. What should I do if I need revisions for my assignment or essay in Malaysia?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>If you need revisions for your assignment or essay, request them through our platform. We offer free revisions to ensure the final work meets all your requirements and academic expectations.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">10. How can I track the progress of my homework, assignment, or research paper?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>You can track the progress of your homework, assignment, or research paper through regular updates on our secure platform. You also have the option to communicate directly with your writer for any additional instructions or updates.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-					
-						
 					</ul>
-						
-					       </div>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					  
+						 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. How do you guarantee the originality of essays and research papers?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We guarantee originality by writing essays and research papers from scratch and using advanced plagiarism detection tools to ensure each piece of work is unique and meets academic integrity standards.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+							 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. Can I get help with essay writing in Malaysia?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, we offer comprehensive essay writing help in Malaysia. Whether you need assistance with brainstorming, drafting, or final editing, our expert writers are here to help you craft a compelling and well-organized essay.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. How do I get urgent assignment help in Malaysia?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>For urgent assignment help in Malaysia, contact us as soon as possible. We offer expedited services to ensure your assignment is completed on time, even under tight deadlines, without compromising quality.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">9. What should I do if I need revisions for my assignment or essay in Malaysia?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>If you need revisions for your assignment or essay, request them through our platform. We offer free revisions to ensure the final work meets all your requirements and academic expectations.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">10. How can I track the progress of my homework, assignment, or research paper?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>You can track the progress of your homework, assignment, or research paper through regular updates on our secure platform. You also have the option to communicate directly with your writer for any additional instructions or updates.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
 					
-			              	</div>
-		               
-	</section>
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
+
+
 @endsection

@@ -1131,146 +1131,175 @@
 					</div>
 				</div>
 			 </section>
+             <!-- new section -->
 
+			<section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
-
-
-
-
- 
- 
-
-       	 <!-- FAQs Question  section for  homework writing -->
-	   
-	 <section class="faq-section">
-		<div class="auto-container">
-			<div class="row clearfix">
-				<div class="column col-lg-12 col-md-12 col-sm-12">
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Quick & Affordable Online Homework Help Services around the World</h2>
+					<div class="text">
+					  <p>At Assignment in Need, fast and affordable online homework writing help services support students in the UAE, Spain, the UK, Australia, Canada, and Malaysia. With over 45,000 assignments delivered and an impressive 98% recurring client rate, the platform is a trusted choice for academic assistance. Balancing academic work with personal life can be challenging, which is why their expert team is dedicated to lightening the load. Skilled writers cover a wide range of subjects, providing custom assignments tailored to individual needs. Whether facing tight deadlines or complex topics, Assignment in Need ensures timely, high-quality homework solutions that keep students aligned with their academic goals.</p>
 					</div>
-					<ul class="accordion-box">
-						 <li class="accordion block">
-							<div class="acc-btn">1. How can you assist with my homework?<div class="icon fa fa-angle-down"></div></div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+ 
+ <!-- FAQs Question  section for homework writing -->
+ 
+	        
+ <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Homework Writing Help Services</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. How can you assist with my homework?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="display: none;">
 								<div class="content">
 									<div class="text">
-										<p>We provide assistance with various types of homework by offering help with understanding the assignment, completing tasks, and providing detailed explanations. Our experts ensure that your homework meets the required standards and deadlines.</p>
-									</div>
+										 <P>We provide assistance with various types of homework by offering help with understanding the assignment, completing tasks, and providing detailed explanations. Our experts ensure that your homework meets the required standards and deadlines.</P>
+										</div>
 								</div>
 							</div>
 						</li>
-						<li class="accordion block active-block">
-							<div class="acc-btn active">2. What types of homework can you help with?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content current" style="display: block;">
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What types of homework can you help with?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
 								<div class="content">
 									<div class="text">
-										<p>We can help with a wide range of homework, including math problems, essays, research assignments, science projects, and more. Our experts are skilled in various subjects and academic levels.</p>
+										 <P>We can help with a wide range of homework, including math problems, essays, research assignments, science projects, and more. Our experts are skilled in various subjects and academic levels.</P>
 									</div>
 								</div>
 							</div>
 						</li>
 						
 						<li class="accordion block">
-							<div class="acc-btn">3. Can I get help with homework on a tight deadline?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. Can I get help with homework on a tight deadline?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-                						Yes, we offer urgent homework help services. Specify your deadline when placing an order, and we will prioritize your request to ensure timely completion without sacrificing quality
-                							</p>
+										 <P>Yes, we offer urgent homework help services. Specify your deadline when placing an order, and we will prioritize your request to ensure timely completion without sacrificing quality</P>
 									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. How do you ensure that my homework is original and free from plagiarism?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We guarantee originality by completing your homework from scratch and using plagiarism detection tools to verify that the work is unique. We also provide a plagiarism report if needed.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. Can I request revisions if the homework doesn't meet my expectations?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, you can request revisions if the homework does not meet your expectations. We offer revision services to make necessary adjustments based on your feedback.</P>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. How do you match me with a homework helper?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										<P>We match you with a homework helper based on the subject, academic level, and specific requirements of your assignment. Our team reviews your request to ensure you are paired with an expert suited to your needs</P>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. What should I provide to get help with my homework?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										<P>Provide details about your homework assignment, including the topic, instructions, and deadline. Any additional materials or notes will help our experts complete the task effectively </P>
+										</div>
 								</div>
 							</div>
 						</li>
 
 						<li class="accordion block">
-							<div class="acc-btn">4. How do you ensure that my homework is original and free from plagiarism?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. Can I communicate with the person helping with my homework?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-								We guarantee originality by completing your homework from scratch and using plagiarism detection tools to verify that the work is unique. We also provide a plagiarism report if needed.
-										</p>
-									</div>
+										<P>Yes, you can communicate with your homework helper through our platform. This allows you to provide updates, ask questions, and discuss any specific requirements.</P>
+										</div>
 								</div>
 							</div>
 						</li>
-						
+							 
 						<li class="accordion block">
-							<div class="acc-btn">5. Can I request revisions if the homework doesn't meet my expectations?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">9. What if I need help with multiple subjects or assignments?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>										
-                                          Yes, you can request revisions if the homework does not meet your expectations. We offer revision services to make necessary adjustments based on your feedback.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">6. How do you match me with a homework helper?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-								We match you with a homework helper based on the subject, academic level, and specific requirements of your assignment. Our team reviews your request to ensure you are paired with an expert suited to your needs
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-							<li class="accordion block">
-							<div class="acc-btn">7. What should I provide to get help with my homework?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-								Provide details about your homework assignment, including the topic, instructions, and deadline. Any additional materials or notes will help our experts complete the task effectively
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-							<li class="accordion block">
-							<div class="acc-btn">8. Can I communicate with the person helping with my homework?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-							Yes, you can communicate with your homework helper through our platform. This allows you to provide updates, ask questions, and discuss any specific requirements.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-							<li class="accordion block">
-							<div class="acc-btn">9. What if I need help with multiple subjects or assignments?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-						We can assist with multiple subjects or assignments. Just specify your needs for each task, and we will ensure you receive support from experts in the relevant fields.
-										</p>
-									</div>
+										<P>We can assist with multiple subjects or assignments. Just specify your needs for each task, and we will ensure you receive support from experts in the relevant fields.</P>
+										</div>
 								</div>
 							</div>
 						</li>
 					
-						
-						
-					
-			</ul> 
+					</ul>
 					
 				</div>
-			
-				
-			</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
 		</div>
-</section>
- 
- 
+		 
+   </section> 
         
 @endsection

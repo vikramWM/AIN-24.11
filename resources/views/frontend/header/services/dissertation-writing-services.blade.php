@@ -1177,112 +1177,162 @@
 				</div>
 			 </section>
 
+               <!-- new section -->
 
-	 
-       	 <!-- FAQs Question  section for canada -->
- 
-	        <section class="faq-section">
-		     <div class="auto-container">
-			  <div class="row clearfix">
-				<div class="column col-lg-12 col-md-12 col-sm-12">
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
+			<section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Trusted Dissertation Writing Help Services Worldwide</h2>
+					<div class="text">
+						 <p>Assignment in Need offers trustworthy dissertation writing help services to students in Australia, Canada, Malaysia, UAE, Spain, and the UK. Backed by 98% recurring clients and a team of 3,000+ PhD experts, they provide comprehensive support for every stage of the dissertation journey. Whether it’s selecting a topic, conducting a literature review, analysing data, or polishing the final draft, Our custom services are tailored to your needs. Their commitment to originality and academic integrity ensures high-quality work, while strict adherence to deadlines makes the dissertation process smoother. With Assignment in Need, students can achieve their educational goals confidently and successfully.</p>
 					</div>
-					<ul class="accordion-box">
-					<li class="accordion block">
-							<div class="acc-btn">1. How can your service help me with my dissertation? <div class="icon fa fa-angle-down"></div></div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+	 
+        
+     
+			 <!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+			 <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Dissertation Writing Help Services</b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. How can your service help me with my dissertation? <div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="display: none;">
 								<div class="content">
 									<div class="text">
-										<p>Our service can help you with every stage of your dissertation, from selecting a topic and conducting research to writing, editing, and formatting. Our experts provide guidance and support to ensure your dissertation meets academic standards and helps you achieve your academic goals.</p>
+										<p>Our service can help you with every stage of your dissertation, from selecting a topic and conducting research to writing, editing, and formatting. Our experts provide guidance and support to ensure your dissertation meets academic standards and helps you achieve your academic goals. </p>
 									</div>
 								</div>
 							</div>
 						</li>
-						<li class="accordion block active-block">
-							<div class="acc-btn active">2. Do you have experts in my field of study to assist with my dissertation? <div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content current" style="display: block;">
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. Do you have experts in my field of study to assist with my dissertation?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
 								<div class="content">
 									<div class="text">
-										<p>Yes, we have experts across a wide range of fields and disciplines. Our team includes professionals with advanced degrees who are well-versed in various subjects, ensuring that we can match you with an expert in your specific field of study.</p>
+										<p>Yes, we have experts across a wide range of fields and disciplines. Our team includes professionals with advanced degrees who are well-versed in various subjects, ensuring that we can match you with an expert in your specific field of study. </p>
 									</div>
 								</div>
 							</div>
 						</li>
 						
 						<li class="accordion block">
-							<div class="acc-btn">3. What if I need revisions for my dissertation?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. What if I need revisions for my dissertation?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-								We offer a revision policy that allows you to request changes to your dissertation if it does not meet your expectations. Our experts will make the necessary adjustments based on your feedback to ensure you are satisfied with the final product.</p>
+										<p>We offer a revision policy that allows you to request changes to your dissertation if it does not meet your expectations. Our experts will make the necessary adjustments based on your feedback to ensure you are satisfied with the final product. </p>
 									</div>
 								</div>
 							</div>
 						</li>
 
 						<li class="accordion block">
-							<div class="acc-btn">4. Can you get help writing a dissertation?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. Can you get help writing a dissertation?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-									Yes, you can get comprehensive help with writing your dissertation from our expert team. We assist with everything from topic selection and research to writing, editing, and formatting to ensure your dissertation meets academic standards.
-										</p>
+										<p>Yes, you can get comprehensive help with writing your dissertation from our expert team. We assist with everything from topic selection and research to writing, editing, and formatting to ensure your dissertation meets academic standards. </p>
 									</div>
 								</div>
 							</div>
 						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">5. Can I get someone to write my dissertation?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>										
-                                            Yes, our professional writers can help write your dissertation. We have experienced experts in various fields who can craft a high-quality dissertation tailored to your specific requirements and academic guidelines.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">6. What is the best dissertation help website?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-									While we believe our website offers top-notch dissertation help, it's important to choose a service that meets your specific needs. Look for features such as qualified experts, originality guarantees, timely delivery, and positive reviews to determine the best fit for you.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">7. I wil already written my dissertation – can you help me with proofreading?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>										
-                                            Absolutely! We offer proofreading and editing services to help refine your dissertation. Our experts will review your work for grammatical errors, coherence, and adherence to academic standards to ensure it is polished and ready for submission.
-										</p>
-									</div>
-								</div>
-							</div>
-						   </li>
 						
 					 
-					       </ul>
 					
-				            </div>
-			 
-			                   </div>
-		                </div>
-            </section>
-     
+					</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. Can I get someone to write my dissertation?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										<p>Yes, our professional writers can help write your dissertation. We have experienced experts in various fields who can craft a high-quality dissertation tailored to your specific requirements and academic guidelines.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. What is the best dissertation help website?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										<p>While we believe our website offers top-notch dissertation help, it's important to choose a service that meets your specific needs. Look for features such as qualified experts, originality guarantees, timely delivery, and positive reviews to determine the best fit for you.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. I wil already written my dissertation – can you help me with proofreading?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										<p>Absolutely! We offer proofreading and editing services to help refine your dissertation. Our experts will review your work for grammatical errors, coherence, and adherence to academic standards to ensure it is polished and ready for submission.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+							 
+						
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
        
    <!-- as it is -->
    <script>

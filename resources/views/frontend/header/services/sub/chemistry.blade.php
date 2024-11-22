@@ -758,103 +758,153 @@
 			</div>
 		</div>
 	</section>
+	<!-- new section -->
 
-       	 <!-- FAQs Question  section for chemistry -->
-	 
-           
-	 <section class="faq-section">
-		<div class="auto-container">
-			<div class="row clearfix">
-				<div class="column col-lg-12 col-md-12 col-sm-12">
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-					</div>
-					<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. Where does your company provide services?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Our company Assignment In need offers services in various countries, including the United Kingdom (specifically London, Birmingham and Manchester), Australia, Spain, Malaysia, the United Arab Emirates (UAE), and Canada. These locations are chosen to ensure that we can provide comprehensive support to our clients across different regions</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. What types of chemistry assignments can you help with?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>We can help with various types of chemistry assignments, such as balancing equations, understanding chemical reactions, solving problems like stoichiometry, studying organic chemistry concepts, and writing lab reports or research papers.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. How do I get started with your chemistry assignment help?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>All you have to do to get started is first by contacting us. You can do this through our email and website. Then tell us about your chemistry assignment help online requirements along with the deadline. Once done we’ll match you with one of our chemistry experts that specializes in your field and they’ll contact you. </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. Can I get help with both theoretical and practical chemistry assignments?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Whether you need help with understanding complex chemistry concepts or conducting experiments. Our experts are highly skilled in both theoretical and practical chemistry and are always ready to assist you.	</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. What if I need help with a last-minute assignment?
-                                    <div class="icon fa fa-angle-down">
+	<section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Best Online Chemistry Assignment Writing Help Worldwide</h2>
+					  <div class="text">
+						 <p>Assignment in Need offers online chemistry assignment writing help that stands out, with a 4.5 rating and 98% recurring clients attesting to their quality and reliability. Dedicated experts provide support to students in Australia, Canada, UAE, UK, Malaysia, and Spain. Whether it’s organic chemistry, physical chemistry, or any other topic, the team is ready to guide students through every step of the process. Understanding the challenges faced by learners, they provide personalised assistance tailored to individual needs. With round-the-clock help, on-time delivery, and professional support, improving grades and mastering complex chemistry concepts becomes achievable. Students can trust Assignment in Need to simplify their chemistry assignments, no matter where they are.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+
+       	  
+ <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+ <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Chemistry Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. Where does your company provide services?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Our company Assignment In need offers services in various countries, including the United Kingdom (specifically London, Birmingham and Manchester), Australia, Spain, Malaysia, the United Arab Emirates (UAE), and Canada. These locations are chosen to ensure that we can provide comprehensive support to our clients across different regions</P>
+										</div>
                                     </div>
                                 </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Don't worry if you have last-minute assignments, all you have to do is contact us as soon as possible with all the required details. We’ll do our best to accelerate our process to ensure your assignment gets completed on time without compromising on the quality of the work.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
+                            </li>
                             <li class="accordion block">
-								<div class="acc-btn">6. How do I communicate with the expert working on my assignment?	<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Once we match you with our experts, you can directly communicate with them through secure platforms. 
-                                            </p>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. What types of chemistry assignments can you help with?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>We can help with various types of chemistry assignments, such as balancing equations, understanding chemical reactions, solving problems like stoichiometry, studying organic chemistry concepts, and writing lab reports or research papers.</P>
 										</div>
-									</div>
-								</div>
-							</li>
-
+                                    </div>
+                                </div>
+                            </li>
                             <li class="accordion block">
-								<div class="acc-btn">7. Do you offer any discounts or promotions for first-time users?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes we do offer some amazing discounts and promotions, currently we are offering 40% off on our services. Please check out offers for more info and such offers.</p>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. How do I get started with your chemistry assignment help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <P>All you have to do to get started is first by contacting us. You can do this through our email and website. Then tell us about your chemistry assignment help online requirements along with the deadline. Once done we'll match you with one of our chemistry experts that specializes in your field and they'll contact you.</P>
 										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
+                                    </div>
+                                </div>
+                            </li>
+							<li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Can I get help with both theoretical and practical chemistry assignments?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                            <P>Whether you need help with understanding complex chemistry concepts or conducting experiments. Our experts are highly skilled in both theoretical and practical chemistry and are always ready to assist you.</P>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+						 
+                  	</ul>
 					
 				</div>
 			
-				
-			</div>
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. What if I need help with a last-minute assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <P>Don't worry if you have last-minute assignments, all you have to do is contact us as soon as possible with all the required details. We'll do our best to accelerate our process to ensure your assignment gets completed on time without compromising on the quality of the work.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">6. How do I communicate with the expert working on my assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Once we match you with our experts, you can directly communicate with them through secure platforms.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border" style="font-weight:500; font-size: 20px;; color:black">7. Do you offer any discounts or promotions for first-time users?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <P>Yes we do offer some amazing discounts and promotions, currently we are offering 40% off on our services. Please check out offers for more info and such offers.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+						
+					 
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
 		</div>
-</section>
+		 
+   </section> 
  
 @endsection

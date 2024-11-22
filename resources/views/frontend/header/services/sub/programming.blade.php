@@ -749,83 +749,132 @@
                 </div>
             </div>
          </section>
+		 <!-- new section -->
 
-          	 <!-- FAQs Question  section for programing -->
-            <section class="faq-section">
-                <div class="auto-container">
+		 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
                     <div class="row clearfix">
-                        <div class="column col-lg-12 col-md-12 col-sm-12">
-                              <div class="title-box">
-                                <h2 style="font-weight:500; font-size:30px; color:black;" >Frequently asked questions</h2>   
-                                </div>
-                                <ul class="accordion-box">
-                                    <li class="accordion block">
-                                        <div class="acc-btn">1. Where Can I Get Help for Programming?<div class="icon fa fa-angle-down"></div></div>
-                                        <div class="acc-content">
-                                            <div class="content">
-                                                <div class="text">
-                                                    <p><b>Programming assignment help </b> is right at your fingertips with Assignment In Need. Our team of experts is primed to assist with a plethora of programming languages.
-                                                    </p>
-                                                    <p>Our support covers different topics to ensure you get the help needed. Contact us to solve your programming challenges. Together, we tackle every aspect of your assignments. Don't struggle alone; let us provide the support you require.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="accordion block">
-                                        <div class="acc-btn">2. How Long Will it Take to Complete a Task?
-                                        <div class="icon fa fa-angle-down"></div></div>
-                                        <div class="acc-content">
-                                            <div class="content">
-                                                <div class="text">
-                                                    <p>The time to complete a programming assignment depends on its complexity and length. We aim to finish all tasks within the agreed timeframe to deliver your assignment quickly. For urgent requests, we offer fast-track services to meet tight deadlines.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="accordion block">
-                                        <div class="acc-btn">3. Looking for the Best Online Programming Assignment Help? Try Assignment In Need!
-                                        <div class="icon fa fa-angle-down"></div></div>
-                                        <div class="acc-content">
-                                            <div class="content">
-                                                <div class="text">
-                                                    <p>Assignment In Need stands as a leading website for  <b>online programming assignment help </b>. We offer high-quality, reliable, and affordable assistance tailored to meet your specific needs. Access top-notch support from our team of experts for your programming assignments.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="accordion block">
-                                        <div class="acc-btn">4. Where to Find Programming Assignment Help?<div class="icon fa fa-angle-down"></div></div>
-                                         <div class="acc-content">
-                                            <div class="content">
-                                                <div class="text">
-                                                    <p>At Assignment In Need, we provide complete help with programming assignments. Explore our website to find detailed information about the services we offer. Our team assists you with various programming tasks, ensuring clarity and support. Navigate through our offerings to understand how we can aid your assignments.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                         </div>
-                                    </li>
-                                    <li class="accordion block">
-                                        <div class="acc-btn">5. Who Can Do My Programming Assignment?
-                                        <div class="icon fa fa-angle-down"></div></div>
-                                            <div class="acc-content">
-                                                <div class="content">
-                                                    <div class="text">
-                                                        <p>At Assignment In Need, our expert tutors tackle your programming assignments with exacting precision. We bring deep knowledge and extensive experience in a wide array of programming languages to the table. Trust us to get your assignments done right. Upholding the highest standards is our promise.
-                                                        </p>
-                                                    </div>
-                                                 
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                         
-                    </div>
-                </div>
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-6 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Best Online Programming Assignment Writing Help for Students around the Globe</h2>
+					  <div class="text">
+						 <p>Assignment In Need provides top-tier programming assignment writing help to students in Canada, Malaysia, UAE, Spain, the UK, and Australia. With a remarkable track record of 30,000+ happy clients and 9 out of 10 students reporting better grades, they deliver assignments that meet the highest academic standards, regardless of complexity. Their support spans a variety of programming languages, including Python, Java, and C++, as well as areas like iOS and Android app development. Backed by knowledgeable tutors who understand the challenges of international studies, they offer 24/7 assistance to ensure a seamless experience. Choosing Assignment In Need means partnering with a reliable service dedicated to your academic success in programming.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-6 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
             </section>
+
+            <!-- end new section -->  
+
+          	 
+             	  <!-- FAQs Question  section for Expert Assignment Writing Help -->
  
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Programming Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. Where Can I Get Help for Programming?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Programming assignment help is right at your fingertips with Assignment In Need. Our team of experts is primed to assist with a plethora of programming languages.</P>
+									    <P>Our support covers different topics to ensure you get the help needed. Contact us to solve your programming challenges. Together, we tackle every aspect of your assignments. Don't struggle alone; let us provide the support you require.</P>
+									</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. How Long Will it Take to Complete a Task?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>The time to complete a programming assignment depends on its complexity and length. We aim to finish all tasks within the agreed timeframe to deliver your assignment quickly. For urgent requests, we offer fast-track services to meet tight deadlines.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. Looking for the Best Online Programming Assignment Help? Try Assignment In Need! <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>Assignment In Need stands as a leading website for online programming assignment help . We offer high-quality, reliable, and affordable assistance tailored to meet your specific needs. Access top-notch support from our team of experts for your programming assignments.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Where to Find Programming Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                       <P>At Assignment In Need, we provide complete help with programming assignments. Explore our website to find detailed information about the services we offer. Our team assists you with various programming tasks, ensuring clarity and support. Navigate through our offerings to understand how we can aid your assignments.</P>
+									</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. Who Can Do My Programming Assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                       <P>At Assignment In Need, our expert tutors tackle your programming assignments with exacting precision. We bring deep knowledge and extensive experience in a wide array of programming languages to the table. Trust us to get your assignments done right. Upholding the highest standards is our promise.</P>
+									</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
  
 @endsection

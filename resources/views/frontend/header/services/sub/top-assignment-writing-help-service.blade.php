@@ -853,71 +853,128 @@
             </div>
           </section>
 
+              
+           <!-- new section -->
 
+			<section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Assignment in Need- Top Assignment Writing Help Service for Students Worldwide</h2>
+					<div class="text">
+						 <p>At Assignment in Need, providing assignment writing help to students is what we do. Studying in Australia, UAE, UK, Spain, Malaysia, or Canada? Our team of skilled writers stands ready to assist you. Knowing the difficulties students encounter, like tight deadlines and tough topics, drives our focus to offer personalised help that suits your needs. Our 30000+ Happy Clients get Our Services Worldwide. Each assignment gets thorough research and careful writing from our experienced writers. For students seeking the top assignment writing help service, we aim to make academic success easier through affordable services that help lower stress and improve your grades. No matter the subject or type of assignment, Assignment in Need is committed to delivering results that meet expectations, with 98.2% of orders arriving timely.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
 
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
 
+		</div>
+	</div>
+            </section>
 
+            <!-- end new section -->
+ 
 
-     <!-- FAQs Question  section     -->
-     <section class="faq-section">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="column col-lg-12 col-md-12 col-sm-12">
-                        <div class="title-box">
-                            <h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-                        </div>
-
-                   <ul class="accordion-box">
-                            <li class="accordion block">
-                        <div class="acc-btn">1. Which is the best assignment writing service? <div class="icon fa fa-angle-down"></div></div>
-                          <div class="acc-content">
+      <!-- FAQs Question  section for Top Assignment Writing Help Service -->
+ 
+	        
+	 <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For top Assignment Writing Help Service</b></h2>  
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. Which is the best assignment writing service?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                     <p>The best assignment writing service is one that delivers high-quality, original work tailored to your specific needs. Look for services that offer a team of qualified subject experts, timely delivery, and strong customer support. A reliable service will also provide plagiarism-free guarantees and revisions to ensure your satisfaction. Some top options include platforms like Write Right, AcademicExperts, and GradeMiners, which are known for their professionalism, expertise, and student-friendly pricing.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="accordion block">
-                        <div class="acc-btn">2.  Who offers the top assignment writing help for students? <div class="icon fa fa-angle-down"></div></div>
-                        <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                       <p>Several services are known for offering top assignment help to students worldwide. Some of the leading names include Write Right for its personalized approach, EssayPro for its flexibility, and PaperHelp for its excellent customer service. These platforms offer comprehensive academic support for all levels, whether it's a simple essay or an in-depth dissertation, ensuring students get the assistance they need to meet their academic goals.</p>
+                                       <P>The best assignment writing service is one that delivers high-quality, original work tailored to your specific needs. Look for services that offer a team of qualified subject experts, timely delivery, and strong customer support. A reliable service will also provide plagiarism-free guarantees and revisions to ensure your satisfaction. Some top options include platforms like Write Right, AcademicExperts, and GradeMiners, which are known for their professionalism, expertise, and student-friendly pricing.</P>
+									</div>
                                     </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="accordion block">
-                        <div class="acc-btn">3. Do you offer discounts or special offers?<div class="icon fa fa-angle-down"></div></div>
-                        <div class="acc-content">
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. Who offers the top assignment writing help for students?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                     <p>Yes, we often run exclusive offers and discounts to make our services even more affordable for students! These can include seasonal discounts, bulk order offers like getting a free assignment when you order multiple, and referral bonuses when you introduce friends to our services. Be sure to check our website regularly for the latest promotions and offers!</p>
+                                          <P>Several services are known for offering top assignment help to students worldwide. Some of the leading names include Write Right for its personalized approach, EssayPro for its flexibility, and PaperHelp for its excellent customer service. These platforms offer comprehensive academic support for all levels, whether it's a simple essay or an in-depth dissertation, ensuring students get the assistance they need to meet their academic goals.</P>
+										</div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="accordion block">
-                        <div class="acc-btn">4.  Is my personal information safe with you? <div class="icon fa fa-angle-down"></div></div>
-                        <div class="acc-content">
+                            </li>
+                          
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+					<li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. Do you offer discounts or special offers?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                    <p> Absolutely! We take your privacy and confidentiality very seriously. All personal information you share with us is kept secure and is never shared with third parties. We use encrypted systems to protect your data, and all interactions are strictly confidential. Your safety and trust are our top priorities.</p>
-                              
+                                         <P>Yes, we often run exclusive offers and discounts to make our services even more affordable for students! These can include seasonal discounts, bulk order offers like getting a free assignment when you order multiple, and referral bonuses when you introduce friends to our services. Be sure to check our website regularly for the latest promotions and offers!</P>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Is my personal information safe with you?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>Absolutely! We take your privacy and confidentiality very seriously. All personal information you share with us is kept secure and is never shared with third parties. We use encrypted systems to protect your data, and all interactions are strictly confidential. Your safety and trust are our top priorities.</P>
+										</div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                    </li>
-                    
-                  </ul>
-                </div>
-            </div>
-        </div>
-      </section>
+                            </li>
+						
+					 
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
 
-
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
  
         
       

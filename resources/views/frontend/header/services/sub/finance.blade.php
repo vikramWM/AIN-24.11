@@ -742,7 +742,7 @@
                 <div class="section color-layer"></div>
                 <h2 style="font-weight:500; font-size:30px; color:black" class="my-4"> How to Place an Online Order to Finance Assignment Help?
                 </h2>
-                 <p>Getting<b> online finance assignment help</b>is easy! Simply follow these steps:
+                 <p>Getting<b> online finance assignment help</b> is easy! Simply follow these steps:
 				 </p>
 				 <h3>Send Finance Assignment Help Online
 				 </h3>
@@ -763,87 +763,132 @@
       </div>
      </section>
   
+     <!-- new section -->
+
+	  <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Finance Assignment Writing Help Online For the Students around the World</h2>
+					  <div class="text">
+						 <p>Assignment In Need offers expert finance assignment writing help to students in Spain, Australia, Canada, UAE, the UK, and Malaysia. Backed by an impressive 98% recurring client rate and a 4.5 rating, they understand the challenges finance students face. From budgeting and investments to advanced topics like financial modelling and behavioural finance, their skilled team provides personalised support. Their solutions are not only accurate but also designed to enhance students' understanding of finance. Whether it's corporate finance or government budget analysis, Assignment In Need ensures access to expert advice and the latest financial trends, equipping students with the right tools to excel.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->  
     
-    
-           	 <!-- FAQs Question  section for cs -->
-     <section class="faq-section">
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="colum col-lg-12 col-md-12 col-sm-12">
-                    <div class="title-box">
-                        <h2 style="font-weight:500; font-size:30px; color:black" class="my-4"> Frequently Asked Questions
-                        </h2>
-                        <ul class="accordion-box">
-                            <li class="accordion block">
-                                <div class="acc-btn">1. Do You Offer Personalized Assistance for Finance Assignments?
-                                <div class="icon fa fa-angle-down"></div></div>
-                                <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            <p> Absolutely! We understand that every assignment is unique. Our finance experts will work closely with you, customising their  <b>finance assignment writing help services</b> based on your specific topic and deadline. They align their support with your professor's requirements.
-											</p>
-											<p>Got questions? Complex ideas will be explained thoroughly. We ensure your assignment reflects a deep understanding.
-											</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="accordion block">
-                               <div class="acc-btn">2. What Types of Finance Assignments Do You Assist with?  <div class="icon fa fa-angle-down"></div></div>
-                                <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            <p> We offer complete support for all finance topics! Working on corporate finance, public finance, or investment analysis? We've got experts to assist you. Need help with financial modelling or any other finance course? Our team is ready to guide you. We cover corporate finance, public finance, and investment analysis, ensuring comprehensive support. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="accordion block">
-                                <div class="acc-btn">3. Who Offers the Best Finance Assignment Help Services?
- 
-                                <div class="icon fa fa-angle-down"></div></div>
-                                <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            <p>At Assignment In Need, we focus on quality and personalised service. Experience matters, and our finance professionals prove it. Not just answers, we provide comprehension. Understanding concepts is central to our approach. Strong, well-researched assignments are our hallmark.
-											</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="accordion block">
-                                <div class="acc-btn">4. How Can I Get Finance Assignment Help?
- 
-                                <div class="icon fa fa-angle-down"></div></div>
-                                <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            <p> Getting started is easy! Share your assignment details on our website. Mention the topic, deadline, and specific requirements. Once submitted, one of our experts will contact you. We’ll discuss your needs and offer a personalised quote. No fuss, just straightforward assistance.
-											</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="accordion block">
-                                <div class="acc-btn">5. Can You Help with Complex Financial Calculations and Modelling?
- 
-                                <div class="icon fa fa-angle-down"></div></div>
-                                <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            <p>Yes, we can help! Our finance experts excel in various financial modelling techniques and software. Complex calculations? We break them down for you. Creating accurate financial models is our specialty. We make sure you understand the results for your assignment.
-											</p>
-                                             
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-     </section>
+       
         
+   	  <!-- FAQs Question  section for Expert Assignment Writing Help -->
  
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Finance Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. Do You Offer Personalized Assistance for Finance Assignments?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Absolutely! We understand that every assignment is unique. Our finance experts will work closely with you, customising their finance assignment writing help services based on your specific topic and deadline. They align their support with your professor's requirements.</P>
+									   <P>Got questions? Complex ideas will be explained thoroughly. We ensure your assignment reflects a deep understanding.</P>
+									</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. What Types of Finance Assignments Do You Assist with?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>We offer complete support for all finance topics! Working on corporate finance, public finance, or investment analysis? We've got experts to assist you. Need help with financial modelling or any other finance course? Our team is ready to guide you. We cover corporate finance, public finance, and investment analysis, ensuring comprehensive support.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. Who Offers the Best Finance Assignment Help Services? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>At Assignment In Need, we focus on quality and personalised service. Experience matters, and our finance professionals prove it. Not just answers, we provide comprehension. Understanding concepts is central to our approach. Strong, well-researched assignments are our hallmark.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. How Can I Get Finance Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                       <P>Getting started is easy! Share your assignment details on our website. Mention the topic, deadline, and specific requirements. Once submitted, one of our experts will contact you. We'll discuss your needs and offer a personalised quote. No fuss, just straightforward assistance.</P>
+									</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. Can You Help with Complex Financial Calculations and Modelling?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Yes, we can help! Our finance experts excel in various financial modelling techniques and software. Complex calculations? We break them down for you. Creating accurate financial models is our specialty. We make sure you understand the results for your assignment.</P>
+									</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
 @endsection

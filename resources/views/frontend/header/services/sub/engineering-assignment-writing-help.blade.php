@@ -1078,75 +1078,133 @@
                     </div>
                 </div>
               </section>
+            <!-- new section -->
 
+	  <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Assignment in Need- Online Engineering Assignment Writing Help Services across the World</h2>
+					  <div class="text">
+						  <p>Assignment In Need provides comprehensive engineering assignment writing help to students in Malaysia, Spain, Australia, Canada, UAE, and the UK. With a strong record of 30,000+ happy clients and 9 out of 10 students reporting better grades, they make achieving academic goals easier. Their team of qualified experts specialises in various engineering fields, including civil, electrical, mechanical, and more. Focused on affordability and convenience, they ensure personalised, secure, and plagiarism-free support tailored to individual needs. Each assignment is well-researched, clear, and meets academic standards, with unlimited revisions available to guarantee satisfaction. Assignment In Need is here to simplify engineering assignments and help students excel.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
               
-		  <!-- Frequently asked questions -->
-                   <section class="faq-section">
-                    <div class="auto-container">
-                        <div class="row clearfix">
-                            <div class="column col-lg-12 col-md-12 sm-12">
-                               <div class="title-box">
-                                <h2 style="font-size:30px; color:black; font-weight:500;">Frequently asked questions</h2>
-                               </div>
-                               <ul class="accordion-box">
-                                <li class="accordion block">
-                                 <div class="acc-btn">1. Can you help me with engineering coursework?<div class="icon fa fa-angle-down"></div></div>
-                                 <div class="acc-content">
+		  
+
+             	  <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Computer Engineering Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. Can you help me with engineering coursework?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                            <p>Absolutely! We specialize in helping students with all types of engineering coursework. Whether you're struggling with a tough project, need help understanding complex concepts, or just want to ensure your work is top-notch, we're here to assist you. Our expert writers have extensive experience in various branches of engineering, so you can be confident that your coursework will be handled with care and precision.</p>
-                                        </div>
+                                        <P>Absolutely! We specialize in helping students with all types of engineering coursework. Whether you're struggling with a tough project, need help understanding complex concepts, or just want to ensure your work is top-notch, we're here to assist you. Our expert writers have extensive experience in various branches of engineering, so you can be confident that your coursework will be handled with care and precision.</P>
+									</div>
                                     </div>
-                                 </div>
-                                </li>
-                                <li class="accordion block">
-                                    <div class="acc-btn">2. Is your service pocket-friendly? <div class="icon fa fa-angle-down"></div></div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">
-                                                <p>Yes, our services are designed to be budget-friendly for students. We understand that managing expenses while studying can be challenging, so we offer competitive pricing to ensure you get the help you need without breaking the bank. Quality help doesn’t have to come with a hefty price tag!
-                                                </p>
-                                            </div>
-                                        </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. Is your service pocket-friendly?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>Yes, our services are designed to be budget-friendly for students. We understand that managing expenses while studying can be challenging, so we offer competitive pricing to ensure you get the help you need without breaking the bank. Quality help doesn't have to come with a hefty price tag!</P>
+										</div>
                                     </div>
-                                </li>
-                                <li class="accordion block">
-                                    <div class="acc-btn">3. What are the prices for engineering assignment writing services? <div class="icon fa fa-angle-down"></div></div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">
-                                                <p>The cost of our engineering assignment writing services varies depending on factors like the complexity of the assignment, the deadline, and the length of the work. We offer a range of pricing options to fit different budgets. You can contact us for a detailed quote tailored to your specific needs.</p>
-                                            </div>
-                                        </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. What are the prices for engineering assignment writing services? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>The cost of our engineering assignment writing services varies depending on factors like the complexity of the assignment, the deadline, and the length of the work. We offer a range of pricing options to fit different budgets. You can contact us for a detailed quote tailored to your specific needs.</P>
+										</div>
                                     </div>
-                                </li>
-                                <li class="accordion block">
-                                    <div class="acc-btn">4. What is the best website for engineering assignment help? <div class="icon fa fa-angle-down"></div></div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">
-                                                <p>There are many great websites for engineering assignment help, but we believe our service stands out because of our commitment to quality, affordability, and personalized support. Our team of expert writers is dedicated to helping you achieve the best results, making us a top choice for students seeking engineering assignment help.</p>
-                                            </div>
-                                        </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. What is the best website for engineering assignment help?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>There are many great websites for engineering assignment help, but we believe our service stands out because of our commitment to quality, affordability, and personalized support. Our team of expert writers is dedicated to helping you achieve the best results, making us a top choice for students seeking engineering assignment help.</P>
+									</div>
                                     </div>
-                                </li>
-                                <li class="accordion block">
-                                    <div class="acc-btn">5. Can someone write my assignment for me? <div class="icon fa fa-angle-down"></div></div>
-                                    <div class="acc-content">
-                                        <div class="content">
-                                            <div class="text">
-                                                <p>Yes, we can! If you're feeling overwhelmed or simply need assistance, our experienced writers are ready to take on your assignment. We’ll work closely with you to understand your requirements and deliver a well-written, high-quality assignment that meets your academic standards.</p>
-                                            </div>
-                                        </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. Can someone write my assignment for me?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Yes, we can! If you're feeling overwhelmed or simply need assistance, our experienced writers are ready to take on your assignment. We’ll work closely with you to understand your requirements and deliver a well-written, high-quality assignment that meets your academic standards.</P>
+									</div>
                                     </div>
-                                </li>
-                               </ul>
-                            </div>
-                        </div>
-                    </div>
-                   </section>
+                                </div>
+                            </li>
+							 
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
 
-
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
  
  
 @endsection

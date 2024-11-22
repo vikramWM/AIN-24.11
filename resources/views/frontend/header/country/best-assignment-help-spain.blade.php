@@ -985,143 +985,147 @@
 			</div>
 		   </div>
 		 </section>
+ 
+<!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For   Assignment Writing Help in the Spain  </b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. What is the best assignment help service in Spain?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+									 <P>The best assignment help service in Spain is one that offers expert writers, timely delivery, and high-quality work tailored to Spain's academic standards. Look for services that have positive reviews and a track record of success</P>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What subjects do you cover for assignment help in Spain?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+									<P>We cover a wide range of subjects for Spain students, including literature, history, business, science, and engineering. Our diverse team of experts can assist with assignments in various academic disciplines.</P> 
+										</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. Are your assignment services available in different cities in Spain?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, our assignment services are available to students in various cities across Spain, including Madrid, Barcelona, Valencia, and more. We provide support to students regardless of their location.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. How can I be sure my assignment will be plagiarism-free?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>All assignments are written from scratch and checked using advanced plagiarism detection tools to ensure originality. We guarantee that your assignment will be unique and comply with Spain's academic standards.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. Can I get help with urgent assignments in Spain?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, we offer expedited services for urgent assignments to ensure they are completed on time. Spain students can rely on us to handle tight deadlines without compromising the quality of the work.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+					 
+					
+					</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					  
+						 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. How do I track the progress of my assignment?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Spain students can track the progress of their assignments through regular updates. We provide status reports and allow direct communication with the writer for any queries or additional instructions.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+							 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. What are the benefits of using an assignment help service in Spain?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Using an assignment help service in Spain offers benefits such as expert guidance, time-saving, improved grades, and reduced stress. Our service provides personalized support to ensure that assignments meet Spain's academic standards.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. How do I find a reliable assignment help service in Spain?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>To find a reliable assignment help service in Spain, look for services with positive reviews, experienced writers, transparent pricing, and a solid track record of delivering quality work on time.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">9. What should I consider when choosing an assignment help service in Spain?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>When choosing an assignment help service in Spain, consider factors such as the service's reputation, the qualifications of their writers, customer reviews, guarantees for quality and originality, and their ability to meet deadlines.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
 
  
-	<!-- FAQs Question  section for spain -->
-	<section class="faq-section ">
-			<div class="auto-container">
-				<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                  
-                        <div class="sec-title">							
-                        <h2>Frequently asked questions </h2>
-						</div>
-						<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. What is the best assignment help service in Spain?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-										<p>The best assignment help service in Spain is one that offers expert writers, timely delivery, and high-quality work tailored to Spain's academic standards. Look for services that have positive reviews and a track record of success</p>
-									</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. What subjects do you cover for assignment help in Spain?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-										<p>We cover a wide range of subjects for Spain students, including literature, history, business, science, and engineering. Our diverse team of experts can assist with assignments in various academic disciplines.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. Are your assignment services available in different cities in Spain?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											 <p>Yes, our assignment services are available to students in various cities across Spain, including Madrid, Barcelona, Valencia, and more. We provide support to students regardless of their location.
-											 </p> 
-
-											 </div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. How can I be sure my assignment will be plagiarism-free?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>	All assignments are written from scratch and checked using advanced plagiarism detection tools to ensure originality. We guarantee that your assignment will be unique and comply with Spain's academic standards.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-								5. Can I get help with urgent assignments in Spain?
-
-                                    <div class="icon fa fa-angle-down">
-
-                                    </div>
-                                </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, we offer expedited services for urgent assignments to ensure they are completed on time. Spain students can rely on us to handle tight deadlines without compromising the quality of the work.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">6. How do I track the progress of my assignment?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Spain students can track the progress of their assignments through regular updates. We provide status reports and allow direct communication with the writer for any queries or additional instructions.
-											</p>
-											</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">7. What are the benefits of using an assignment help service in Spain?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Using an assignment help service in Spain offers benefits such as expert guidance, time-saving, improved grades, and reduced stress. Our service provides personalized support to ensure that assignments meet Spain's academic standards.
-											</p>
-											</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="accordion block">
-								<div class="acc-btn">8. How do I find a reliable assignment help service in Spain?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>To find a reliable assignment help service in Spain, look for services with positive reviews, experienced writers, transparent pricing, and a solid track record of delivering quality work on time.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">9. What should I consider when choosing an assignment help service in Spain?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>When choosing an assignment help service in Spain, consider factors such as the service's reputation, the qualifications of their writers, customer reviews, guarantees for quality and originality, and their ability to meet deadlines.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							 
-						 
-						</ul>
-						
-					</div>
-					
-					
-				 
-			</div>
-		</section>
-	<script>
       
 	  
 	  <script>

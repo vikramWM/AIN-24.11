@@ -1354,36 +1354,66 @@
 				</div>
 			</div>
 		  </section>
+          
+                  <!-- new section -->
 
+	  <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
-	 
-	 
-
-	 
-
-	 <!-- FAQs Question  section for assingment writing -->
- 	  
-		<section class="faq-section">
-	    	<div class="auto-container">
-			<div class="row clearfix">
-				<div class="column col-lg-12 col-md-12 col-sm-12">
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Professional Assignment Writing Help Services for Students Worldwide</h2>
+					<div class="text">
+						 <p>Feeling the weight of assignments? The team at Assignment in Need understands! With a track record of 45,000+ assignments delivered and 30,000+ happy clients, they have established themselves as a trusted provider of assignment writing help for students in the UK, Australia, Canada, Malaysia, UAE, and Spain. Our subject-matter experts are ready to assist with any academic challenge, ensuring that students not only complete assignments but also gain a deeper understanding of the material through clear, step-by-step explanations. Whether it's research, writing, or organising ideas, they provide affordable support to help students excel without stress. Meeting deadlines and boosting grades isn't just their goal—it's their expertise.</p>
 					</div>
-					<ul class="accordion-box">
-						<li class="accordion block">
-							<div class="acc-btn">1. How can I get help with my assignment? <div class="icon fa fa-angle-down"></div></div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+		  <!-- FAQs Question  section for assingment writing -->
+ 	  
+		<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Assignment Writing Help Services</b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. How can I get help with my assignment? <div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="display: none;">
 								<div class="content">
 									<div class="text">
-										<p>You can get help by visiting our website and filling out the request form with your assignment details. We will then match you with an expert who can assist you.</p>
+										<p>  You can get help by visiting our website and filling out the request form with your assignment details. We will then match you with an expert who can assist you.</p>
 									</div>
 								</div>
 							</div>
 						</li>
-						<li class="accordion block active-block">
-							<div class="acc-btn active">2. What types of assignments do you assist with? <div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content current" style="display: block;">
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What types of assignments do you assist with? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
 								<div class="content">
 									<div class="text">
 										<p>We assist with a wide range of assignments including essays, research papers, case studies, lab reports, and more.</p>
@@ -1393,7 +1423,7 @@
 						</li>
 						
 						<li class="accordion block">
-							<div class="acc-btn">3. How do you ensure my assignment will be plagiarism-free?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. How do you ensure my assignment will be plagiarism-free?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
@@ -1405,7 +1435,7 @@
 						</li>
 
 						<li class="accordion block">
-							<div class="acc-btn">4. Who can help me write my assignment?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. Who can help me write my assignment?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
@@ -1417,21 +1447,19 @@
 							</div>
 						</li>
 						
-						<li class="accordion block">
-							<div class="acc-btn">5. Is there any refund guarantee in case you don't do my assignment?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>										
-                                            Yes, we offer a 120% money-back guarantee. If we miss the delivery deadline, including our minimal time frame, you will receive 120% of your money back. We aim to ensure your satisfaction with our service.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
+					 
+					
+					</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
 						
 						<li class="accordion block">
-							<div class="acc-btn">6. How do you ensure the academic quality of the assignments?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. How do you ensure the academic quality of the assignments?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
@@ -1445,7 +1473,7 @@
 						</li>
 						
 						<li class="accordion block">
-							<div class="acc-btn">7. Why should I trust your online assignment help service?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. Why should I trust your online assignment help service?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
@@ -1458,7 +1486,7 @@
 						</li>
 						
 						<li class="accordion block">
-							<div class="acc-btn">8. How can an online assignment writing service for students help in academics?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. How can an online assignment writing service for students help in academics?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
@@ -1470,7 +1498,7 @@
 							</div>
 						</li>
 							<li class="accordion block">
-							<div class="acc-btn">9. Do you offer discounts for multiple assignments?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. Do you offer discounts for multiple assignments?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
@@ -1485,13 +1513,20 @@
 					</ul>
 					
 				</div>
-			
-				
-			</div>
-		</div>
-   </section> 
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
 
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
 		 
+   </section> 
 
 	<script>
 		document.addEventListener('DOMContentLoaded', function() {

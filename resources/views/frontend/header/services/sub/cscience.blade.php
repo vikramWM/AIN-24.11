@@ -789,85 +789,134 @@
             </div>
         </div>
      </section>
+	   <!-- new section -->
+
+	   <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Computer Science Assignment Writing Help</h2>
+					  <div class="text">
+						 <p>Assignment In Need offers exceptional computer science assignment writing help to students in the UK, Malaysia, Spain, Australia, Canada, and the UAE. With a track record of 45,000+ assignments delivered and a team of 3,000+ PhD experts, they ensure every assignment is handled with expertise and precision. Delivering high-quality, plagiarism-free work, they prioritise confidentiality and offer budget-friendly pricing tailored to student needs. Their dedicated customer support team is available 24/7 to address any questions or concerns. By choosing Assignment In Need, students gain access to reliable, top-tier assistance designed to help them excel in computer science.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
     
-           	 <!-- FAQs Question  section for cs -->
-     <section class="faq-section">
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="colum col-lg-12 col-md-12 col-sm-12">
-                    <div class="title-box">
-                        <h2 style="font-weight:500; font-size:30px; color:black" class="my-4"> Frequently Asked Questions
-                        </h2>
-                        <ul class="accordion-box">
-                            <li class="accordion block">
-                                <div class="acc-btn">1.  How do I submit my computer assignment for help?
-                                <div class="icon fa fa-angle-down"></div></div>
+           
+         	 
+       	  <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Computer Science Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. How do I submit my computer assignment for help?<div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                            <p> Submitting your assignment is simple. Please visit our website, contact us, and submit the details of your assignment via email or WhatsApp. We'll take a look at your needs and provide an immediate response.
-                                            </p>
-                                        </div>
+                                        <P>Submitting your assignment is simple. Please visit our website, contact us, and submit the details of your assignment via email or WhatsApp. We'll take a look at your needs and provide an immediate response.</P>
+									</div>
                                     </div>
                                 </div>
                             </li>
                             <li class="accordion block">
-                               <div class="acc-btn">2.  How much does your computer assignment help cost? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. How much does your computer assignment help cost?<div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                            <p> The complexity and duration of the assignment determine the cost of our computer assignment help services. Upon submission of the details of the assignment, we offer competitive prices and provide a detailed quotation.
-                                            </p>
-                                        </div>
+										 <P>The complexity and duration of the assignment determine the cost of our computer assignment help services. Upon submission of the details of the assignment, we offer competitive prices and provide a detailed quotation.</P>
+										</div>
                                     </div>
                                 </div>
                             </li>
                             <li class="accordion block">
-                                <div class="acc-btn">3.  Do you offer revisions if I'm not satisfied with the work?
-                                <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. Do you offer revisions if I'm not satisfied with the work? <div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                            <p> Yes, in order to satisfy you, we are offering free unlimited changes. We shall make the necessary revisions free of charge if you are not satisfied with any aspect of your assignment delivered.
-                                            </p>
-                                        </div>
+										 <P>Yes, in order to satisfy you, we are offering free unlimited changes. We shall make the necessary revisions free of charge if you are not satisfied with any aspect of your assignment delivered.</P>
+										</div>
                                     </div>
                                 </div>
                             </li>
-                            <li class="accordion block">
-                                <div class="acc-btn">4.  Will Your Experts Provide High Quality in My Computer Science Assignment?
-                                <div class="icon fa fa-angle-down"></div></div>
+							 
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Will Your Experts Provide High Quality in My Computer Science Assignment?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Absolutely. Our experts are working hard to deliver excellent solutions that meet academic standards. Each assignment is thoroughly researched and carefully crafted.</P>
+									</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. Do you provide help with computer science research projects? <div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                            <p> Absolutely. Our experts are working hard to deliver excellent solutions that meet academic standards. Each assignment is thoroughly researched and carefully crafted.
-                                            </p>
-                                        </div>
+                                         <P>Yes, for computer science research projects, we offer full support. Our experts assure that your research project is well organised, complies with academic requirements in terms of topic selection, data analysis and final submissions.</P>
+										<P>We are the perfect choice for computer science assignment help online because of our commitment to excellence and customer satisfaction. Choose Assignment In Need for reliable, high quality help with all your computer science assignments. We're here to support your academic journey, whether you need assistance for basic programming or advanced projects.</P>
+									    <P>We also provide science homework help and support in all areas of study for students who are looking for further assistance in these areas. Assignment In Need is your go to solution if you simply want to pay someone to do my computer science assignment or if you need guidance on other academic projects.</P>
+									</div>
                                     </div>
                                 </div>
                             </li>
-                            <li class="accordion block">
-                                <div class="acc-btn">5.  Do you provide help with computer science research projects?
-                                <div class="icon fa fa-angle-down"></div></div>
-                                <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            <p> Yes, for computer science research projects, we offer full support. Our experts assure that your research project is well organised, complies with academic requirements in terms of topic selection, data analysis and final submissions.
-                                            </p>
-                                            <p> We are the perfect choice for computer science assignment help online because of our commitment to excellence and customer satisfaction. Choose Assignment In Need for reliable, high quality help with all your computer science assignments. We're here to support your academic journey, whether you need assistance for basic programming or advanced projects.
-                                            </p>
-                                            <p> We also provide science homework help and support in all areas of study for students who are looking for further assistance in these areas. Assignment In Need is your go to solution if you simply want to pay someone to do my computer science assignment or if you need guidance on other academic projects.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-     </section>
-        
+							 
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
  
 @endsection

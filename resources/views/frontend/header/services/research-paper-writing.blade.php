@@ -1407,129 +1407,169 @@
 					</div>
 				</section>
 
+                 
+              <!-- new section -->
 
+			<section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Expert Research Paper Writing Help Services for Students Worldwide</h2>
+					<div class="text">
+					 <p>At Assignment in Need, expert research paper writing services help students in Malaysia, UAE, Spain, the UK, Australia, and Canada in achieving their academic goals. Backed by a 4.5 rating and with 9/10 users reporting better grades, the platform ensures quality and reliability. Our skilled writers craft original research papers on any topic, providing thorough research, clear analysis, and detailed explanations. Understanding the pressures of academic life, Assignment in Need lightens the load with custom-written papers, meticulous editing, and proofreading, as well as reliable assistance with formatting and citations. This dependable support makes it a trusted partner for students aiming for success in their research paper goals.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
 
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
  
-
-       	 <!-- FAQs Question  section for research paper -->
-	  
-	 <section class="faq-section">
-		<div class="auto-container">
-			<div class="row clearfix">
-				<div class="column col-lg-12 col-md-12 col-sm-12">
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-					</div>
-					<ul class="accordion-box">
-						<li class="accordion block">
-							<div class="acc-btn">1. What is research paper writing? <div class="icon fa fa-angle-down"></div></div>
+ <!-- FAQs Question  section for research paper -->
+ 
+	        
+ <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Research Paper Writing Help Services</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. What is research paper writing?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="display: none;">
 								<div class="content">
 									<div class="text">
-										<p>Research paper writing involves creating an in-depth, scholarly document that investigates a specific topic through thorough research, analysis, and critical thinking. It typically includes a clear thesis, structured sections (such as introduction, literature review, methodology, results, and conclusion), and proper citations to support and present findings in a formal academic format.</p>
+										 <P>Research paper writing involves creating an in-depth, scholarly document that investigates a specific topic through thorough research, analysis, and critical thinking. It typically includes a clear thesis, structured sections (such as introduction, literature review, methodology, results, and conclusion), and proper citations to support and present findings in a formal academic format.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. How many words is a research paper?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+										<P>The length of a research paper varies depending on the level of study and the specific requirements of the assignment. Typically, a research paper ranges from 3,000 to 7,000 words, but it can be shorter or longer depending on the scope and depth of the research. Always check your assignment guidelines for specific word count requirements.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. How can your service help with writing a research paper?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We assist with all stages of research paper writing, including topic selection, research, writing, and editing. Our experts ensure that your paper is well-structured, thoroughly researched, and meets academic standards</P>
 									</div>
 								</div>
 							</div>
 						</li>
-						<li class="accordion block active-block">
-							<div class="acc-btn active">2. How many words is a research paper?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content current" style="display: block;">
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. What should I provide to get help with my research paper?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>The length of a research paper varies depending on the level of study and the specific requirements of the assignment. Typically, a research paper ranges from 3,000 to 7,000 words, but it can be shorter or longer depending on the scope and depth of the research. Always check your assignment guidelines for specific word count requirements.</p>
+										 <P>Provide us with your research paper topic, requirements, guidelines, and deadline. Any</P>
+										</div>
+								</div>
+							</div>
+						</li>
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. Can you help with specific sections of my research paper, like the literature review or methodology?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, we can assist with specific sections such as the literature review, methodology, data analysis, and conclusion, ensuring each part meets academic standards.</P>
 									</div>
 								</div>
 							</div>
 						</li>
 						
 						<li class="accordion block">
-							<div class="acc-btn">3. How can your service help with writing a research paper?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. How do you handle complex research topics or interdisciplinary papers?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-                							We assist with all stages of research paper writing, including topic selection, research, writing, and editing. Our experts ensure that your paper is well-structured, thoroughly researched, and meets academic standards
-                							</p>
+										<P>For complex or interdisciplinary topics, we assign writers with relevant expertise who conduct in-depth research and provide comprehensive analysis to address the topic effectively.</P>
 									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. What if I need revisions for my research paper?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										<P>You can request revisions if needed. We offer revision services to make necessary adjustments based on your feedback and ensure the paper meets your expectations.</P>
+										</div>
 								</div>
 							</div>
 						</li>
 
 						<li class="accordion block">
-							<div class="acc-btn">4. What should I provide to get help with my research paper?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. How do you ensure the timely delivery of my research paper?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-									Provide us with your research paper topic, requirements, guidelines, and deadline. Any
-										</p>
-									</div>
+										<P>We manage deadlines effectively by prioritizing your research paper and working efficiently to ensure it is delivered on time, without compromising on quality.</P>
+										</div>
 								</div>
 							</div>
 						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">5. Can you help with specific sections of my research paper, like the literature review or methodology?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>										
-                                           Yes, we can assist with specific sections such as the literature review, methodology, data analysis, and conclusion, ensuring each part meets academic standards.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">6. How do you handle complex research topics or interdisciplinary papers?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-								For complex or interdisciplinary topics, we assign writers with relevant expertise who conduct in-depth research and provide comprehensive analysis to address the topic effectively.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-							<li class="accordion block">
-							<div class="acc-btn">7. What if I need revisions for my research paper?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-								You can request revisions if needed. We offer revision services to make necessary adjustments based on your feedback and ensure the paper meets your expectations.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-							<li class="accordion block">
-							<div class="acc-btn">8. How do you ensure the timely delivery of my research paper?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-							We manage deadlines effectively by prioritizing your research paper and working efficiently to ensure it is delivered on time, without compromising on quality.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-					
-						
+							 
 						
 					
-			</ul>
+					</ul>
 					
 				</div>
-			
-				
-			</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
 		</div>
-</section>
+		 
+   </section> 
+      
      
       
        <!-- as it is -->

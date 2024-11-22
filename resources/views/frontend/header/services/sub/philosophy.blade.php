@@ -780,112 +780,147 @@
     </section>
 
     <!-- Conclusion -->
-      
-	 <section class="case-study-section mt-5 conclsn ">
-	        <div class="auto-container  ">
-		    <div class="row clearfix ">
-
-			  <!-- Content Column -->
-			  <div class="content-column col-lg-5 col-md-12 col-sm-12  ">
-				<div class="inner-column  ">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">conclusion
-						 </h2>
-						 <div class="text" >
-						 <p>To wrap things up, don't let philosophy assignments stress you out. With our support, you can navigate tricky concepts, meet deadlines, and avoid those sneaky errors. Our team is here to offer expert help, deliver top-notch writing, and ensure everything is original and polished. From exploring free will to diving into ethics, we're ready to assist you. So, no matter where you are or what you need, just give us a shout. 
-                    </p>
+       
+	 <section>
+		<div class="auto-container">
+			<div class="row clearfix">
+				<div class="title-column col-lg-12 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<div class="title-box">
+							<div class="section-color-layer"></div>
+							<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">conclusion </h2>
+							<p>To wrap things up, don't let philosophy assignments stress you out. With our support, you can navigate tricky concepts, meet deadlines, and avoid those sneaky errors. Our team is here to offer expert help, deliver top-notch writing, and ensure everything is original and polished. From exploring free will to diving into ethics, we're ready to assist you. So, no matter where you are or what you need, just give us a shout. 
+							</p>
+						</div>
 					</div>
-					<!-- <a href="courses-single.html" class="theme-btn btn-style-seven"><span class="txt">Read Case
-							Study</span></a> -->
 				</div>
-			   </div>
+			</div>
+		</div>
+	 </section>
+       <!--   new section -->
+	 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
-			     <!-- Image Column -->
-			    <div class="image-column col-lg-7 col-md-12 col-sm-12 ">
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Philosophy Assignment Writing Help</h2>
+					  <div class="text">
+						 <p>Philosophy often confuses students, with its complex ideas and theories posing significant challenges. That’s where the philosophy assignment writing help from Assignment In Need steps in to support every stage of your task. Backed by a record of 30,000+ happy clients and a 4.5 rating, their team of experts excels in various branches of philosophy, enabling students to tackle tough topics like existentialism, free will, and ethics with confidence. They prioritise delivering original work tailored to your needs while adhering to academic standards. Whether you're studying in Australia, Malaysia, Canada, UAE, the UK, or Spain, their reliable support ensures timely delivery and enhances your chances of success. Let Assignment In Need simplify philosophy and help you achieve your academic goals.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
 				<div class="inner-column">
-					<div class="icon-layer-three" style="background-image:url(images2/icons/icon-12.png)"></div>
-					<div class="icon-layer-four" style="background-image:url(images2/icons/icon-3.png)"></div>
-					<div class="icon-layer-six" style="background-image:url(images2/icons/icon-2.png)"></div>
-					<div class="image titlt" data-tilt="" data-tilt-max="4"
-						style="will-change: transform; transform: perspective(300px) rotateX(0deg) rotateY(0deg);">
-						<img src="images2/resource/case.png" alt="">
-					        </div>
-				     </div>
-			      </div>
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
 
-		        </div>
-	         </div>
-    </section>
-      <!-- FAQs Question  section for philosophy -->
-       <section class="faq-section">
-         <div class="auto-container">
-            <div class="row clearfix">
-                <div class="column col-lg-12 col-md-12 col-sm-12">
-                    <div class="title-box">
-                        <h2 style="font-weight:500; font-size:30px; color:black" class="my-4">Frequently asked questions</h2>
-                    </div>
-                    <ul class="accordion-box">
-                        <li class="accordion block" >
-                            <div class="acc-btn">1. Why should I choose your Philosophy Assignment Help services?<div class="icon fa fa-angle-down"></div></div>
-                              <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                     <p>Choosing our philosophy assignment help services means you're opting for experienced support tailored to your needs. Our team consists of skilled writers who specialize in philosophy, ensuring your assignments are handled with expertise. We focus on delivering high-quality, original content, checking for errors, and meeting deadlines. Plus, our service is available 24/7, so you can reach out anytime for assistance.
-                                     </p>
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+      
+   <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+   <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Philosophy Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. Why should I choose your Philosophy Assignment Help services?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Choosing our philosophy assignment help services means you're opting for experienced support tailored to your needs. Our team consists of skilled writers who specialize in philosophy, ensuring your assignments are handled with expertise. We focus on delivering high-quality, original content, checking for errors, and meeting deadlines. Plus, our service is available 24/7, so you can reach out anytime for assistance.</P>
+									</div>
                                     </div>
                                 </div>
-                              </div>
-                        </li>
-                        <li class="accordion block" >
-                            <div class="acc-btn">2. How can Philosophy Assignment help improve my grades?
-                            <div class="icon fa fa-angle-down"></div></div>
-                            <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>Getting our help with your philosophy assignments can make a big difference in your grades. We provide clear, well-researched, and well-written content that helps you tackle complex ideas with confidence. Our experts help you avoid common mistakes, meet academic standards, and present your thoughts effectively, which can lead to better grades.
-                                        </p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. How can Philosophy Assignment help improve my grades?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>Getting our help with your philosophy assignments can make a big difference in your grades. We provide clear, well-researched, and well-written content that helps you tackle complex ideas with confidence. Our experts help you avoid common mistakes, meet academic standards, and present your thoughts effectively, which can lead to better grades.</P>
+										</div>
                                     </div>
                                 </div>
-                            </div>
-                        </li>
-                        <li class="accordion block">
-                            <div class="acc-btn">3. How long does it take to get my philosophy assignment completed?<div class="icon fa fa-angle-down"></div></div>
-                             <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>We know deadlines are crucial, so we work efficiently to get your philosophy assignment done on time. Usually, we deliver your completed assignment before the due date so you have plenty of time to review it. The exact timing depends on the assignment's complexity, but you can always count on us to be prompt and reliable.
-                                        </p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. How long does it take to get my philosophy assignment completed?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>We know deadlines are crucial, so we work efficiently to get your philosophy assignment done on time. Usually, we deliver your completed assignment before the due date so you have plenty of time to review it. The exact timing depends on the assignment's complexity, but you can always count on us to be prompt and reliable.</P>
+										</div>
                                     </div>
                                 </div>
-                             </div>
-                        </li>
-                        <li class="accordion block">
-                            <div class="acc-btn">4. Can I get assistance with specific types of assignments, like philosophy essays or research papers?
-                            <div class="icon fa fa-angle-down"></div></div>
-                            <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>Yes, definitely! We can help with all kinds of philosophy assignments, whether it's essays, research papers, or anything else you need. Just let us know what type of assignment you're working on, and we'll tailor our help to fit your needs.</p>
+                            </li>
+							 
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Can I get assistance with specific types of assignments, like philosophy essays or research papers?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Yes, definitely! We can help with all kinds of philosophy assignments, whether it's essays, research papers, or anything else you need. Just let us know what type of assignment you're working on, and we'll tailor our help to fit your needs.</P>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. What is the assignment method in philosophy?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Philosophy assignments usually involve analyzing and discussing complex ideas, making strong arguments, and evaluating different theories. We break down these tasks into easy steps, guiding you through each part of the process. Our goal is to help you understand and explain philosophical concepts clearly, so your work is well-organized and makes a solid impression.</P>
+									</div>
                                     </div>
                                 </div>
-                            </div>
-                        </li>
-                        <li class="accordion block">
-                            <div class="acc-btn">5. What is the assignment method in philosophy? <div class="icon fa fa-angle-down"></div></div>
-                           <div class="acc-content">
-                            <div class="content">
-                                <div class="text">
-                                    <p>Philosophy assignments usually involve analyzing and discussing complex ideas, making strong arguments, and evaluating different theories. We break down these tasks into easy steps, guiding you through each part of the process. Our goal is to help you understand and explain philosophical concepts clearly, so your work is well-organized and makes a solid impression.
-                                    </p>
-                                </div>
-                            </div>
-                           </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-         </div>
-       </section>
-  
+                            </li>
+							 
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
  
 
        	  

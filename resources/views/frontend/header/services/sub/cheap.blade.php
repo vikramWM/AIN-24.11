@@ -747,85 +747,140 @@
                 </div>
             </div>
         </section>
-      
-            <!-- FAQs Question  section for cheap -->
-             <section class="faq-section">
-                <div class="auto-container">
+		 <!-- new section -->
+
+		 <section class="py-4" style="background-color:#BFECFF;">
+	            <div class="auto-container">
                     <div class="row clearfix">
-                        <div class="column col-lg-12 col-md-12 col-sm-12">
-                            <div class="title-box">
-                                <h2 style="font-weight:500; font-size:30px; color:black;" class="my-4">Frequently asked questions</h2>
-                              <ul class="accordion-box">
-                              <li class="accordion block">
-                                  <div class="acc-btn">1. How Can I Confirm My Assignment Is Original and AI-Free?
-                                  <div class="icon fa fa-angle-down"></div></div>
-                                  <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            <p>Originality matters to us the most. Our professional writers create every assignment from scratch. Using advanced tools, we rigorously check for plagiarism. Each piece of content remains completely original and free from AI. Trust that your assignment will be unique. We customise it to suit your unique requirements. Guaranteeing originality stands as our highest priority. You receive personalised content you can trust.
-                                            </p>
-                                        </div>
-                                    </div>
-                                 </div>
-                           </li>
-                           <li class="accordion block">
-                                  <div class="acc-btn">2. Can I Get Custom Assignment at Cheap Prices?
-                                  <div class="icon fa fa-angle-down"></div></div>
-                                  <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            <p>Absolutely, yes! We design our  <b>cheap assignment writing services</b> to offer custom assignments at affordable prices. Whether you're looking for a way to  <b>write my assignment in cheap</b> or need something more specific, our writers specialise in providing personalised solutions. We ensure your requirements are met without exceeding your budget.
-                                            </p>
-                                            <p>Refer 4 friends and receive a free group project. Place 5 orders, and earn 1 free. Our 120% money-back guarantee stands firm. If we miss the delivery deadline, even the shortest one, and you get 120% of your money back. Our special offers make our services even more appealing. We aim to provide both quality and value.
-                                            </p>
-                                        </div>
-                                    </div>
-                                 </div>
-                           </li>
-                           <li class="accordion block">
-                                  <div class="acc-btn">3. Are Your Services Really Cheap?
-                                  <div class="icon fa fa-angle-down"></div></div>
-                                  <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            <p>Absolutely, our services are budget-friendly. If you need someone to  <b>do my assignment cheap</b>, we strive to deliver the best value with high-quality assignment help at competitive prices. Constantly, we review our pricing to remain accessible to all students, regardless of their financial status.
-                                            </p>
-                                            <p>Avail a flat 40% discount on every order. Your discount could even increase based on specific needs. Offering significant savings is key to our approach. We aim to maintain affordability without compromising quality. Providing high value at a low cost is our promise.</p>
-                                        </div>
-                                    </div>
-                                 </div>
-                           </li>
-                           <li class="accordion block">
-                                  <div class="acc-btn">4. I Need Affordable Assignment Help, Can You Help Me?
-                                  <div class="icon fa fa-angle-down"></div></div>
-                                  <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            <p>Of course! At Assignment In Need, our goal is to provide affordable assignment help to students. Complex or urgent, we manage it all. Just inform us of your requirements, and we'll take care of everything. We handle every detail, ensuring your assignment needs are met. Your academic success is our mission, no matter the challenge or deadline. We’re here to support you at every stage. Just share your requirements with us, and rest assured while we handle the task.
-                                            </p>
-                                        </div>
-                                    </div>
-                                 </div>
-                           </li>
-                           <li class="accordion block">
-                                  <div class="acc-btn">5. How Do You Ensure Quality Despite Low Prices? <div class="icon fa fa-angle-down"></div></div>
-                                  <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                            <p>We keep prices affordable and maintain quality by enhancing our processes. Leveraging the skills of our writers, we ensure efficiency. Our team consists of experienced professionals in academic writing. This helps us uphold high standards without inflating costs.
-                                            </p>
-                                            <p>A strict quality control process is in place. This ensures every assignment meets our rigorous criteria. High standards are maintained consistently. We focus on delivering value without compromise. Our methods balance affordability with quality. We aim to provide exceptional academic support at reasonable rates.
-                                            </p>
-                                        </div>
-                                    </div>
-                                 </div>
-                           </li>
-                              </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-             </section>
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Online Cheap Assignment Writing Help Services for Students around the World</h2>
+					<div class="text">
+					  <p>Dependable and affordable assignment assistance is readily available for students in Spain, the UK, Australia, Canada, Malaysia, and the UAE through Assignment in Need. With over 30,000 happy clients and 98.2% of orders arriving timely, the platform ensures that students achieve their academic goals without overspending. Reasonable prices and skilled writers guarantee that every assignment meets top academic standards. Beyond submitting assignments, the focus is on creating a valuable learning experience. Custom content, tailored to individual needs, is backed by unlimited free revisions for complete satisfaction. Fast customer support ensures help is always within reach. For those seeking cheap assignment writing help, Assignment in Need provides high-quality, budget-friendly solutions to make education simpler and less stressful.</p>
+					</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+      
+               <!-- FAQs Question  section for cheap writing -->
+ 
+	        
+  <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Cheap Assignment Writing Help Services</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. How Can I Confirm My Assignment Is Original and AI-Free?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+										 <P>Originality matters to us the most. Our professional writers create every assignment from scratch. Using advanced tools, we rigorously check for plagiarism. Each piece of content remains completely original and free from AI. Trust that your assignment will be unique. We customise it to suit your unique requirements. Guaranteeing originality stands as our highest priority. You receive personalised content you can trust.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. Can I Get Custom Assignment at Cheap Prices?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+										 <P>Absolutely, yes! We design our <b>cheap assignment writing services</b> to offer custom assignments at affordable prices. Whether you're looking for a way to <b>write my assignment in cheap</b> or need something more specific, our writers specialise in providing personalised solutions. We ensure your requirements are met without exceeding your budget.</P>
+										<p>Refer 4 friends and receive a free group project. Place 5 orders, and earn 1 free. Our 120% money-back guarantee stands firm. If we miss the delivery deadline, even the shortest one, and you get 120% of your money back. Our special offers make our services even more appealing. We aim to provide both quality and value.</p>
+										</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. Are Your Services Really Cheap?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>Absolutely, our services are budget-friendly. If you need someone to <b>do my assignment cheap</b> , we strive to deliver the best value with high-quality assignment help at competitive prices. Constantly, we review our pricing to remain accessible to all students, regardless of their financial status.</p>
+								         <p>Avail a flat 40% discount on every order. Your discount could even increase based on specific needs. Offering significant savings is key to our approach. We aim to maintain affordability without compromising quality. Providing high value at a low cost is our promise.</p>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">4. I Need Affordable Assignment Help, Can You Help Me?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Of course! At Assignment In Need, our goal is to provide affordable assignment help to students. Complex or urgent, we manage it all. Just inform us of your requirements, and we'll take care of everything. We handle every detail, ensuring your assignment needs are met. Your academic success is our mission, no matter the challenge or deadline. We're here to support you at every stage. Just share your requirements with us, and rest assured while we handle the task.</P>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. How Do You Ensure Quality Despite Low Prices?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>We keep prices affordable and maintain quality by enhancing our processes. Leveraging the skills of our writers, we ensure efficiency. Our team consists of experienced professionals in academic writing. This helps us uphold high standards without inflating costs.</p>
+										 <p>A strict quality control process is in place. This ensures every assignment meets our rigorous criteria. High standards are maintained consistently. We focus on delivering value without compromise. Our methods balance affordability with quality. We aim to provide exceptional academic support at reasonable rates.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+					 
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
        	 
  
 @endsection

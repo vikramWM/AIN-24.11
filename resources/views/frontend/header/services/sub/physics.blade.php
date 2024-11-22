@@ -744,118 +744,150 @@
 		</div>
 	</section>
        <!-- new code of Conclusion -->
-           <!-- new code of conclusion -->
-  
-	<section class="case-study-section mt-5 conclsn">
-    	<div class="auto-container">
-		<div class="row clearfix">
-
-			<!-- Content Column -->
-			<div class="content-column col-lg-5 col-md-12 col-sm-12 ">
-				<div class="inner-column ">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">Conclusion </h2>
-					<div class="text">
-						<p> We at Assignment in Need are dedicated to providing top-notch, original work and making sure your assignments are done right and on time. Reach out to us today, and let us help you ace your physics coursework while keeping things budget-friendly and stress-free! Contact Now!</p>
-						 
+		<section>
+			<div class="auto-container">
+				<div class="row clearfix">
+					<div class="title-column col-lg-12 col-md-12 col-sm-12">
+						<div class="inner-column">
+							<div class="title-box">
+								<div class="section-color-layer"></div>
+								<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">Conclusion </h2>
+								<p> We at Assignment in Need are dedicated to providing top-notch, original work and making sure your assignments are done right and on time. Reach out to us today, and let us help you ace your physics coursework while keeping things budget-friendly and stress-free! Contact Now!</p>
+						
+							</div>
+						</div>
 					</div>
-					<!-- <a href="courses-single.html" class="theme-btn btn-style-seven"><span class="txt">Read Case
-							Study</span></a> -->
 				</div>
 			</div>
+		</section>
+
+		
+	       <!-- new section -->
+
+		   <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Get Physics Assignment Writing Help Online For All Students Worldwide</h2>
+					  <div class="text">
+						 <p>At Assignment in Need, they focus on providing exceptional Physics assignment writing help, with 98% recurring clients and a 4.5 rating reflecting their commitment to quality. Whether located in the UK, Spain, Australia, Canada, Malaysia, or the UAE, students receive academic support tailored to their unique needs. Understanding the challenges of complex physics concepts, Assignment in Need designs services that simplify learning. Personalised assistance is offered at affordable rates, with a guarantee of on-time delivery. The goal is to help students improve their understanding of the subject and achieve academic success. No matter the location, support is always available to help students excel in their physics assignments.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
 
 			<!-- Image Column -->
-			<div class="image-column col-lg-7 col-md-12 col-sm-12">
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
 				<div class="inner-column">
-					<div class="icon-layer-three" style="background-image:url(images2/icons/icon-12.png)"></div>
-					<div class="icon-layer-four" style="background-image:url(images2/icons/icon-3.png)"></div>
-					<div class="icon-layer-six" style="background-image:url(images2/icons/icon-2.png)"></div>
-					<div class="image titlt" data-tilt="" data-tilt-max="4"
-						style="will-change: transform; transform: perspective(300px) rotateX(0deg) rotateY(0deg);">
-						<img src="images2/resource/case.png" alt="">
-					</div>
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
 				</div>
 			</div>
 
 		</div>
 	</div>
-</section>
-	    
-	   <!-- end  new code of Conclusion -->
-       	 <!-- FAQs Question  section for canada -->
-	     <section class="faq-section ">
-			        <div class="auto-container">
-			    	<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                         
-                        <div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-					</div>
-                        <ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. What is Physics Assignment Help?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Physics assignment help means getting support from experts who can assist you with your physics homework, projects, and reports. Whether you're stuck on a tough problem or need help understanding a concept, these pros are here to guide you and make things clearer.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. Can I communicate directly with the expert working on my assignment?                               
-                                    <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>Absolutely! You can talk directly with the expert who's working on your assignment. This way, you can give them any special instructions, ask questions, and stay updated on your work. It's all about making sure your assignment turns out just the way you want.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. What if my assignment involves experimental or lab work?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>No problem at all! If your assignment includes experimental or lab work, our experts are well-equipped to handle it. Just let us know what's needed, and we'll make sure to provide the right support for your project.
-                                            </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. I want a plagiarism-free assignment for my social work. Can you help me?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Definitely! We guarantee all our work is original and free from plagiarism. Each assignment is written from scratch and checked to ensure it's unique. So, you can be confident that your social work assignment will be completely original.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. How do I submit my physics assignment for help?
-                                    <div class="icon fa fa-angle-down">
+            </section>
 
+            <!-- end new section -->
+          
+       	 
+  <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+  <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Physics Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. What is Physics Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <p>Physics assignment help means getting support from experts who can assist you with your physics homework, projects, and reports. Whether you're stuck on a tough problem or need help understanding a concept, these pros are here to guide you and make things clearer.</p>
+										</div>
                                     </div>
                                 </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Submitting your assignment is simple. Just send us the details through our website or email. Include any instructions, deadlines, and what you need help with. Once we have everything, our experts will get started on your assignment</p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. Can I communicate directly with the expert working on my assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <p>Absolutely! You can talk directly with the expert who's working on your assignment. This way, you can give them any special instructions, ask questions, and stay updated on your work. It's all about making sure your assignment turns out just the way you want.</p>	   
 										</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. What if my assignment involves experimental or lab work?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <p>No problem at all! If your assignment includes experimental or lab work, our experts are well-equipped to handle it. Just let us know what's needed, and we'll make sure to provide the right support for your project.</p>
 									</div>
-								</div>
-							</li>
-
-                              
-						</ul>
-					</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. I want a plagiarism-free assignment for my social work. Can you help me?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <p>Definitely! We guarantee all our work is original and free from plagiarism. Each assignment is written from scratch and checked to ensure it's unique. So, you can be confident that your social work assignment will be completely original.</p>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How do I submit my physics assignment for help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <p>Submitting your assignment is simple. Just send us the details through our website or email. Include any instructions, deadlines, and what you need help with. Once we have everything, our experts will get started on your assignment</p>
+									</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+					</ul>
 					
+				</div>
 				 
-			</div>
- </section>
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
+ 
       
 @endsection

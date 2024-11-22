@@ -721,70 +721,89 @@
 
       
 	    <!--  Conclusion -->
-	<section class="case-study-section mt-5 conclsn ">
-	        <div class="auto-container  ">
-		    <div class="row clearfix ">
-
-			  <!-- Content Column -->
-			  <div class="content-column col-lg-5 col-md-12 col-sm-12  ">
-				<div class="inner-column  ">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">conclusion
-						 </h2>
-						 <div class="text" >
-						 <p>You deserve the best possible support as a student of nursing so that you can succeed during your studies. Assignment In Need, is dedicated to provide you with the highest possible nursing assignment assistance that will meet your instant needs and enable you to be a confident and qualified health care professional. You can count on us to help you through the complexities of your studies in nursing, and we'll do our best to help you reach your educational and professional goals.</p>
-							
-					</div>
-					<!-- <a href="courses-single.html" class="theme-btn btn-style-seven"><span class="txt">Read Case
-							Study</span></a> -->
-				</div>
-			   </div>
-
-			     <!-- Image Column -->
-			    <div class="image-column col-lg-7 col-md-12 col-sm-12 ">
-				<div class="inner-column">
-					<div class="icon-layer-three" style="background-image:url(images2/icons/icon-12.png)"></div>
-					<div class="icon-layer-four" style="background-image:url(images2/icons/icon-3.png)"></div>
-					<div class="icon-layer-six" style="background-image:url(images2/icons/icon-2.png)"></div>
-					<div class="image titlt" data-tilt="" data-tilt-max="4"
-						style="will-change: transform; transform: perspective(300px) rotateX(0deg) rotateY(0deg);">
-						<img src="images2/resource/case.png" alt="">
-					        </div>
-				     </div>
-			      </div>
-
-		        </div>
-	         </div>
-    </section>
-
-       	 <!-- FAQs Question  section for canada -->
-	 
-           
-	 <section class="faq-section">
+	  
+	<section>
 		<div class="auto-container">
 			<div class="row clearfix">
-				<div class="column col-lg-12 col-md-12 col-sm-12">
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
+				<div class="title-column col-lg-12 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<div class="title-box">
+							<div class="section-color-layer"></div>
+							<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">conclusion </h2>
+							<p>You deserve the best possible support as a student of nursing so that you can succeed during your studies. Assignment In Need, is dedicated to provide you with the highest possible nursing assignment assistance that will meet your instant needs and enable you to be a confident and qualified health care professional. You can count on us to help you through the complexities of your studies in nursing, and we'll do our best to help you reach your educational and professional goals.</p>
+						
+						</div>
 					</div>
-					<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. What's the nursing assignment for? <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-                                            <p>Nursing Assignment is a writing assignment or project to be completed by the nursing student as part of their academic programme. Such assignments may cover articles, research papers, case studies or clinical analyses in a variety of formats.
-                                            </p>
-											 	</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	  <!-- new section -->
+
+	  <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Best Online Nursing Assignment Writing Help by Field Expert Worldwide</h2>
+					  <div class="text">
+						 <p>At Assignment in Need, they provide online nursing assignment writing help from experienced professionals, with over 30,000 happy clients and 9/10 students reporting better grades. The team focuses on offering expert support that meets the unique needs of nursing students. Whether in Australia, the UK, Canada, Malaysia, Spain, or the UAE, students receive personalised help no matter their location. Experts on the team have deep knowledge of nursing practices and research, ensuring thorough solutions that aid students' studies. Committed to helping students understand complex topics, Assignment in Need aims to enhance skills and support academic success. Students can depend on them for reliable nursing assignment help as they work toward becoming confident healthcare professionals.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+
+       
+ <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+ <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Nursing Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. What's the nursing assignment for?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <p>Nursing Assignment is a writing assignment or project to be completed by the nursing student as part of their academic programme. Such assignments may cover articles, research papers, case studies or clinical analyses in a variety of formats.</p>
 									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. How Do You Write A Nursing Assignment? 
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-									  <p>A number of key steps are involved in writing the nursing assignment: 
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. How Do You Write A Nursing Assignment? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										<p>A number of key steps are involved in writing the nursing assignment: 
                                       </p>
                                       <p>1. Thoroughly understand the assignment prompt and requirements.</p>
                                       <p>2. To carry out a comprehensive study of the subject, based on credible sources. </p>		
@@ -794,19 +813,17 @@
                                       <p>5. Demonstrate your critical thinking and problem solving abilities.
                                       </p>	
                                       <p>6. Ensure proper formatting, citation, and referencing.
-                                      </p>	
-
+                                      </p>	   
+										</div>
                                     </div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. How Do You End A Nursing Assignment? 
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>You should be able to effectively end the nursing assignment: 
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. How Do You End A Nursing Assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										<p>You should be able to effectively end the nursing assignment: 
                                             </p>
                                             <p>1. Consider the key elements and conclusions of your job. 
                                             </p>
@@ -815,47 +832,56 @@
                                             <p>3. Provide a clear and concise conclusion, which ties together the main arguments or themes.  </p>
                                             <p>4. Identify potential areas for further research or improvement.
                                             </p>
-                                        	</div>
 									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. Do you provide support for health promotion assignments?
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, for all types of nursing assignments including those related to health promotion assignment in need will provide a comprehensive nursing assignment support. Our nursing assignment experts have extensive experience in developing relevant and explanatory health promotion material, including educational campaigns, Health Awareness Programmes or Community Outreach Initiatives.
-                                            </p>
-                                        </div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. What if I need revisions on my nursing assignment?
-
-                                    <div class="icon fa fa-angle-down"></div></div>
-
-                                     
-                                 
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-                                     <p>We understand that in order to ensure your nursing assignment meets the necessary standards, there may be a need for revision at Assignment In Need. Our nursing assignment help service includes a revision policy where you may ask for unlimited changes or adjustments to your work, and our team will respond as quickly as possible with an updated version of the job.
-                                     </p>
-                                        </div>
-									</div>
-								</div>
-							</li>
- 
-						</ul>
+                                    </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
 					
 				</div>
 			
-				
-			</div>
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Do you provide support for health promotion assignments?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>Yes, for all types of nursing assignments including those related to health promotion assignment in need will provide a comprehensive nursing assignment support. Our nursing assignment experts have extensive experience in developing relevant and explanatory health promotion material, including educational campaigns, Health Awareness Programmes or Community Outreach Initiatives.</P>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. What if I need revisions on my nursing assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>We understand that in order to ensure your nursing assignment meets the necessary standards, there may be a need for revision at Assignment In Need. Our nursing assignment help service includes a revision policy where you may ask for unlimited changes or adjustments to your work, and our team will respond as quickly as possible with an updated version of the job.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
 		</div>
-</section>
+		 
+   </section> 
  
 @endsection

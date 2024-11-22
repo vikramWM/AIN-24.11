@@ -934,83 +934,131 @@
                 </div>
             </div>
         </section>
-           
+            <!-- new section -->
 
-        	 <!-- FAQs Question  section for marketing -->
-       <section class="faq-section">
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="column col-lg-12 col-md-12 col-sm-12">
-                    <div class="title-box">
-                         <h2 style="font-weight:500; font-size:30px; color:black" class="my-4">Frequently asked questions</h2>
-                    </div>
-                    <ul class="accordion-box">
-                        <li class="accordion block">
-                            <div class="acc-btn">1. Why Should I Get Marketing Assignment Help?
-                            <div class="icon fa fa-angle-down"></div></div>
-                            <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>Getting help with your marketing assignments can save you time and reduce stress. Experts can provide you with high-quality work, ensure it's done correctly, and help you understand complex topics better.
-                                        </p>
+		 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Get the Best All Types of Marketing Assignment Writing Help for Students Worldwide</h2>
+					  <div class="text">
+						 <p>Struggling with a marketing assignment? Assignment In Need is here to help! Offering comprehensive marketing assignment writing help, they cover a wide range of topics, including digital marketing, direct marketing, and industrial marketing. With a proven track record of 30,000+ happy clients and a team of 3,000+ PhD experts, they combine creativity with precision to deliver high-quality assignments. Students from the UK, Canada, UAE, Spain, Australia, and Malaysia rely on their expertise to tackle tight deadlines and complex topics. Their original work aligns with university requirements, ensuring top-notch results. With affordable pricing and 24/7 support, Assignment In Need prioritises student satisfaction. Let their experts guide you toward achieving top grades in marketing.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+
+        	 
+       	  <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Marketing Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. Why Should I Get Marketing Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Getting help with your marketing assignments can save you time and reduce stress. Experts can provide you with high-quality work, ensure it's done correctly, and help you understand complex topics better.</P>
+									</div>
                                     </div>
                                 </div>
-                            </div>
-                        </li>
-                        <li class="accordion block">
-                            <div class="acc-btn">2. How Much Time You'll Need To Do My Marketing Assignment?
-                            <div class="icon fa fa-angle-down"></div></div>
-                             <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>The time required depends on the assignment's complexity and length. Generally, we aim to complete assignments as quickly as possible while maintaining high quality. You’ll get an estimated delivery time when you place your order.
-                                        </p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. How Much Time You'll Need To Do My Marketing Assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>The time required depends on the assignment's complexity and length. Generally, we aim to complete assignments as quickly as possible while maintaining high quality. You'll get an estimated delivery time when you place your order.</P>
+										</div>
                                     </div>
                                 </div>
-                             </div>
-                        </li>
-                        <li class="accordion block">
-                            <div class="acc-btn">3. What Is Marketing, And Why Is It Important?
-                            <div class="icon fa fa-angle-down"></div></div>
-                             <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>Marketing is all about promoting and selling products or services. It’s important because it helps businesses understand customer needs, stand out from competitors, and drive sales.
-                                        </p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. What Is Marketing, And Why Is It Important? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>Marketing is all about promoting and selling products or services. It's important because it helps businesses understand customer needs, stand out from competitors, and drive sales.</P>
+										</div>
                                     </div>
                                 </div>
-                             </div>
-                        </li>
-                        <li class="accordion block">
-                            <div class="acc-btn">4. Are your services available to write my marketing assignment helper at all times?
-                            <div class="icon fa fa-angle-down"></div></div>
-                            <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>Yes, our services are available 24/7. You can reach out to us anytime for help with your marketing assignments, no matter the hour.
-                                        </p>
+                            </li>
+							 
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Are your services available to write my marketing assignment helper at all times?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Yes, our services are available 24/7. You can reach out to us anytime for help with your marketing assignments, no matter the hour.</P>
+									</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How Do I Check the Status of My Marketing Assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>You can check the status of your assignment by contacting our support team or logging into your account on our website. We'll keep you updated on progress and notify you when your assignment is ready.</P>
+									</div>
                                     </div>
                                 </div>
-                            </div>
-                        </li>
-                        <li class="accordion block">
-                            <div class="acc-btn">5. How Do I Check the Status of My Marketing Assignment?
-                            <div class="icon fa fa-angle-down"></div></div>
-                            <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>You can check the status of your assignment by contacting our support team or logging into your account on our website. We’ll keep you updated on progress and notify you when your assignment is ready.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                 </div>
-               
-            </div>
-        </div>
-       </section>
-       
+                            </li>
+							 
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
  
 @endsection

@@ -752,86 +752,134 @@
             </div>
          </section>
 
-	 
+	  <!-- new section -->
 
-      <!-- FAQs Question  section for statistics -->
-        <section class="faq-section">
-            <div class="auto-container">
-                <div class="row clearfix">
-                 <div class="column col-lg-12 col-md-12 col-sm-12">
-                      <div class="title-box">
-                        <h2 style="font-weight:500; font-size:30px; color:black" class="my-4"> Frequently Asked Questions
-                        </h2>
-                        <ul class="accordion-box">
-                            <li class="accordion block">
-                                <div class="acc-btn">1. What does Statistics assignments help include?
-                                <div class="icon fa fa-angle-down"></div></div>
+	  <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Statistics Assignment Writing Help Online For Students across the Globe</h2>
+					  <div class="text">
+						 <p>Statistics assignments can be a challenge, leaving many students in Malaysia, Canada, UAE, the UK, Spain, and Australia searching for reliable help. That’s where Assignment In Need steps in with its Statistics assignment writing help, offering comprehensive guidance and valuable resources. With a remarkable 98% recurring client rate and 98.2% of orders arriving on time, their team of skilled statisticians ensures students can master tricky concepts and methods. Each assignment is tailored to meet academic standards, whether it involves descriptive or inferential statistics, providing clear explanations and practical examples. By choosing their service, students gain professional support to handle statistics, balance other courses, and achieve academic success with ease.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+
+      
+<!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Statistics Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. What does Statistics assignments help include?<div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                            <p>Statistics assignment help includes assistance with data collection, analysis, interpretation, and presentation. Experts can provide step by step solutions, explanations of statistical methods and instructions for use of statistical software.
-                                            </p>
-                                        </div>
+                                        <P>Statistics assignment help includes assistance with data collection, analysis, interpretation, and presentation. Experts can provide step by step solutions, explanations of statistical methods and instructions for use of statistical software.</P>
+									</div>
                                     </div>
-                                </div>                          
+                                </div>
                             </li>
                             <li class="accordion block">
-                                <div class="acc-btn">2. What types of Statistics assignments can I get help with?
-                                <div class="icon fa fa-angle-down"></div></div>
-                                 <div class="acc-content">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. What types of Statistics assignments can I get help with?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                            <p>You can get help with various statistics assignments, including descriptive statistics, inferential statistics, probability theory, hypothesis testing, regression analysis, and more.
-                                            </p>
-                                        </div>
-                                    </div>
-                                 </div>
-                        </li>
-                         <li class="accordion block" >
-                            <div class="acc-btn">3. How can Statistics assignments help services benefit me?
-                            <div class="icon fa fa-angle-down"></div></div>
-                             <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>Statistics assignment help for students provides a number of benefits, including better understanding of statistics concepts, increased problem solving skills and improved performance in the classroom. Expert advice ensures that you have the confidence and accuracy to deal with these complicated tasks. We offer- 120% Money-Back Guarantee: If We Miss the Delivery Deadline, Including Our Minimal Time Frame, You Get 120% of Your Money Back
-                                        </p>
+										 <P>You can get help with various statistics assignments, including descriptive statistics, inferential statistics, probability theory, hypothesis testing, regression analysis, and more.</P>
+										</div>
                                     </div>
                                 </div>
-                             </div>
-                         </li>
-                         <li class="accordion block">
-                            <div class="acc-btn">4. What should I look for in a Statistics assignments help service provider?
-                            <div class="icon fa fa-angle-down"></div></div>
-                            <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>When choosing a statistics assignment help service provider, consider their expertise, experience, and reviews from other students. You will find providers who offer a personalised service, prompt delivery and detailed explanations of statistical methods. If you ask yourself, "Can I get my assignment help from experts?" the answer is yes. Our services are intended to meet all your academic requirements. 
-                                        </p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. How can Statistics assignments help services benefit me?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>Statistics assignment help for students provides a number of benefits, including better understanding of statistics concepts, increased problem solving skills and improved performance in the classroom. Expert advice ensures that you have the confidence and accuracy to deal with these complicated tasks. We offer- 120% Money-Back Guarantee: If We Miss the Delivery Deadline, Including Our Minimal Time Frame, You Get 120% of Your Money Back</P>
+										</div>
                                     </div>
                                 </div>
-                            </div>
-                         </li>
-                         <li class="accordion block">
-                           <div class="acc-btn">5. How do online services provide Statistics assignments help?
-                           <div class="icon fa fa-angle-down"></div></div>
-                           <div class="acc-content">
-                            <div class="content">
-                                <div class="text">
-                                    <p>Online services provide statistics assignment help via various means, including live tutoring sessions, detailed written solutions and interactive problem solving exercises. The aim of these services is to provide students with flexibility and convenience, irrespective of their geographical location. —---</p>
-                                    <p>Assignment In Need is dedicated to providing high-quality, reliable statistics assignment help for students. We ensure that students achieve their academic objectives and become successful in the classroom by applying our expertise and commitment to excellence. </p>
-                                     <p>Check out our assignment writing services to further enhance your learning experience for additional academic support.
-                                     </p>
+                            </li>
+							 
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. What should I look for in a Statistics assignments help service provider?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>When choosing a statistics assignment help service provider, consider their expertise, experience, and reviews from other students. You will find providers who offer a personalised service, prompt delivery and detailed explanations of statistical methods. If you ask yourself, "Can I get my assignment help from experts?" the answer is yes. Our services are intended to meet all your academic requirements.</P>
+									</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How do online services provide Statistics assignments help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Online services provide statistics assignment help via various means, including live tutoring sessions, detailed written solutions and interactive problem solving exercises. The aim of these services is to provide students with flexibility and convenience, irrespective of their geographical location.</P>
+									    <P>Assignment In Need is dedicated to providing high-quality, reliable statistics assignment help for students. We ensure that students achieve their academic objectives and become successful in the classroom by applying our expertise and commitment to excellence.</P>
+									    <P>Check out our assignment writing services to further enhance your learning experience for additional academic support.</P>
+									</div>
+                                    </div>
                                 </div>
-                            </div>
-                           </div>
-                         </li>
-                        </ul>
-                      </div>
-                 </div>
-                </div>
-            </div>
-        </section>
+                            </li>
+							 
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
 
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
        	 
  
 @endsection

@@ -1044,142 +1044,145 @@
 		</div>
 	   </section>
 
-	 
-	<!-- FAQs Question  section for barcelona -->
-	<section class="faq-section ">
-			<div class="auto-container">
-				<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                       
-                        <div class="sec-title">							
-                        <h2>Frequently asked questions </h2>
-						</div>
-						<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. How can I get top-quality assignment help in Barcelona?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-										<p>To get top-quality assignment help in Barcelona, choose a service with experienced writers who understand local academic standards. Look for a service with a proven track record, reviews, and a commitment to delivering assignments on time</p>
-									</div>
+	        
+<!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For   Assignment Writing Help in the Barcelona, Spain</b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. How can I get top-quality assignment help in Barcelona?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+									 <P>To get top-quality assignment help in Barcelona, choose a service with experienced writers who understand local academic standards. Look for a service with a proven track record, reviews, and a commitment to delivering assignments on time</P>
 									</div>
 								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. What types of assignments can you help with in Barcelona?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-										<p>We assist Barcelona students with a wide range of assignments, including essays, research papers, case studies, dissertations, and lab reports. Our team is skilled in various subjects to meet your specific needs</p>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What types of assignments can you help with in Barcelona?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+									<P>We assist Barcelona students with a wide range of assignments, including essays, research papers, case studies, dissertations, and lab reports. Our team is skilled in various subjects to meet your specific needs</P> 
 										</div>
-									</div>
 								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. Are there any special considerations for assignments in Barcelona?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											 <p>Yes, assignments in Barcelona may require adherence to specific formatting styles and academic guidelines set by local universities. Providing detailed instructions and guidelines helps us tailor the work to meet these requirements.
-											 </p> 
-
-											 </div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. How do I get a reliable assignment writer in Barcelona?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> To get a reliable assignment writer in Barcelona, select a service with vetted professionals who have expertise in your subject area. Check their qualifications, experience, and previous client feedback to ensure they can meet your needs.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-								5. What should I do if I need urgent assignment help in Barcelona?
-
-                                    <div class="icon fa fa-angle-down">
-
-                                    </div>
-                                </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>  If you need urgent assignment help in Barcelona, contact us as soon as possible. We offer expedited services to handle tight deadlines and ensure that your assignment is completed on time without sacrificing quality.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">6. How can I ensure my homework is completed correctly?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> To ensure your homework is completed correctly, provide clear instructions and guidelines when placing your order. Our experienced writers will follow these details closely to deliver accurate and high-quality work.
-											</p>
-											</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">7. What is the process for getting help with a research paper in Barcelona?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> For help with a research paper in Barcelona, submit your topic, research requirements, and deadlines through our platform. We will assign a writer with expertise in your field to conduct thorough research and craft a well-structured paper.
-											</p>
-											</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="accordion block">
-								<div class="acc-btn">8. How do you ensure originality in essays and research papers?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>	We ensure originality by writing all essays and research papers from scratch and using advanced plagiarism detection tools. Each piece of work is checked to meet academic standards and ensure it is unique.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">9. What are the benefits of using your homework and assignment help service in Barcelona?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> The benefits include access to expert writers, high-quality work tailored to your needs, timely delivery, and support throughout the process. We aim to help you achieve academic success with minimal stress.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							 
-						 
-						</ul>
+							</div>
+						</li>
 						
-					</div>
-					
-				 
-			</div>
-	</section>
-           
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. Are there any special considerations for assignments in Barcelona?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, assignments in Barcelona may require adherence to specific formatting styles and academic guidelines set by local universities. Providing detailed instructions and guidelines helps us tailor the work to meet these requirements.</P>
+										</div>
+								</div>
+							</div>
+						</li>
 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. How do I get a reliable assignment writer in Barcelona?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>To get a reliable assignment writer in Barcelona, select a service with vetted professionals who have expertise in your subject area. Check their qualifications, experience, and previous client feedback to ensure they can meet your needs.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. What should I do if I need urgent assignment help in Barcelona?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>If you need urgent assignment help in Barcelona, contact us as soon as possible. We offer expedited services to handle tight deadlines and ensure that your assignment is completed on time without sacrificing quality.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+					 
+					
+					</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					  
+						 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. How can I ensure my homework is completed correctly?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>To ensure your homework is completed correctly, provide clear instructions and guidelines when placing your order. Our experienced writers will follow these details closely to deliver accurate and high-quality work.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+							 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. What is the process for getting help with a research paper in Barcelona?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>For help with a research paper in Barcelona, submit your topic, research requirements, and deadlines through our platform. We will assign a writer with expertise in your field to conduct thorough research and craft a well-structured paper.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. How do you ensure originality in essays and research papers?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We ensure originality by writing all essays and research papers from scratch and using advanced plagiarism detection tools. Each piece of work is checked to meet academic standards and ensure it is unique.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">9. What are the benefits of using your homework and assignment help service in Barcelona?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>The benefits include access to expert writers, high-quality work tailored to your needs, timely delivery, and support throughout the process. We aim to help you achieve academic success with minimal stress.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
 			
 	<script>
 		document.addEventListener('DOMContentLoaded', function() {

@@ -700,85 +700,130 @@
 		</div>
 	</section>
 
-     
+      <!-- new section -->
 
-       	 <!-- FAQs Question  section for canada -->
-	     <section class="faq-section ">
-			        <div class="auto-container">
-			    	<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                         
-						<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-				      	</div>
-                        <ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. Can you help me with practical projects in sociology?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Absolutely! We can help with your practical sociology projects, whether it's doing research, analyzing data, or creating presentations. Our expert team has lots of experience and can assist you in making sure your project meets all your requirements.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. What is the purpose of sociology Assignment?                              
-                                    <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>A sociology assignment helps you understand how people and societies work. These assignments let you apply what you've learned in class to real-life situations, develop critical thinking skills, and get better at analyzing social data. They prepare you for further studies or future jobs in sociology.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. How can I make doing my sociology Assignment easier?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>To make your sociology assignment easier, break it down into smaller steps. Start by understanding the instructions and making a plan. Do thorough research, organize your notes, and create an outline before writing. Don't be afraid to ask your teachers, classmates, or professional services like ours for help if you get stuck.
-                                            </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. What are Sociology Assignment help  services?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Sociology assignment help services are there to assist you with your sociology homework. This includes custom writing, editing, proofreading, and research support. Whether you need help with essays, research papers, or projects, our experts can provide the assistance you need to ensure you submit high-quality work.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. How much does Sociology Assignment Help cost?
-                                    <div class="icon fa fa-angle-down">
+		 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Assignment in Need- Sociology Assignment Writing Help across the World</h2>
+					  <div class="text">
+						 <p>At Assignment in Need, they focus on providing exceptional Sociology assignment writing help, with over 30,000 happy clients and 9/10 students reporting better grades. The expert team offers customised solutions to meet the unique academic needs of students from diverse backgrounds. Proudly serving students in Spain, Australia, Malaysia, Canada, the UAE, and the UK, Assignment in Need ensures quality support no matter where students are located. Skilled writers guarantee that each assignment is well-researched and meets academic standards. Understanding the challenges students face, the team promises original work delivered on time, every time. With 24/7 support and affordable rates, students can rely on them for the best help possible, allowing them to focus on what truly matters.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+ 	 
+  <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+  <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Sociology Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. Can you help me with practical projects in sociology?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Absolutely! We can help with your practical sociology projects, whether it's doing research, analyzing data, or creating presentations. Our expert team has lots of experience and can assist you in making sure your project meets all your requirements.</P>
+									</div>
                                     </div>
                                 </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>The cost of sociology assignment help depends on the difficulty of the assignment, how much help you need, and your deadline. At Assignment in need, we offer affordable prices with no hidden fees and great discounts. Contact us with your specific needs, and we’ll give you a detailed quote.</p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. What is the purpose of sociology Assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>A sociology assignment helps you understand how people and societies work. These assignments let you apply what you've learned in class to real-life situations, develop critical thinking skills, and get better at analyzing social data. They prepare you for further studies or future jobs in sociology.</P>
 										</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. How can I make doing my sociology Assignment easier?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>To make your sociology assignment easier, break it down into smaller steps. Start by understanding the instructions and making a plan. Do thorough research, organize your notes, and create an outline before writing. Don't be afraid to ask your teachers, classmates, or professional services like ours for help if you get stuck.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. What are Sociology Assignment help services?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>Sociology assignment help services are there to assist you with your sociology homework. This includes custom writing, editing, proofreading, and research support. Whether you need help with essays, research papers, or projects, our experts can provide the assistance you need to ensure you submit high-quality work.</P>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How much does Sociology Assignment Help cost?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>The cost of sociology assignment help depends on the difficulty of the assignment, how much help you need, and your deadline. At Assignment in need, we offer affordable prices with no hidden fees and great discounts. Contact us with your specific needs, and we'll give you a detailed quote.</P>
 									</div>
-								</div>
-							</li>
-
-                           
-
-                           
-						</ul>
-					</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+					</ul>
 					
-					
+				</div>
 				 
-			</div>
- </section>
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
       
 @endsection

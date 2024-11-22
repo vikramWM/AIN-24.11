@@ -745,91 +745,134 @@
 	  </div>
 	 </section>
      
-        
+        <!-- new section -->
+
+		 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Assignment in Need- Linguistic Assignment Writing Help Services Online For Students Worldwide</h2>
+					  <div class="text">
+						 <p>At Assignment in Need, the focus is on providing exceptional linguistic assignment writing help, with over 45,000 assignments delivered and a 4.5 rating from satisfied clients. Serving students in Spain, Australia, the UK, Canada, Malaysia, and the UAE, the platform offers support tailored to each student's academic needs. A team of experienced linguistics experts ensures that assignments are crafted to help students excel in their studies. The ordering process is simple, and expert assistance is always available. Strict quality checks guarantee original, well-researched content that meets specific requirements. Students can depend on Assignment in Need to tackle the challenges of linguistic assignments, allowing them to concentrate on achieving their academic goals with confidence.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
    
-       	 <!-- FAQs Question  section for canada -->
-	     <section class="faq-section ">
-			        <div class="auto-container">
-			    	<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                         
-                        <div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-					</div>
-						<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. Can You Help with Cross-Linguistic Comparison Assignments?
+     
 
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Absolutely. Our team of writers have a great deal of experience in cross linguistic studies and can help you to make an accurate comparison or analysis of various languages.</p>
-										</div>
+  <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+  <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Linguistic Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. Can You Help with Cross-Linguistic Comparison Assignments?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <p>Absolutely. Our team of writers have a great deal of experience in cross linguistic studies and can help you to make an accurate comparison or analysis of various languages.</p>
 									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. What Makes Your Linguistic Assignment Help Service Unique?                       
-                                    <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>We distinguish ourselves by our commitment to quality, innovation, and customer satisfaction. We're working closely with students to ensure their success in the classroom, offering personalized support.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. How Do You Ensure the Quality of the Assignments?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We employ a team of experienced linguists and editors who review every assignment to ensure it meets our high standards. In addition, in order to guarantee the authenticity of our work, we are using sophisticated plagiarism detection tools.
-                                            </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. Are Your Linguistic Assignment Help Services Affordable?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, in order to ensure that all students have access to our services, we are offering affordable pricing. We're committed to providing high quality assistance at prices that don't break the bank.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. How Do I Know My Assignment is Original and Free of Plagiarism?
-                                    <div class="icon fa fa-angle-down">
-
                                     </div>
                                 </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We're using advanced plagiarism detection software to detect all assignments before they are delivered. This will ensure that your work is 100% original and does not contain any copied content.
-                                            <br>
-                                                Today, unlock the potential of our Linguistic Assignment Help services to overcome the challenges of your linguistic assignment. You can achieve the grades you want and gain a deeper understanding of this subject with our Linguistic assignment help writing service. In addition, you can always <strong>pay for assignment help</strong> on our platform and receive expert advice in different fields if you need help with other subjects.
-
-                                           </p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. What Makes Your Linguistic Assignment Help Service Unique? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <p>We distinguish ourselves by our commitment to quality, innovation, and customer satisfaction. We're working closely with students to ensure their success in the classroom, offering personalized support.</p>   
+                                            
 										</div>
-									</div>
-								</div>
-							</li>
-
-                           
-
-                           
-						</ul>
-					</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. How Do You Ensure the Quality of the Assignments?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <p>We employ a team of experienced linguists and editors who review every assignment to ensure it meets our high standards. In addition, in order to guarantee the authenticity of our work, we are using sophisticated plagiarism detection tools.</p>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Are Your Linguistic Assignment Help Services Affordable?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <p>Yes, in order to ensure that all students have access to our services, we are offering affordable pricing. We're committed to providing high quality assistance at prices that don't break the bank.</p>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How Do I Know My Assignment is Original and Free of Plagiarism?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <p>We're using advanced plagiarism detection software to detect all assignments before they are delivered. This will ensure that your work is 100% original and does not contain any copied content.</p>
+										 <p>Today, unlock the potential of our Linguistic Assignment Help services to overcome the challenges of your linguistic assignment. You can achieve the grades you want and gain a deeper understanding of this subject with our Linguistic assignment help writing service. In addition, you can always pay for assignment help on our platform and receive expert advice in different fields if you need help with other subjects.</p>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+					</ul>
 					
-			 
-			</div>
- </section>
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
       
 @endsection

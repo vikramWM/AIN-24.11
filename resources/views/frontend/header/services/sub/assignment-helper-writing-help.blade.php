@@ -823,108 +823,155 @@
            
               <!-- Conclusion -->
 			  
-	        <section class="case-study-section ">
-	           <div class="auto-container">
-	             	<div class="row clearfix">
+	      
 
-		          	<!-- Content Column -->
-		    	<div class="content-column col-lg-5 col-md-12 col-sm-12">
-				<div class="inner-column">
-					<h2 style="font-weight:500; font-size: 30px;; color:black">Conclusion</h2>
-					<div class="text">
-					<p>Ever imagined a professor handling your assignment for you? With Assignment in Need, that can be a reality! We collaborate with a wide network of experts across all fields, ensuring that you get top-quality support. Our team of native assignment helper, researchers, and writers is ready to help you reach your academic goals. Why wait? Place your order now, and let us help you tackle your next assignment with confidence</p>
-                           
-					</div>
-					<a href="courses-single.html" class="theme-btn btn-style-seven"><span class="txt">Read Case
-							Study</span></a>
-				</div>
-		        	</div>
-
-		         	<!-- Image Column -->
-		     	<div class="image-column col-lg-7 col-md-12 col-sm-12">
-				<div class="inner-column">
-					<div class="icon-layer-three" style="background-image:url(images2/icons/icon-12.png)"></div>
-					<div class="icon-layer-four" style="background-image:url(images2/icons/icon-3.png)"></div>
-					<div class="icon-layer-six" style="background-image:url(images2/icons/icon-2.png)"></div>
-					<div class="image titlt" data-tilt="" data-tilt-max="4"
-						style="will-change: transform; transform: perspective(300px) rotateX(0deg) rotateY(0deg);">
-						<img src="images2/resource/case.png" alt="">
+		  <section>
+			<div class="auto-container">
+				<div class="row clearfix">
+					<div class="title-column">
+						<div class="inner-column">
+							<div class="title-box">
+								<div class="section-color-layer"></div>
+								<h2 style="font-weight:500; font-size: 30px;; color:black">Conclusion</h2>
+								<p>Ever imagined a professor handling your assignment for you? With Assignment in Need, that can be a reality! We collaborate with a wide network of experts across all fields, ensuring that you get top-quality support. Our team of native assignment helper, researchers, and writers is ready to help you reach your academic goals. Why wait? Place your order now, and let us help you tackle your next assignment with confidence</p>
+                  
+							</div>
+						</div>
 					</div>
 				</div>
-			     </div>
-
-	            	</div>
-            	</div>
-          </section>
+			</div>
+		  </section>
 		 
+                <!-- new section -->
 
-                	 <!-- FAQs Question  section for canada -->
-                <section class="faq-section">
-                    <div class="auto-container">
-                        <div class="row clearfix">
-                            <div class="column col-lg-12 col-md-12">
-                                <div class="title-box">
-                                    <h2 style="font-weight:500; font-size:30px; color:black;" class="my-4">Frequently asked questions</h2>
+			<section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Assignment Helper Services For All Students Worldwide</h2>
+					<div class="text">
+						 <p>At Assignment in Need, high-quality assignment help services are available for students in Malaysia, Canada, Australia, the UAE, the UK, and Spain. With over 30,000 happy clients and a team of 3,000+ PhD experts, the platform is dedicated to meeting the unique challenges students face across different academic levels and subjects. Whether tackling high school assignments or preparing a university dissertation, their expert team is ready to assist in achieving academic success. From essays and research papers to dissertations, each assignment is carefully crafted to ensure originality and compliance with academic standards. For students seeking a reliable assignment helper, Assignment in Need provides affordable, trustworthy, and confidential support whenever needed. With their guidance, students can confidently move toward academic success.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+                 
+
+                  <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+		<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Assignment Helper</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. What is an assignment helper?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <p>An assignment helper is a professional or service that assists students with their academic work, such as assignments, essays, homework, and even exam preparation. These helpers are usually experts in various fields and offer guidance or create high-quality, customized assignments to help students achieve better grades. Whether you're stuck on a complex problem or need someone to polish up your paper, assignment helpers are here to lend a hand!</p>
+										</div>
+                                    </div>
                                 </div>
-                                <ul class="accordion-box">
-                                    <li class="accordion block">
-                                        <div class="acc-btn">1. What is an assignment helper? <div class="icon fa fa-angle-down"></div></div>
-                                        <div class="acc-content">
-                                            <div class="content">
-                                                <div class="text">
-                                                    <p>An assignment helper is a professional or service that assists students with their academic work, such as assignments, essays, homework, and even exam preparation. These helpers are usually experts in various fields and offer guidance or create high-quality, customized assignments to help students achieve better grades. Whether you're stuck on a complex problem or need someone to polish up your paper, assignment helpers are here to lend a hand!
-                                                        </p>
-                                                </div>
-                                            </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. How do I choose the right Assignment Helper?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <p>Choosing the right assignment helper can make a huge difference in your academic journey! Start by checking reviews and testimonials from other students to get an idea of the service's reputation. Look for helpers who specialize in your subject area and ensure they have relevant qualifications. It's also important to choose a service that offers open communication, timely delivery, and guarantees original, plagiarism-free work. Don't forget to compare prices and make sure they fit your budget!</p>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. What subjects do Assignment Helper services cover?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <p>Assignment helper services like Assignment in Need usually cover a wide range of subjects, from math, science, and engineering to business, law, and humanities. No matter if you need help with an essay, research paper, or even a project in a specialized field like medicine or IT, there's likely an expert available to assist you. Some services even offer help across multiple subjects, making it easy to find support no matter what you're studying!</p>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+					<li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. How can I ensure the assignment I receive is original? <div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                             <p>To ensure the assignment you receive is original, you can choose Assignment in Need, we guarantee plagiarism-free content. Our reputable assignment helpers offer free plagiarism checks and provide reports to verify the originality of the work. You can also request drafts along the way to monitor progress and ensure everything is tailored to your requirements.</p>
                                         </div>
-                                    </li>
-                                    <li class="accordion block">
-                                        <div class="acc-btn">2. How do I choose the right Assignment Helper? <div class="icon fa fa-angle-down"></div></div>
-                                        <div class="acc-content">
-                                            <div class="content">
-                                                <div class="text">
-                                                    <p>Choosing the right assignment helper can make a huge difference in your academic journey! Start by checking reviews and testimonials from other students to get an idea of the service's reputation. Look for helpers who specialize in your subject area and ensure they have relevant qualifications. It's also important to choose a service that offers open communication, timely delivery, and guarantees original, plagiarism-free work. Don't forget to compare prices and make sure they fit your budget!</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="accordion block">
-                                        <div class="acc-btn">3. What subjects do Assignment Helper services cover? <div class="icon fa fa-angle-down"></div></div>
-                                        <div class="acc-content">
-                                            <div class="content">
-                                                <div class="text">
-                                                    <p>Assignment helper services like Assignment in Need usually cover a wide range of subjects, from math, science, and engineering to business, law, and humanities. No matter if you need help with an essay, research paper, or even a project in a specialized field like medicine or IT, there's likely an expert available to assist you. Some services even offer help across multiple subjects, making it easy to find support no matter what you're studying!</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="accordion block">
-                                        <div class="acc-btn">4. How can I ensure the assignment I receive is original? <div class="icon fa fa-angle-down"></div></div>
-                                        <div class="acc-content">
-                                            <div class="content">
-                                                <div class="text">
-                                                    <p>To ensure the assignment you receive is original, you can choose Assignment in Need, we guarantee plagiarism-free content. Our reputable assignment helpers offer free plagiarism checks and provide reports to verify the originality of the work. You can also request drafts along the way to monitor progress and ensure everything is tailored to your requirements. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="accordion block">
-                                        <div class="acc-btn">5. How can I contact an Assignment Helper service? <div class="icon fa fa-angle-down"></div></div>
-                                        <div class="acc-content">
-                                            <div class="content">
-                                                <div class="text">
-                                                    <p>Reaching out to Assignment in Need's assignment helper service is easy! We offer multiple ways to get in touch, including live chat, email, phone support, or through their website contact forms. Many also have 24/7 support, so you can get help whenever you need it. Before you contact us, have your assignment details ready so you can quickly explain what you need assistance with!</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </section> 
+                                    </div>
+                                  </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How can I contact an Assignment Helper service?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                            <p>Reaching out to Assignment in Need's assignment helper service is easy! We offer multiple ways to get in touch, including live chat, email, phone support, or through their website contact forms. Many also have 24/7 support, so you can get help whenever you need it. Before you contact us, have your assignment details ready so you can quickly explain what you need assistance with!</p>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+						
+					 
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
 
-       
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
  
   
 @endsection

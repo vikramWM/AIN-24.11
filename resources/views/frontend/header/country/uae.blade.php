@@ -1076,129 +1076,137 @@
 				   </section>
 
  
-	<!-- FAQs Question  section for UAE -->
 	 
-	<section class="faq-section ">
-			<div class="auto-container">
-				<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                       
-                        <div class="sec-title">							
-                        <h2>Frequently asked questions </h2>
-						</div>
-						<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. What types of assignments can you help within the UAE?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-										<p>We provide assistance with a wide range of assignments for UAE students, including essays, research papers, case studies, dissertations, and lab reports. Our expert writers cover various subjects to meet your academic needs.</p>
-									
-										 </div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. Are there any specific academic standards for assignments in the UAE?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-										<p>Yes, assignments in the UAE often have specific formatting and citation requirements based on local academic institutions' guidelines. Providing clear instructions helps us ensure that your work adheres to these standards.</p>
-									
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. How do I ensure my homework is completed accurately in the UAE?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-										<p>To ensure your homework is completed accurately, provide detailed instructions and any specific guidelines when placing your order. Our UAE-based writers will follow these instructions closely to deliver high-quality work.</p>
-										</div>
-									   </div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. What is the process for getting help with a research paper in the UAE?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-										<p>For research paper assistance, submit your topic, research requirements, and deadline through our platform. We will assign a writer with expertise in your field to conduct thorough research and produce a well-structured paper that meets UAE academic standards.
-										</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">5. Can I get help with essay writing in the UAE?
-                                    <div class="icon fa fa-angle-down">
 
-                                    </div>
-                                </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-										<p>Yes, we offer comprehensive essay writing help in the UAE. Whether you need help with brainstorming, drafting, or editing, our experienced writers will assist you in creating a compelling and well-organized essay.
-										</p>
-										</div>
+         <!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Assignment Writing Help in the UAE</b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. What types of assignments can you help within the UAE?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+									 <P>We provide assistance with a wide range of assignments for UAE students, including essays, research papers, case studies, dissertations, and lab reports. Our expert writers cover various subjects to meet your academic needs. </P>
 									</div>
 								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">6. What should I do if I need urgent assignment help in the UAE?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>If you need urgent assignment help, contact us immediately. We offer expedited services to ensure your assignment is completed on time, even under tight deadlines, while maintaining high quality.
-											</p>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. Are there any specific academic standards for assignments in the UAE?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+									<P>Yes, assignments in the UAE often have specific formatting and citation requirements based on local academic institutions' guidelines. Providing clear instructions helps us ensure that your work adheres to these standards.</P> 
 										</div>
-									</div>
 								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">7. How can I request revisions for my assignment or essay in the UAE?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>You can request revisions through our platform if you need changes to your assignment or essay. We offer free revisions to ensure the final work meets all your expectations and academic requirements.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="accordion block">
-								<div class="acc-btn">8. How can I track the progress of my homework, assignment, or research paper?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> You can track the progress of your homework, assignment, or research paper through our secure platform, which provides regular updates. Additionally, you can communicate directly with your writer for any additional instructions or updates.
-
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-						 
-						</ul>
+							</div>
+						</li>
 						
-					       
-					
-					
-			              	</div>
-		              	</div>
-	</section>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. How do I ensure my homework is completed accurately in the UAE?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>To ensure your homework is completed accurately, provide detailed instructions and any specific guidelines when placing your order. Our UAE-based writers will follow these instructions closely to deliver high-quality work.</P>
+										</div>
+								</div>
+							</div>
+						</li>
 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. What is the process for getting help with a research paper in the UAE?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>For research paper assistance, submit your topic, research requirements, and deadline through our platform. We will assign a writer with expertise in your field to conduct thorough research and produce a well-structured paper that meets UAE academic standards.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						 
+					 
+					
+					</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. Can I get help with essay writing in the UAE?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, we offer comprehensive essay writing help in the UAE. Whether you need help with brainstorming, drafting, or editing, our experienced writers will assist you in creating a compelling and well-organized essay.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. What should I do if I need urgent assignment help in the UAE?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>If you need urgent assignment help, contact us immediately. We offer expedited services to ensure your assignment is completed on time, even under tight deadlines, while maintaining high quality.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+							 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. How can I request revisions for my assignment or essay in the UAE?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>You can request revisions through our platform if you need changes to your assignment or essay. We offer free revisions to ensure the final work meets all your expectations and academic requirements.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. How can I track the progress of my homework, assignment, or research paper?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>You can track the progress of your homework, assignment, or research paper through our secure platform, which provides regular updates. Additionally, you can communicate directly with your writer for any additional instructions or updates.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
 
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
 
      <!-- as it is -->
     

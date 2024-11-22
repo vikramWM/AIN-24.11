@@ -1493,6 +1493,135 @@ route::get('/uk/cheap-assignment-writing-help', function()
       return view('frontend.header.country.uk.chemistry-writing-help-services', compact('data'));
     });
 
+      //13/11/24 new page in uk country law assignment Writing Help Online
+      route::get('/uk/law-assignment-writing-help-online', function()
+      {
+        $data['title']='Law Assignment Help | Law Homework Help- 40% Off & Free CV';
+        $data['description']='Get expert UK-based best Law assignment writing service from seasoned writers. From case studies to essays, we help students in excelling in their legal studies';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/law-assignment-writing-help-online';
+        return view('frontend.header.country.uk.law-assignment-writing-help-online', compact('data'));
+      });
+      // 13//11/24 new page in uk country nursing assignment Writing Help Online
+      route::get('/uk/nursing-assignment-writing-help-online', function()
+      {
+        $data['title']='Nursing Assignment and Homework Help- 40% Off & Get Free CV';
+        $data['description']='Get reliable nursing assignment writing help in the UK. Our expert writers provide high-quality, plagiarism-free support to help you excel in your nursing studies.';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/nursing-assignment-writing-help-online';
+        return view('frontend.header.country.uk.nursing-assignment-writing-help-online', compact('data'));
+      });
+  
+      //13//11/24 new page in uk country english assignment Writing Help Online
+      route::get('/uk/english-assignment-writing-help-online', function()
+      {
+        $data['title']='English Assignment & English Homework Help-40% Off & Free CV';
+        $data['description']='Get expert English homework help in the UK. Our professionals provide detailed explanations across literature, writing, and more to enhance your understanding.';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/english-assignment-writing-help-online';
+        return view('frontend.header.country.uk.english-assignment-writing-help-online ', compact('data'));
+      });
+  
+      //13/11/24 new page in uk country computer science assignment Writing Help Online
+      route::get('/uk/computer-science-assignment-writing-help-online', function(){
+        $data['title']='Computer Science Assignment & Homework Help-40% Off & Free CV';
+        $data['description']='Get top-notch Computer Science assignment help in the UK. Our experts offer timely solutions for programming tasks in Python, Java, C++, JavaScript, and more.';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/computer-science-assignment-writing-help-online';
+        return view('frontend.header.country.uk.computer-science-assignment-writing-help-online ', compact('data'));
+      });
+  
+      //13/11/24 new page in uk country accounting assignment Writing Help Online
+      route::get('/uk/accounting-assignment-writing-help-online', function(){
+        $data['title']='Accounting Assignment & Homework Help- 40% Off & Get Free CV';
+        $data['description']='Get affordable accounting assignment help in the UK. Our expert writers provide plagiarism-free solutions and 24/7 support to meet all your accounting needs.';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/accounting-assignment-writing-help-online';
+        return view('frontend.header.country.uk.accounting-assignment-writing-help-online ', compact('data'));
+      });
+      
+      //14/11/24 new page in uk country management assignment Writing Help Online
+      route::get('/uk/management-assignment-writing-help-online', function(){
+        $data['title']='Management Assignment & Homework Help- 40% Off & Get Free CV';
+        $data['description']='Get expert management assignment help in the UK. Our qualified writers deliver high-quality, plagiarism-free work on time to help you achieve top grades.';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/management-assignment-writing-help-online';
+        return view('frontend.header.country.uk.management-assignment-writing-help-online', compact('data'));
+      });
+  
+      //14/11/24 new page in uk country business assignment  Writing Help Online
+      route::get('/uk/business-assignment-writing-help-online', function(){
+        $data['title']='Business Assignment Help & Homework Help- 40% Off & Free CV';
+        $data['description']='Get top-quality business assignment help in the UK. Our experts provide 100% original, timely solutions on topics like finance, law, ethics, and management.';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/business-assignment-writing-help-online';
+        return view('frontend.header.country.uk.business-assignment-writing-help-online', compact('data'));
+      
+      });
+  
+      //14/11/24 new page in uk country programming assignment help Writing Help Online
+      route::get('/uk/programming-assignment-help-writing-help-online', function(){
+        $data['title']='Programming Assignment & Homework Help- 40% Off & Free CV';
+        $data['description']='Get expert programming assignment help in the UK. Our certified coders offer high-quality, plagiarism-free solutions across all programming languages.';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/programming-assignment-help-writing-help-online';
+        return view('frontend.header.country.uk.programming-assignment-help-writing-help-online', compact('data'));
+      });
+  
+      //14/11/24 new page in uk country marketing Assignment Writing Help Online
+      route::get('/uk/marketing-assignment-writing-help-online', function(){
+        $data['title']='Marketing Assignment & Homework Help- 40% Off & Get Free CV';
+        $data['description']='Need Help with marketing assignments? Get 24/7 expert marketing assignment help and marketing homework help online in the UK! Our professional writers boost your grades with reliable Help';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/marketing-assignment-writing-help-online';
+        return view('frontend.header.country.uk.marketing-assignment-writing-help-online', compact('data'));
+      });
+  
+      //14//11//24 new page in uk country science Assignment Writing Help Online
+      route::get('/uk/science-assignment-writing-help-online', function(){
+        $data['title']='Science Assignment Help & Homework Help- 40% Off & Free CV';
+        $data['description']='Boost your grades with expert Science Assignment Help & Science Homework Help in the UK! PhD specialists provide quality, plagiarism-free Help. Achieve A+ results today!';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/science-assignment-writing-help-online';
+        return view('frontend.header.country.uk.science-assignment-writing-help-online', compact('data'));
+      });
+  
+      //14//11//24 new page in uk country Dissertation Methodology Writing Help Online
+      route::get('/uk/dissertation-methodology-writing-help-online', function(){
+        $data['title']='Dissertation Methodology Writing Help- 40% Off & Get Free CV';
+        $data['description']='Struggling with your dissertation methodology Writing Help Online? Our UK experts offer quality, affordable guidance to help you excel. Get instant support today!';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/dissertation-methodology-writing-help-online';
+        return view('frontend.header.country.uk.dissertation-methodology-writing-help-online', compact('data'));
+      });
+  
+      //14/11/24 new page in uk country Dissertation Discussion Writing Help Online
+      route::get('/uk/dissertation-discussion-writing-help-online', function(){
+        $data['title']='Dissertation Discussion Writing Help- 40% Off & Get Free CV';
+        $data['description']='Need help with your dissertation discussion Writing Help Online? Our expert writers provide clear, insightful analysis to enhance your research impact. Boost your Grade today';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/dissertation-discussion-writing-help-online';
+        return view('frontend.header.country.uk.dissertation-discussion-writing-help-online', compact('data'));
+      });
+  
+      //14/11/24 new page in uk country Literature Review Writing Help Online
+      route::get('/uk/literature-review-writing-help-online', function(){
+        $data['title']='Literature Review Writing Help Services- 40% Off & Free CV';
+        $data['description']='Need a top-notch literature review Writing Help Online? Our certified UK writers offer 24/7 help to craft in-depth, critical reviews. Trusted by students in the Uk';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/literature-review-writing-help-online';
+        return view('frontend.header.country.uk.literature-review-writing-help-online', compact('data'));
+      });
+   
+   /// 05/11/24 made new page of Place Your Order
+   route::get('/place-your-order', function(){
+    $data['title'] ='Online Assignment Help Service @ 40% Off & Get a Free CV!';
+    $data['description']='Easily order your assignments help today. Just select your service, share the details, and access a wide range of assignment assistance today';
+    $data['keyword'] = ''; 
+    $data['canonical']='https://www.assignnmentinneed.com/place-your-order ';
+    return view('frontend.header.place-your-order' , compact('data'));
+   });
+
 
 
 

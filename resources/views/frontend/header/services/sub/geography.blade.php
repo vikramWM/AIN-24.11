@@ -778,7 +778,7 @@
      
         
      <!--Conclusion -->
-     <!-- <section class="py-0">
+     <section class="py-0">
 		<div class="auto-container ">
 			<div class="row clearfix">
 				<div class="title-column col-lg-12 col-md-12 col-sm-12">
@@ -801,76 +801,74 @@
 				</div>
 			</div>
 		</div>
-	</section> -->
+	</section>
 
-	    <!-- new code of conclusion -->
-  
-        <section class="case-study-section mt-5 conclsn">
-    	     <div class="auto-container">
-		      <div class="row clearfix">
+	     <!-- new section -->
+
+		 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
 			<!-- Content Column -->
-			<div class="content-column col-lg-5 col-md-12 col-sm-12   ">
-				<div class="inner-column ">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">Conclusion </h2>
-					<div class="text">
-						
-						<p>Geography is a tough and ever-changing subject, which is why many students need help with their assignments. At Assignment in Need, we provide expert geography assignment help to make things easier and help you get great grades. </p>
-						<p>Our service offers affordable prices, 24/7 support, free revisions, experienced writers, secure payments, and on-time delivery. Whether you need help with physical, environmental, or human geography assignments, our team is here for you. </p>
-						<p>Don't let geography assignments stress you out. Get reliable and professional help today and succeed with Assignment in Need's geography assignment help service. </p>
-						 
-					</div>
-					<!-- <a href="courses-single.html" class="theme-btn btn-style-seven"><span class="txt">Read Case
-							Study</span></a> -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Assignment in Need- Online Geography Assignment Writing Help Services across the Globe</h2>
+					  <div class="text">
+						 <p>At Assignment in Need, they provide top-notch Geography assignment writing help, with 98% recurring clients and a team of 3,000+ PhD experts. Whether living in Canada, Malaysia, Spain, Australia, the UAE, or the UK, students can rely on the expert team for support with all geography assignments. Complex topics in physical, environmental, and human geography can be challenging, and Assignment in Need understands this well. They are dedicated to offering quality, affordable help from experienced writers, with 24/7 customer support. Secure payment options ensure peace of mind, and timely, accurate work is always guaranteed. Students can trust Assignment in Need to assist them in achieving academic success while making geography assignments less stressful.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
 				</div>
 			</div>
 
-			<!-- Image Column -->
-			<div class="image-column col-lg-7 col-md-12 col-sm-12">
-				<div class="inner-column">
-					<div class="icon-layer-three" style="background-image:url(images2/icons/icon-12.png)"></div>
-					<div class="icon-layer-four" style="background-image:url(images2/icons/icon-3.png)"></div>
-					<div class="icon-layer-six" style="background-image:url(images2/icons/icon-2.png)"></div>
-					<div class="image titlt" data-tilt="" data-tilt-max="4"
-						style="will-change: transform; transform: perspective(300px) rotateX(0deg) rotateY(0deg);">
-						<img src="images2/resource/case.png" alt="">
-					</div>
-				</div>
-			 </div>
+		</div>
+	</div>
+            </section>
 
-		  </div>
-	    </div>
-  </section>
-	     <!-- end new code of conclusion -->
+            <!-- end new section -->
 
-       	 <!-- FAQs Question  section for canada -->
-	     <section class="faq-section ">
-			        <div class="auto-container">
-			    	<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                        
-                        <div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-					</div>
-                        <ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. How can I place an order for geography assignment help?
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Placing an order is easy! Just fill out our online form with your assignment details, get a quote, make a secure payment, and we’ll assign your task to a qualified law expert.</p>
-										</div>
+        
+
+ <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+ <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Geography Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. How can I place an order for geography assignment help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>Placing an order is easy! Just fill out our online form with your assignment details, get a quote, make a secure payment, and we'll assign your task to a qualified law expert.</P>
 									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. What types of geography assignments do you help with?                        
-                                    <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>We help with all kinds of geography assignments, including:</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. What types of geography assignments do you help with?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <p>We help with all kinds of geography assignments, including:</p>
                                            
                                             <ul class="text text-left" style="text-align: justify; list-style-type: disc; padding-left: 20px;">
                                                 <li>&#9702 Physical Geography: Topics like climate, landforms, oceans, and soil.</li>
@@ -881,55 +879,65 @@
                                                 <li>&#9702 Research Papers and Essays: In-depth research on various geographical topics.</li>
                                             </ul>
 										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. Who will be working on my geography assignment?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Your assignment will be handled by one of our expert geography writers. Our team has experienced professionals with advanced degrees in geography, so you can be sure your assignment is in good hands.
-                                            </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. Do you provide plagiarism-free geography assignments?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Absolutely! We guarantee that all our assignments are plagiarism-free. Each assignment is written from scratch based on your specific requirements. We also use advanced plagiarism detection tools to ensure your work is 100% original.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. How do I communicate with the writer working on my geography assignment?
-                                    <div class="icon fa fa-angle-down">
-
                                     </div>
                                 </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>You can easily chat with your writer through our secure messaging system. This way, you can ask questions, share additional information, and get updates on your assignment's progress. We make sure communication is smooth and easy so that your needs are always met. </p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. Who will be working on my geography assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Your assignment will be handled by one of our expert geography writers. Our team has experienced professionals with advanced degrees in geography, so you can be sure your assignment is in good hands.</P>
 										</div>
-									</div>
-								</div>
-							</li>
-
-                           
-
-                           
-						</ul>
-					</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Do you provide plagiarism-free geography assignments?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>Absolutely! We guarantee that all our assignments are plagiarism-free. Each assignment is written from scratch based on your specific requirements. We also use advanced plagiarism detection tools to ensure your work is 100% original.</P>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How do I communicate with the writer working on my geography assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>You can easily chat with your writer through our secure messaging system. This way, you can ask questions, share additional information, and get updates on your assignment's progress. We make sure communication is smooth and easy so that your needs are always met.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+					</ul>
 					
+				</div>
 				 
-			</div>
- </section>
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
       
 @endsection

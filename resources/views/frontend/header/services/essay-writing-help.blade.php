@@ -1239,105 +1239,145 @@
 			</div>
 		  </section>
 
- 
+          <!-- new section -->
 
-		 
-       <!-- FAQs Question  section for essay -->
-        
-         
-	 <section class="faq-section">
-		<div class="auto-container">
-			<div class="row clearfix">
-				<div class="column col-lg-12 col-md-12 col-sm-12">
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
+			<section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Affordable Essay Writing Help Services across the Globe</h2>
+					<div class="text">
+						 <p>Students worldwide strive for academic success, and Assignment In Need supports this journey by offering reliable essay writing help services to students in Canada, Malaysia, UAE, Spain, the UK, and Australia. With affordable prices, it provides a global solution for students seeking quality assistance. The platform boasts an impressive record, with 98.2% of orders arriving timely and 9/10 users reporting improved grades. No matter the location, expert writers are ready to assist with essay tasks, allowing students to focus on their studies and achieve their academic goals with confidence.</p>
 					</div>
-			        <ul class="accordion-box">
-						<li class="accordion block">
-							<div class="acc-btn">1. Can you help with writing essays for specific academic disciplines, like literature or science? <div class="icon fa fa-angle-down"></div></div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+     <!-- FAQs Question  section for essay -->
+ 
+	        
+ <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Essay Writing Help Services</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. Can you help with writing essays for specific academic disciplines, like literature or science?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="display: none;">
 								<div class="content">
 									<div class="text">
-										<p>Yes, we provide specialized essay writing help across various academic disciplines, including literature, science, social sciences, and more. Our writers have expertise in a wide range of subjects to meet your academic needs.</p>
+										 <P>Yes, we provide specialized essay writing help across various academic disciplines, including literature, science, social sciences, and more. Our writers have expertise in a wide range of subjects to meet your academic needs.</P>
 									</div>
 								</div>
 							</div>
 						</li>
-						<li class="accordion block active-block">
-							<div class="acc-btn active">2. Can you help with understanding and implementing specific essay requirements from my professor?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content current" style="display: block;">
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. Can you help with understanding and implementing specific essay requirements from my professor?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
 								<div class="content">
 									<div class="text">
-										<p>Yes, we can help you understand and implement specific essay requirements from your professor. Provide us with the details and guidelines given by your professor, and our writers will ensure that your essay meets those requirements precisely.</p>
+										 <P>Yes, we can help you understand and implement specific essay requirements from your professor. Provide us with the details and guidelines given by your professor, and our writers will ensure that your essay meets those requirements precisely.</P>
 									</div>
 								</div>
 							</div>
 						</li>
 						
 						<li class="accordion block">
-							<div class="acc-btn">3. Can I pay someone to do my essay?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. Can I pay someone to do my essay?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-								Yes, you can pay for professional essay writing services. Our team of experienced writers can assist you with crafting high-quality essays based on your specific requirements. Simply provide details about your essay, and we will handle the writing process for you.</p>
+										 <P>Yes, you can pay for professional essay writing services. Our team of experienced writers can assist you with crafting high-quality essays based on your specific requirements. Simply provide details about your essay, and we will handle the writing process for you.</P>
 									</div>
 								</div>
 							</div>
 						</li>
-
-						<li class="accordion block">
-							<div class="acc-btn">4. What helps you write an essay?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-									Key factors include a clear understanding of the topic, a structured outline, a strong thesis statement, thorough research, and effective writing tools.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">5. What if I need assistance with multiple revisions?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>										
-                                           If you need multiple revisions, we provide ongoing support to make the necessary changes. You can request as many revisions as needed to ensure your essay meets your requirements and academic expectations
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">6. What steps do you take to ensure the essay is well-researched?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>
-								Our writers conduct thorough research using credible sources relevant to your topic. We ensure that all necessary information is gathered and integrated into the essay to support your arguments and meet academic standards.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
+                  	</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
 						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">4. What helps you write an essay?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Key factors include a clear understanding of the topic, a structured outline, a strong thesis statement, thorough research, and effective writing tools.</P>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. What if I need assistance with multiple revisions?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>If you need multiple revisions, we provide ongoing support to make the necessary changes. You can request as many revisions as needed to ensure your essay meets your requirements and academic expectations</P>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. What steps do you take to ensure the essay is well-researched?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Our writers conduct thorough research using credible sources relevant to your topic. We ensure that all necessary information is gathered and integrated into the essay to support your arguments and meet academic standards.</P>
+									</div>
+								</div>
+							</div>
+						</li>
+							 
 						
 					
 					</ul>
 					
 				</div>
-			
-				
-			</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
 		</div>
-</section>
-   
+		 
+   </section> 
        
    <!-- as it is -->
         <script>

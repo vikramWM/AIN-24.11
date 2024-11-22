@@ -1048,7 +1048,126 @@
 			</div>
 		</div>
 	</section>
+            <!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+	 <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For   Assignment Writing Help in the Birmingham, UK </b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. How can Birmingham students benefit from your assignment writing help? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+									 <P>Birmingham students can receive expert assistance with assignments, including research, writing, and editing, tailored to local academic requirements and deadlines.</P>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What if I need urgent assignment help in Birmingham?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+									<P>If you're in Birmingham and have an urgent assignment, you can request expedited help to ensure timely completion, even under tight deadlines</P> 
+										</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. What types of assignments can you assist with for Birmingham students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We help with various types of assignments, including essays, reports, case studies, and more, tailored to the specific needs of Birmingham students.</P>
+										</div>
+								</div>
+							</div>
+						</li>
 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. How do you handle dissertation deadlines for Birmingham students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>Yes, we offer special discounts for first-time customers in London. Check our website for the latest promotions and discount codes, and take advantage of our affordable pricing on your first order. </p>
+									</div>
+								</div>
+							</div>
+						</li>
+						 
+					 
+					
+					</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					  
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. How can Birmingham students get help with writing essays?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Birmingham students can receive expert assistance with essay writing, including brainstorming, drafting, and editing, to meet their specific academic requirements.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. Can you assist Birmingham students with different types of essays?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, we help with various essay types, including argumentative, descriptive, and narrative essays, tailored to Birmingham students' needs.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+							 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. How do you ensure that essays for Birmingham students are unique?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We ensure uniqueness by writing essays from scratch and using plagiarism detection tools to verify originality.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
 	  
 	  <!-- ass it is -->
 	<script>

@@ -863,153 +863,169 @@
 			</div>
 		</div>
 	</section>
-	 <!-- FAQs Question  section for melbourne -->
-	 <section class="faq-section ">
-			<div class="auto-container">
-				<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                        
-                        <div class="sec-title">							
-                        <h2>Frequently asked questions </h2>
-						</div>
-						<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. Where can I get help with my assignment in Melbourne?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>You can get help with your assignment in Melbourne through our professional assignment writing service. We offer personalized support tailored to Melbourne's academic standards, ensuring high-quality and timely work for all types of assignments.</p>
-										</div>
+	 
+	 
+	 <!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+	 <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Assignment Writing Help in the Melbourne, Australia</b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. Where can I get help with my assignment in Melbourne?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+									 <P>You can get help with your assignment in Melbourne through our professional assignment writing service. We offer personalized support tailored to Melbourne's academic standards, ensuring high-quality and timely work for all types of assignments.</P>
 									</div>
 								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2.What types of assignments can you assist Melbourne students with?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p> We assist Melbourne students with a wide range of assignments, including essays, research papers, case studies, lab reports, presentations, and annotated bibliographies. Each assignment is tailored to meet Melbourne's academic standards.
-											</p>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2.What types of assignments can you assist Melbourne students with?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+									<P>We assist Melbourne students with a wide range of assignments, including essays, research papers, case studies, lab reports, presentations, and annotated bibliographies. Each assignment is tailored to meet Melbourne's academic standards.</P> 
 										</div>
-									</div>
 								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3.  How do I get someone to write my assignment in Melbourne?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											 <p>To get someone to write your assignment in Melbourne, start by choosing our reputable assignment writing service, known for its expertise across various subjects. Submit comprehensive information about your assignment, including the topic, guidelines, and deadline, to ensure we understand your needs. Once an expert writer is assigned, you can directly communicate your specific requirements to ensure clarity and alignment with your expectations. After the assignment is completed, review the work and request any necessary revisions to ensure it meets all your academic requirements before giving final approval.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4.  Can I request revisions for my assignment?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, Melbourne students can receive help with any part of their dissertation, including the introduction, literature review, methodology, and analysis. Our experts provide tailored support to ensure each section meets academic requirements.</p>
-									
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. Can Melbourne students get support for different sections of their dissertation?
-
-                                    <div class="icon fa fa-angle-down">
-
-                                    </div>
-                                </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, Melbourne students can receive help with any part of their dissertation, including the introduction, literature review, methodology, and analysis. Our experts provide tailored support to ensure each section meets academic requirements.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">6. How can Melbourne students get help with their essays?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Melbourne students can access professional help with essay writing, including topic selection, drafting, and revising, to ensure their essays meet academic standards and expectations.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">7.  Do you handle different types of essays for Melbourne students?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, we assist with various essay types, such as argumentative, descriptive, and analytical essays, customized to the needs of Melbourne students.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="accordion block">
-								<div class="acc-btn">8. How do you ensure essays are unique for Melbourne students?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We guarantee essay uniqueness by writing from scratch and using plagiarism detection software to ensure all work is original and adheres to Melbourne's academic standards.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">9. What if a Melbourne student needs revisions for their essay?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Revisions are available if the essay requires changes. Melbourne students can request modifications, and we will adjust the work to meet their specific requirements.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">10.  What is research paper writing, and how can it help Melbourne students?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Research paper writing involves conddents benefit from expert assistance with research, writing, and data analysis to produce high-quality research papers.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">11. What subjects do you cover for homework help in Melbourne?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We provide homework help across a wide range of subjects, including math, science, English, and more, tailored to the needs of Melbourne students.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
+							</div>
+						</li>
 						
-					</div>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. How do I get someone to write my assignment in Melbourne?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>To get someone to write your assignment in Melbourne, start by choosing our reputable assignment writing service, known for its expertise across various subjects. Submit comprehensive information about your assignment, including the topic, guidelines, and deadline, to ensure we understand your needs. Once an expert writer is assigned, you can directly communicate your specific requirements to ensure clarity and alignment with your expectations. After the assignment is completed, review the work and request any necessary revisions to ensure it meets all your academic requirements before giving final approval.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. Can I request revisions for my assignment?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>Yes, Melbourne students can receive help with any part of their dissertation, including the introduction, literature review, methodology, and analysis. Our experts provide tailored support to ensure each section meets academic requirements.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. Can Melbourne students get support for different sections of their dissertation?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, Melbourne students can receive help with any part of their dissertation, including the introduction, literature review, methodology, and analysis. Our experts provide tailored support to ensure each section meets academic requirements.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+					 
 					
+					</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					  
+						 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. How can Melbourne students get help with their essays?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Melbourne students can access professional help with essay writing, including topic selection, drafting, and revising, to ensure their essays meet academic standards and expectations.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+							 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. Do you handle different types of essays for Melbourne students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, we assist with various essay types, such as argumentative, descriptive, and analytical essays, customized to the needs of Melbourne students.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. How do you ensure essays are unique for Melbourne students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We guarantee essay uniqueness by writing from scratch and using plagiarism detection software to ensure all work is original and adheres to Melbourne's academic standards.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">9. What if a Melbourne student needs revisions for their essay?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Revisions are available if the essay requires changes. Melbourne students can request modifications, and we will adjust the work to meet their specific requirements.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">10. What is research paper writing, and how can it help Melbourne students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Research paper writing involves conddents benefit from expert assistance with research, writing, and data analysis to produce high-quality research papers.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">11. What subjects do you cover for homework help in Melbourne?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We provide homework help across a wide range of subjects, including math, science, English, and more, tailored to the needs of Melbourne students.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+					
+					</ul>
+					
+				</div>
 				 
-			</div>
-		</section>
-	
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
+
+
+
+
+
+
 @endsection

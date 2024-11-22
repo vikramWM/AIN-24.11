@@ -910,143 +910,154 @@
 		</div>
 	</section>
 
-	 <!-- FAQs Question  section for sydney -->
-	 <section class="faq-section ">
-			<div class="auto-container">
-				<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                        
-                        <div class="sec-title">							
-                        <h2 >Frequently asked questions </h2>
-						</div>
-						<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1.  How can Sydney students benefit from your assignment writing help?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Sydney students can benefit from expert assistance tailored to their academic needs, including personalized support for essays, reports, and other assignments. Our service ensures that the work adheres to local academic standards and is delivered on time.</p>
-										</div>
+	 
+	 <!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+	 <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Assignment Writing Help in the Sydney, Australia </b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. How can Sydney students benefit from your assignment writing help?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+									 <P>Sydney students can benefit from expert assistance tailored to their academic needs, including personalized support for essays, reports, and other assignments. Our service ensures that the work adheres to local academic standards and is delivered on time.</P>
 									</div>
 								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2.  What options are available for urgent assignment help in Sydney?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>For urgent assignments, Sydney students can choose expedited services to meet tight deadlines. We prioritize these requests to ensure that even last-minute assignments are completed promptly</p>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What options are available for urgent assignment help in Sydney?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+									<P>For urgent assignments, Sydney students can choose expedited services to meet tight deadlines. We prioritize these requests to ensure that even last-minute assignments are completed promptly</P> 
 										</div>
-									</div>
 								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3.   What types of assignments do you handle for students in Sydney?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											 <p>We handle a variety of assignments including essays, case studies, research papers, and lab reports, customized to fit the specific academic requirements of Sydney students.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4.  How do you ensure that assignments for Sydney students are original?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>All assignments are written from scratch and checked using plagiarism detection tools to ensure originality and compliance with Sydney's academic standards.</p>
-									
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5.  Can Sydney students get help with different sections of their dissertation?
-
-                                    <div class="icon fa fa-angle-down">
-
-                                    </div>
-                                </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, Sydney students can receive assistance with any part of their dissertation, such as the introduction, literature review, methodology, and analysis.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">6. How do you manage dissertation deadlines for Sydney students?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We manage deadlines efficiently by prioritizing dissertation projects and maintaining a structured workflow to ensure timely completion.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">7. What makes your dissertation writing service suitable for Sydney students?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Our service is tailored to Sydney students with expert guidance on research, writing, and editing, ensuring that dissertations meet local academic requirements.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="accordion block">
-								<div class="acc-btn">8. Can Sydney students request urgent help with their homework?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, we offer urgent homework help to ensure that even last-minute assignments are completed on time for Sydney students.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">9.  What subjects do you cover for homework help in Sydney?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We provide homework help across a wide range of subjects, including math, science, English, and more, tailored to the needs of Sydney students.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">10. How do you ensure homework assignments are plagiarism-free?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>All homework assignments are written from scratch, and we use plagiarism detection tools to ensure the work is original and adheres to academic standards.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-						 
-						</ul>
+							</div>
+						</li>
 						
-					</div>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. What types of assignments do you handle for students in Sydney?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We handle a variety of assignments including essays, case studies, research papers, and lab reports, customized to fit the specific academic requirements of Sydney students.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. How do you ensure that assignments for Sydney students are original?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>All assignments are written from scratch and checked using plagiarism detection tools to ensure originality and compliance with Sydney's academic standards. </p>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. Can Sydney students get help with different sections of their dissertation?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, Sydney students can receive assistance with any part of their dissertation, such as the introduction, literature review, methodology, and analysis.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+					 
 					
+					</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					  
+						 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. How do you manage dissertation deadlines for Sydney students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We manage deadlines efficiently by prioritizing dissertation projects and maintaining a structured workflow to ensure timely completion.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+							 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. What makes your dissertation writing service suitable for Sydney students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Our service is tailored to Sydney students with expert guidance on research, writing, and editing, ensuring that dissertations meet local academic requirements.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. Can Sydney students request urgent help with their homework?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, we offer urgent homework help to ensure that even last-minute assignments are completed on time for Sydney students.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">9. What subjects do you cover for homework help in Sydney?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We provide homework help across a wide range of subjects, including math, science, English, and more, tailored to the needs of Sydney students.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">10. How do you ensure homework assignments are plagiarism-free?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>All homework assignments are written from scratch, and we use plagiarism detection tools to ensure the work is original and adheres to academic standards.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
+					
+					</ul>
+					
+				</div>
 				 
-			</div>
-		</section>
-	
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
 	 
 @endsection

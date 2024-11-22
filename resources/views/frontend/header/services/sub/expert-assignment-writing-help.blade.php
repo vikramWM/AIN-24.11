@@ -758,18 +758,56 @@
                 </div>
             </div>
            </section>
+            <!-- new section -->
 
-           	 <!-- FAQs Question  section for canada -->
-           <section class="faq-section">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="column col-lg-12 col-md-12 col-sm-12">
-                        <div class="title-box">
-                            <h2 style="font-weight:500; font-size:30px; color:black;" class="my-4">Frequently asked questions</h2>
-                        </div>
-                        <ul class="accordion-box">
-                            <li class="accordion block">
-                                <div class="acc-btn">1.  What are expert assignment writers? <div class="icon fa fa-angle-down"></div></div>
+		  <section class="py-4" style="background-color:#BFECFF;">
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Expert Assignment Writing Help for Higher Education to Post-Graduation Students around the World</h2>
+					<div class="text">
+					  <p>At Assignment in Need, professional assignment help is offered for higher education students in Spain, Malaysia, Canada, Australia, the UAE, and the UK. With over 45,000 assignments delivered and 98.2% of orders arriving timely, the platform ensures reliability and excellence. The skilled writers understand students' needs at every level and create original, well-researched assignments across a wide range of subjects. Whether it’s a complex engineering project or a detailed social science essay, the experts ensure each assignment meets high standards and adheres to institutional guidelines. With a focus on quality, timely delivery, and privacy, Assignment in Need stands out. For students seeking expert assignment writing help, they provide guidance and support to aid academic growth. More than just delivering assignments, Assignment in Need is committed to empowering students to excel and move forward confidently in their studies.</p>
+					</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+           	  
+                   <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+		<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Help With Assignment Online</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1.  What are expert assignment writers? <div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
@@ -779,7 +817,7 @@
                                 </div>
                             </li>
                             <li class="accordion block">
-                                <div class="acc-btn">2.  Can Your Assignment Writer Write On Any Topic? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2.  Can Your Assignment Writer Write On Any Topic? <div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
@@ -789,7 +827,7 @@
                                 </div>
                             </li>
                             <li class="accordion block">
-                                <div class="acc-btn ">3.  Which is the best Expert assignment writing service? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3.  Which is the best Expert assignment writing service? <div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
@@ -798,8 +836,18 @@
                                     </div>
                                 </div>
                             </li>
-                            <li class="accordion block"> 
-                                <div class="acc-btn">4.  How Do Assignment Experts Help To Write Assignments For University Students? <div class="icon fa fa-angle-down"></div></div>
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+					<li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4.  How Do Assignment Experts Help To Write Assignments For University Students? <div class="icon fa fa-angle-down"></div></div>
                                   <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
@@ -810,7 +858,7 @@
                                   </div>
                             </li>
                             <li class="accordion block">
-                                <div class="acc-btn">5. What subjects do expert assignment writers cover?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. What subjects do expert assignment writers cover?<div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
@@ -832,11 +880,26 @@
                                     </div>
                                 </div>
                             </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-           </section>
- 
+						
+					 
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
   
 @endsection

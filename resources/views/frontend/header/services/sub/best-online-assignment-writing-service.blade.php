@@ -898,88 +898,134 @@
         </div>
        </section>
 
+             <!-- new section -->
 
+			<section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Get Best Online Assignment Writing Service for Students worldwide</h2>
+					  <div class="text">
+						  <p>At Assignment in Need, the focus is on providing the best online assignment writing service. With over 45,000 assignments delivered and 9/10 students reporting better grades, the platform stands out as a trusted academic partner. Students in Malaysia, Spain, Australia, Canada, UAE, and the UK can rely on the expert team to help them succeed in their studies. Recognizing the stress caused by tight deadlines and challenging assignments, the professionals offer tailored support to meet individual needs. With extensive experience across various subjects, the writers ensure high-quality work that is delivered on time. No matter the subject or location, Assignment in Need provides reliable, affordable, and student-friendly solutions to make academic journeys smoother and more successful.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
         
-       	 <!-- FAQs Question  section     -->
-	     <section class="faq-section ">
-			        <div class="auto-container">
-			    	<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                       
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class=" my-4">Frequently asked questions</h2>
-					</div>
-                        <ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1.  Can I trust online assignment services with my personal information?
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, reputable online assignment services prioritize client confidentiality and take strong measures to protect your personal information. They use secure encryption protocols and follow strict privacy policies to ensure that your data, such as your name, email, and payment details, are kept secure and never shared with third parties. It's important to check the service's privacy policy before placing an order to ensure your information is in safe hands.</p>
+       	 
+                   <!-- FAQs Question  section for Expert Pay For Assignment Help -->
+ 
+	        
+		<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Best Online Assignment Writing Service</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. Can I trust online assignment services with my personal information?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <p>Yes, reputable online assignment services prioritize client confidentiality and take strong measures to protect your personal information. They use secure encryption protocols and follow strict privacy policies to ensure that your data, such as your name, email, and payment details, are kept secure and never shared with third parties. It's important to check the service's privacy policy before placing an order to ensure your information is in safe hands.</p>
 										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. How do I know if the assignment will be plagiarism-free?
-                         
-                                    <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>Most professional online assignment services guarantee 100% original work. They have strict anti-plagiarism policies and use advanced plagiarism detection software to ensure that every assignment is unique and properly referenced. You can also request a plagiarism report along with your order for extra peace of mind, ensuring the work is authentic and meets academic integrity standards. </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3.Can I get help with any type of assignment?
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, online assignment services typically offer support for a wide variety of assignments, including essays, research papers, case studies, dissertations, lab reports, and more. They cover multiple subjects and academic levels, from high school to university. Whether you need help with technical assignments or creative projects, these services can provide the right expertise for your needs.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. Can online assignment services help with editing and proofreading?
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> Absolutely! Many online assignment services offer specialized editing and proofreading services. These services help refine your work by correcting grammar, punctuation, sentence structure, and formatting issues. Professional editors also ensure that your content flows well and adheres to academic writing standards, improving the overall quality of your assignment.  </p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. How do I place an order with an online assignment service?
-
-                                    <div class="icon fa fa-angle-down">
-
                                     </div>
                                 </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> Placing an order with an online assignment service is usually quick and easy. You start by filling out an order form on the website, where you’ll provide details about your assignment, such as the topic, length, academic level, deadline, and any specific requirements. Once you submit the form, you'll receive a price quote, and after making payment, the service will assign your task to a qualified writer. You can often track your order's progress and communicate with the writer if needed.</p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. How do I know if the assignment will be plagiarism-free?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Most professional online assignment services guarantee 100% original work. They have strict anti-plagiarism policies and use advanced plagiarism detection software to ensure that every assignment is unique and properly referenced. You can also request a plagiarism report along with your order for extra peace of mind, ensuring the work is authentic and meets academic integrity standards.</P>
 										</div>
-									</div>
-								</div>
-							</li>
-
-                           
-
-                           
-						</ul>
-					</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3.Can I get help with any type of assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Yes, online assignment services typically offer support for a wide variety of assignments, including essays, research papers, case studies, dissertations, lab reports, and more. They cover multiple subjects and academic levels, from high school to university. Whether you need help with technical assignments or creative projects, these services can provide the right expertise for your needs.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+						 
+                  	</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+					<li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Can online assignment services help with editing and proofreading?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Absolutely! Many online assignment services offer specialized editing and proofreading services. These services help refine your work by correcting grammar, punctuation, sentence structure, and formatting issues. Professional editors also ensure that your content flows well and adheres to academic writing standards, improving the overall quality of your assignment.</P>	
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How do I place an order with an online assignment service?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <P>Placing an order with an online assignment service is usually quick and easy. You start by filling out an order form on the website, where you’ll provide details about your assignment, such as the topic, length, academic level, deadline, and any specific requirements. Once you submit the form, you'll receive a price quote, and after making payment, the service will assign your task to a qualified writer. You can often track your order's progress and communicate with the writer if needed.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+						
+					 
+						 
+					
+					</ul>
+					
+				</div>
 				 
-			</div>
- </section>
-      
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>   
 @endsection

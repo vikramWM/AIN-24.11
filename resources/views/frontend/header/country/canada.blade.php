@@ -1059,121 +1059,136 @@
 		</div>
 	</section>
 
-	 <!-- FAQs Question  section for canada -->
-	     <section class="faq-section ">
-			        <div class="auto-container">
-			    	<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                       
-					<div class="sec-title">
-						<h2>Frequently asked questions</h2>
-					</div>
-						<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. How can I find a specialized assignment writer for my course in Canada?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>To find a specialized assignment writer in Canada, look for services that offer writers with expertise in your specific subject or course. Check their qualifications and previous work to ensure they are well-versed in your academic field.</p>
-										</div>
+	  
+        <!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Assignment Writing Help in the Canada  </b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. How can I find a specialized assignment writer for my course in Canada?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+									 <P>To find a specialized assignment writer in Canada, look for services that offer writers with expertise in your specific subject or course. Check their qualifications and previous work to ensure they are well-versed in your academic field. </P>
 									</div>
 								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. What types of essays can you help with for Canadian students?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>We can help with various types of essays, including argumentative, descriptive, analytical, and reflective essays. Just specify the type and any particular requirements to get tailored assistance.
-						               
-											</p>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What types of essays can you help with for Canadian students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+									<P>We can help with various types of essays, including argumentative, descriptive, analytical, and reflective essays. Just specify the type and any particular requirements to get tailored assistance.</P> 
 										</div>
-									</div>
 								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. How can I get help with homework in specific subjects?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											 <p>To get help with homework in specific subjects, specify the subject and topic when placing your request. Our team will assign a writer with expertise in that area to provide targeted assistance.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. What should I do if I need help with homework at the last minute?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>For last-minute homework help, contact us immediately with your request. We offer expedited services to handle urgent deadlines and ensure that your homework is completed on time.</p>
-									
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. What types of assignments can you handle for Canadian students?
-
-                                    <div class="icon fa fa-angle-down">
-
-                                    </div>
-                                </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We handle a variety of assignments, including research papers, case studies, term papers, and essays. Our team is equipped to tackle assignments across different subjects and academic levels, ensuring customized support for each request.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">6. How do you ensure that the assignment meets my specific guidelines?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We ensure that your assignment meets your specific guidelines by closely reviewing the instructions you provide. Our writers follow these guidelines meticulously and communicate with you if any clarifications are needed to meet your expectations</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">7. What if I need help with an assignment in a subject not listed on your site?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>If you need help with a subject not listed, contact us directly. We have a network of experts across various disciplines and can often accommodate requests for less common subjects by matching you with a qualified writer.	</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="accordion block">
-								<div class="acc-btn">8. How do you handle urgent assignments that require immediate attention?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> For urgent assignments, we prioritize them to ensure timely completion. You can select expedited services, and our team will work swiftly to meet your tight deadlines while maintaining high quality.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							 
-						</ul>
+							</div>
+						</li>
 						
-					</div>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. How can I get help with homework in specific subjects?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>To get help with homework in specific subjects, specify the subject and topic when placing your request. Our team will assign a writer with expertise in that area to provide targeted assistance.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. What should I do if I need help with homework at the last minute?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>For last-minute homework help, contact us immediately with your request. We offer expedited services to handle urgent deadlines and ensure that your homework is completed on time.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						 
+					 
 					
+					</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. What types of assignments can you handle for Canadian students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We handle a variety of assignments, including research papers, case studies, term papers, and essays. Our team is equipped to tackle assignments across different subjects and academic levels, ensuring customized support for each request.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. How do you ensure that the assignment meets my specific guidelines?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We ensure that your assignment meets your specific guidelines by closely reviewing the instructions you provide. Our writers follow these guidelines meticulously and communicate with you if any clarifications are needed to meet your expectations</P>
+										</div>
+								</div>
+							</div>
+						</li>
+							 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. What if I need help with an assignment in a subject not listed on your site?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>If you need help with a subject not listed, contact us directly. We have a network of experts across various disciplines and can often accommodate requests for less common subjects by matching you with a qualified writer.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. How do you handle urgent assignments that require immediate attention?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>For urgent assignments, we prioritize them to ensure timely completion. You can select expedited services, and our team will work swiftly to meet your tight deadlines while maintaining high quality.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
+						 
+					
+					</ul>
+					
+				</div>
 				 
-			</div>
- </section>
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
+
+
 @endsection

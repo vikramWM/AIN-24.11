@@ -831,73 +831,135 @@
         </div>
        </section>
 
+                   <!-- new section -->
 
-         	 <!-- FAQs Question  section     -->
-         <section class="faq-section">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="column col-lg-12 col-md-12 col-sm-12">
-                        <div class="title-box">
-                            <h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-                        </div>
-                        <ul class="accordion-box">
-                            <li class="accordion block">
-                                <div class="acc-btn">1. How do I improve my academic writing skills?<div class="icon fa fa-angle-down"></div></div>
+			<section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Do My Assignment for Me- Get Assignment Help World Wide For Students</h2>
+					<div class="text">
+						 <p>At Assignment in Need, We provide expert do my assignment for me services for students in the UAE, UK, Spain, Malaysia, Canada, and Australia Our 3,000+ PhD Experts always help students worldwide. Looking for assistance with essays, research projects, or other academic assignments? Our team of experienced writers is ready to assist you in achieving success. Facing challenges is common for students, so we offer timely support customised to your needs. Wherever students are, accessing the help needed to improve grades is simple with Assignment in Need. With over 45,000 assignments delivered, they handle the hard work so students can focus on their studies and future goals. Trust them to deliver quality, plagiarism-free assignments every time.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+
+                  <!-- FAQs Question  section for Expert Pay For Assignment Help -->
+ 
+	        
+		<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Best Online Assignment Writing Service</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. How do I improve my academic writing skills?<div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                            <p> Improving your academic writing skills involves practice and a willingness to learn. Start by reading academic papers in your field to understand the structure and style. Focus on expanding your vocabulary and practicing clear, concise writing. Regularly seeking feedback from peers or instructors can also help identify areas for improvement. Additionally, consider utilizing online resources, workshops, or writing centers at your institution for guidance and support.</p>
-                                        </div>
+                                        <P>Improving your academic writing skills involves practice and a willingness to learn. Start by reading academic papers in your field to understand the structure and style. Focus on expanding your vocabulary and practicing clear, concise writing. Regularly seeking feedback from peers or instructors can also help identify areas for improvement. Additionally, consider utilizing online resources, workshops, or writing centers at your institution for guidance and support.</P>
+									</div>
                                     </div>
                                 </div>
                             </li>
                             <li class="accordion block">
-                                <div class="acc-btn">2. What should I do if I don't understand the assignment requirements?  <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. What should I do if I don't understand the assignment requirements?<div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
-                                 <div class="content">
-                                    <div class="text">
-                                        <p>If you're unclear about the assignment requirements, don't hesitate to seek clarification. Start by re-reading the assignment prompt carefully to identify any key points or questions. If you're still unsure, reach out to your instructor or teaching assistant for guidance. Forming a study group with classmates can also be beneficial, as discussing the assignment with others may help you gain different perspectives and insights.</p>
-                                    </div>
-                                 </div>
-                                </div>
-                           </li>
-                           <li class="accordion block">
-                            <div class="acc-btn">3. Is it ethical to use academic writing services?<div class="icon fa fa-angle-down"></div></div>
-                            <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>Using academic writing services can be ethical, provided that you utilize them responsibly. These services can offer valuable support, such as helping you understand complex topics or providing guidance on writing techniques. However, it's essential to use the work as a learning tool rather than submitting it as your own. Always adhere to your institution's policies on academic integrity and ensure you give proper credit when using any external resources.</p>
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>If you're unclear about the assignment requirements, don't hesitate to seek clarification. Start by re-reading the assignment prompt carefully to identify any key points or questions. If you're still unsure, reach out to your instructor or teaching assistant for guidance. Forming a study group with classmates can also be beneficial, as discussing the assignment with others may help you gain different perspectives and insights.</P>
+										</div>
                                     </div>
                                 </div>
-                            </div>
-                           </li>
-                           <li class="accordion block">
-                            <div class="acc-btn">4. How can I avoid plagiarism in my assignments?<div class="icon fa fa fa-angle-down"></div></div>
-                               <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>To avoid plagiarism, always ensure you properly cite any sources you reference or use in your assignments. Familiarize yourself with the citation style required by your institution, such as APA, MLA, or Chicago. Additionally, paraphrasing ideas in your own words and summarizing information can help you integrate sources without copying directly. Finally, consider using plagiarism detection tools to check your work before submission, ensuring all sources are appropriately credited.</p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. Is it ethical to use academic writing services?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Using academic writing services can be ethical, provided that you utilize them responsibly. These services can offer valuable support, such as helping you understand complex topics or providing guidance on writing techniques. However, it's essential to use the work as a learning tool rather than submitting it as your own. Always adhere to your institution's policies on academic integrity and ensure you give proper credit when using any external resources.</P>
+										</div>
                                     </div>
                                 </div>
-                               </div>
-                           </li>
-                           <li class="accordion block">
-                            <div class="acc-btn">5. What are some effective time management strategies for students? <div class="icon fa fa-angle-down"></div></div>
-                            <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>Effective time management strategies for students include creating a detailed schedule that outlines your tasks, deadlines, and study sessions. Break larger assignments into smaller, manageable tasks and set specific goals for each study period. Prioritize your tasks based on deadlines and importance, and avoid multitasking to enhance focus and productivity. Utilizing tools such as planners or digital apps can help you stay organized, while setting aside regular breaks can boost your overall efficiency and reduce burnout.</p>
+                            </li>
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+					<li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. How can I avoid plagiarism in my assignments?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>To avoid plagiarism, always ensure you properly cite any sources you reference or use in your assignments. Familiarize yourself with the citation style required by your institution, such as APA, MLA, or Chicago. Additionally, paraphrasing ideas in your own words and summarizing information can help you integrate sources without copying directly. Finally, consider using plagiarism detection tools to check your work before submission, ensuring all sources are appropriately credited.</P>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. What are some effective time management strategies for students?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Effective time management strategies for students include creating a detailed schedule that outlines your tasks, deadlines, and study sessions. Break larger assignments into smaller, manageable tasks and set specific goals for each study period. Prioritize your tasks based on deadlines and importance, and avoid multitasking to enhance focus and productivity. Utilizing tools such as planners or digital apps can help you stay organized, while setting aside regular breaks can boost your overall efficiency and reduce burnout.</P>
+										</div>
                                     </div>
                                 </div>
-                            </div>
-                           </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
+                            </li>
+						
+					 
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
 
-
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
         
       
 	 

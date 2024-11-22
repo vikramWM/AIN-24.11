@@ -1076,146 +1076,146 @@
 			</div>
 		   </section>
 
+ 
 
-
-
-
-
-	 
-	
-	 <!-- FAQs Question  section for manchester -->
-	 
-	 <section class="faq-section ">
-			<div class="auto-container">
-				<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                      
-                        <div class="sec-title">							
-                        <h2>Frequently asked questions </h2>
-						</div>
-						<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. How can Manchester students benefit from your assignment writing service?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-										<p>Manchester students can access expert assistance for all types of assignments, including research, writing, and editing, ensuring high-quality work that meets local academic standards.</p>
-
-										 </div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. What options are available for urgent assignment help in Manchester?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-										<p>For urgent assignments, Manchester students can request expedited service to ensure their work is completed on time, even with tight deadlines.</p>
-									
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. What types of assignments can you help with for students in Manchester?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-										<p>We assist with a variety of assignments such as essays, reports, case studies, and more, tailored to the specific needs of Manchester students.</p>
-                                              </div>
-									   </div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. How do you ensure that assignments for Manchester students are original?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-										<p>We write all assignments from scratch and use plagiarism detection tools to guarantee originality and adherence to Manchester's academic standards.
-										</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">5. Can Manchester students receive help with different parts of their dissertation?
-                                    <div class="icon fa fa-angle-down">
-
-                                    </div>
-                                </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-										<p> Yes, Manchester students can get support with various sections of their dissertation, including the introduction, methodology, and literature review.
-										</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">6. What makes your dissertation writing service suitable for Manchester students?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>	Our service provides expert research, writing, and editing, tailored to the specific requirements and academic standards of Manchester students.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">7. How can Manchester students get help with their essays?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>	Manchester students can receive expert help with essay writing, including brainstorming, drafting, and editing to meet their academic requirements.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="accordion block">
-								<div class="acc-btn">8. Do you assist with different types of essays for Manchester students?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> Yes, we help with various types of essays, including argumentative, descriptive, and narrative essays, customized to Manchester students' needs.
-					
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							 
-							<li class="accordion block">
-								<div class="acc-btn">9. How do you ensure that essays for Manchester students are unique?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We ensure essays are original by writing from scratch and using plagiarism detection tools to verify that all work is unique.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							
-							 
-						</ul>
-						
-					       </div>
-					
+	   <!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+	   <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For   Assignment Writing Help in the Manchester, UK </b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
 					 
-		              	</div>
-	</section>
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. How can Manchester students benefit from your assignment writing service? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+									 <P>Manchester students can access expert assistance for all types of assignments, including research, writing, and editing, ensuring high-quality work that meets local academic standards.</P>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What options are available for urgent assignment help in Manchester?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+									<P>For urgent assignments, Manchester students can request expedited service to ensure their work is completed on time, even with tight deadlines.</P> 
+										</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. What types of assignments can you help with for students in Manchester?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We assist with a variety of assignments such as essays, reports, case studies, and more, tailored to the specific needs of Manchester students.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. How do you ensure that assignments for Manchester students are original?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>We write all assignments from scratch and use plagiarism detection tools to guarantee originality and adherence to Manchester's academic standards. </p>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. Can Manchester students receive help with different parts of their dissertation?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, Manchester students can get support with various sections of their dissertation, including the introduction, methodology, and literature review.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+					 
+					
+					</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					  
+						 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. What makes your dissertation writing service suitable for Manchester students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Our service provides expert research, writing, and editing, tailored to the specific requirements and academic standards of Manchester students.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+							 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. How can Manchester students get help with their essays?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Manchester students can receive expert help with essay writing, including brainstorming, drafting, and editing to meet their academic requirements.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. Do you assist with different types of essays for Manchester students?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, we help with various types of essays, including argumentative, descriptive, and narrative essays, customized to Manchester students' needs.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">9. How do you ensure that essays for Manchester students are unique?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We ensure essays are original by writing from scratch and using plagiarism detection tools to verify that all work is unique.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
 
 	  <!-- ass it is -->
 	<script>

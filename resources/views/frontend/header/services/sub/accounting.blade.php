@@ -786,114 +786,147 @@
 
 
      <!-- Conclusion -->
-    
-   <section class="case-study-section mt-5 conclsn ">
-	        <div class="auto-container  ">
-		    <div class="row clearfix ">
-
-			  <!-- Content Column -->
-			  <div class="content-column col-lg-5 col-md-12 col-sm-12  ">
-				<div class="inner-column  ">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">conclusion
-						 </h2>
-						 <div class="text" >
-						 <p>Dealing with assignments can be tough, especially with tricky subjects like accounting. But you don't have to face it alone! Whether you need help with numbers, managing results, or just understanding your coursework, Assignment in Need is here for you. From London and the UK to Canada, Australia, the UAE, and Malaysia, you can find expert help wherever you are. So, don't stress and reach out for support and make your academic journey successful!
-						 </p>
+     
+      <section>
+		<div class="auto-container">
+			<div class="row clearfix">
+				<div class="title-column col-lg-12 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<div class="title-box">
+							<div class="section-color-layer"></div>
+							<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">conclusion  </h2>
+							<p>Dealing with assignments can be tough, especially with tricky subjects like accounting. But you don't have to face it alone! Whether you need help with numbers, managing results, or just understanding your coursework, Assignment in Need is here for you. From London and the UK to Canada, Australia, the UAE, and Malaysia, you can find expert help wherever you are. So, don't stress and reach out for support and make your academic journey successful!
+							</p>
+						</div>
 					</div>
-					<!-- <a href="courses-single.html" class="theme-btn btn-style-seven"><span class="txt">Read Case
-							Study</span></a> -->
 				</div>
-			   </div>
+			</div>
+		</div>
+	  </section>
+	         <!-- new section -->
 
-			     <!-- Image Column -->
-			    <div class="image-column col-lg-7 col-md-12 col-sm-12 ">
+		 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Online Accounting Assignment Writing Help Services across the Globe</h2>
+					  <div class="text">
+						 <p>Assignment In Need provides reliable accounting assignment writing help for students worldwide, including those in the UAE, UK, Spain, Malaysia, Canada, and Australia. With an impressive 98% recurring client rate and 9 out of 10 clients reporting better grades, their skilled team handles all types of accounting tasks with precision and expertise. Accounting’s complex theories and detailed calculations are simplified through well-researched, error-free assignments tailored to meet academic goals. Each task is formatted correctly and designed to clarify challenging concepts, ensuring students gain confidence in their studies. Wherever you are, Assignment In Need is dedicated to helping you succeed in accounting.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
 				<div class="inner-column">
-					<div class="icon-layer-three" style="background-image:url(images2/icons/icon-12.png)"></div>
-					<div class="icon-layer-four" style="background-image:url(images2/icons/icon-3.png)"></div>
-					<div class="icon-layer-six" style="background-image:url(images2/icons/icon-2.png)"></div>
-					<div class="image titlt" data-tilt="" data-tilt-max="4"
-						style="will-change: transform; transform: perspective(300px) rotateX(0deg) rotateY(0deg);">
-						<img src="images2/resource/case.png" alt="">
-					        </div>
-				     </div>
-			      </div>
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
 
-		        </div>
-	         </div>
- </section>
-	 
-     	 <!-- FAQs Question  section for accounting -->
-          <section class="faq-section">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="column col-lg-12 col-md-12 col-sm-12">
-                        <div class="title-box">
-                            <h2 style="font-weight:500; font-size:30px; color:black" class="my-4">Frequently asked questions</h2>
-                        </div>
-                        <ul class="accordion-box">
-                            <li class="accordion block">
-                                <div class="acc-btn">1. What is Accounting Assignment Help?
-                                <div class="icon fa fa-angle-down"></div></div>
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+     	  
+		  <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Accounting Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. What is Accounting Assignment Help?<div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                            <p>Accounting Assignment Help is a service designed to support students who are struggling with their accounting coursework. Whether you need assistance with understanding complex topics, solving tricky problems, or writing detailed assignments, these services provide expert help to make your academic life easier.</p>
-                                        </div>
+                                        <P>Accounting Assignment Help is a service designed to support students who are struggling with their accounting coursework. Whether you need assistance with understanding complex topics, solving tricky problems, or writing detailed assignments, these services provide expert help to make your academic life easier.</P>
+									</div>
                                     </div>
                                 </div>
                             </li>
-                        
-                        <li class="accordion block">
-                            <div class="acc-btn">2. Who Can Benefit from Accounting Assignment Help?<div class="icon fa fa-angle-down"></div></div>
-                           <div class="acc-content">
-                            <div class="content">
-                                <div class="text">
-                                    <p>Anyone who is studying accounting can benefit from this help! Whether you’re a high school student, an undergraduate, or even pursuing a graduate degree, if you find yourself struggling with accounting concepts or assignments, these services are here to support you.
-                                    </p>
-                                </div>
-                            </div>
-                           </div>
-                        </li>
-                        <li class="accordion block" >
-                            <div class="acc-btn">3. Which Topics are Covered Under Accounting Assignment Help?
-                            <div class="icon fa fa-angle-down"></div></div>
-                              <div class="acc-content">
-                                <div class="content">
-                                    <div class="text">
-                                        <p>Accounting Assignment Help covers a wide range of topics including financial accounting, management accounting, forensic accounting, tax accounting, and auditing. No matter what specific area you’re dealing with, expert help is available to guide you through it.
-                                        </p>
-                                    </div>
-                                </div>
-                              </div>
-                        </li>
-                        <li class="accordion block">
-                            <div class="acc-btn">4. How Much Does Accounting Assignment Help Cost?<div class="icon fa fa-angle-down"></div></div>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. Who Can Benefit from Accounting Assignment Help?<div class="icon fa fa-angle-down"></div></div>
                                 <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                            <p>The cost of Accounting Assignment Help can vary depending on the complexity of the assignment and the level of expertise required. Many services offer competitive pricing and some even provide free perks, so you can find help that fits your budget.
-                                            </p>
-                                        </div>
+										 <P>Anyone who is studying accounting can benefit from this help! Whether you're a high school student, an undergraduate, or even pursuing a graduate degree, if you find yourself struggling with accounting concepts or assignments, these services are here to support you.</P>
+										</div>
                                     </div>
                                 </div>
-                        </li>
-                      <li class="accordion block">
-                        <div class="acc-btn">5. Is the Content Provided in Accounting Assignment Help Plagiarism-Free?
-                        <div class="icon fa fa-angle-down"></div></div>
-                        <div class="acc-content">
-                            <div class="content">
-                                <div class="text">
-                                  <p>Yes, the content provided is usually plagiarism-free. Reputable services ensure that all assignments are original and written from scratch, so you get unique work that meets academic standards.
-                                  </p>
-								   
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. Which Topics are Covered Under Accounting Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+										 <P>Accounting Assignment Help covers a wide range of topics including financial accounting, management accounting, forensic accounting, tax accounting, and auditing. No matter what specific area you're dealing with, expert help is available to guide you through it.</P>
+										</div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                     </li>
-                     </ul>
-                    </div>
-                </div>
-            </div>
-          </section>
+                            </li>
+							 
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. How Much Does Accounting Assignment Help Cost?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>The cost of Accounting Assignment Help can vary depending on the complexity of the assignment and the level of expertise required. Many services offer competitive pricing and some even provide free perks, so you can find help that fits your budget.</P>
+									</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. Is the Content Provided in Accounting Assignment Help Plagiarism-Free?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>Yes, the content provided is usually plagiarism-free. Reputable services ensure that all assignments are original and written from scratch, so you get unique work that meets academic standards.</P>
+									</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section>
      
 @endsection

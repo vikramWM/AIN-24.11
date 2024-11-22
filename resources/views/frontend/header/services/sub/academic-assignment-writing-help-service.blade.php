@@ -841,75 +841,136 @@
             </div>
         </section>
 
+           <!-- new section -->
 
+			<section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
-     <!-- FAQs Question  section     -->
-     <section class="faq-section">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="column col-lg-12 col-md-12 col-sm-12">
-                        <div class="title-box">
-                            <h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-                        </div>
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Online Academic Assignment Writing Help Services Worldwide- All Types Assignment Help for Academic Students</h2>
+					<div class="text">
+						 <p>We provide academic assignment writing help for students in the UK, Malaysia, Spain, Australia, Canada, and the UAE. Online writing services aim to support students at all levels with different types of assignments. Need assistance with essays, research papers, dissertations, or other academic tasks? Our 3000+ PhD skilled experts are here to provide the support you need. Assignment in Need takes pride in delivering original content that meets students' needs, with 98% recurring clients reflecting their reliability and quality. Focusing on student success, every assignment is thoroughly researched and meticulously crafted. No matter the academic requirements, support is readily available to help students achieve their goals.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
 
-                   <ul class="accordion-box">
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+
+     <!-- FAQs Question  section for Expert Pay For Assignment Help -->
+ 
+	        
+	 <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Academic Assignment Writing Help Service</b></h2>  
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. What Types of Assignments Can You Help With?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>We assist with a wide variety of academic assignments across different subjects and educational levels, including essays, research papers, dissertations, case studies, and lab reports. Our experienced professionals are equipped to handle diverse assignment types and provide tailored support to ensure high-quality results that meet your specific requirements.</P>
+									</div>
+                                    </div>
+                                </div>
+                            </li>
                             <li class="accordion block">
-                        <div class="acc-btn">1. What Types of Assignments Can You Help With?<div class="icon fa fa-angle-down"></div></div>
-                          <div class="acc-content">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. How Do I Place an Order for Academic Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                    <p> We assist with a wide variety of academic assignments across different subjects and educational levels, including essays, research papers, dissertations, case studies, and lab reports. Our experienced professionals are equipped to handle diverse assignment types and provide tailored support to ensure high-quality results that meet your specific requirements.</p>
+                                          <P>Placing an order is simple. First, visit our website and fill out the “Order Now” form with details about your assignment, including type, subject, deadline, and specific instructions. After submitting the form, you'll make a secure payment, and then receive a confirmation with assignment details and estimated delivery time. You can track your order and communicate with your assigned writer through your account. Once completed, your assignment will be delivered via email or through your account for your review.</P>
+										</div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="accordion block">
-                        <div class="acc-btn">2. How Do I Place an Order for Academic Assignment Help? <div class="icon fa fa-angle-down"></div></div>
-                        <div class="acc-content">
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. Do You Offer Assistance with Academic Editing and Proofreading?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                    <p> Placing an order is simple. First, visit our website and fill out the “Order Now” form with details about your assignment, including type, subject, deadline, and specific instructions. After submitting the form, you'll make a secure payment, and then receive a confirmation with assignment details and estimated delivery time. You can track your order and communicate with your assigned writer through your account. Once completed, your assignment will be delivered via email or through your account for your review.</p>
+                                         <P>Yes, we provide editing and proofreading services to enhance your writing's quality. Our experienced editors will review your work for clarity, coherence, grammar, punctuation, and adherence to academic standards. We aim to help you produce polished, professional writing that meets your instructors' expectations, ensuring your final submission is error-free and well-structured.</P>
+										</div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="accordion block">
-                        <div class="acc-btn">3. Do You Offer Assistance with Academic Editing and Proofreading? <div class="icon fa fa-angle-down"></div></div>
-                        <div class="acc-content">
+                            </li>
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+					<li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Do You Offer Help with Group Projects or Collaborative Assignments?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                    <p> Yes, we provide editing and proofreading services to enhance your writing's quality. Our experienced editors will review your work for clarity, coherence, grammar, punctuation, and adherence to academic standards. We aim to help you produce polished, professional writing that meets your instructors' expectations, ensuring your final submission is error-free and well-structured.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="accordion block">
-                        <div class="acc-btn">4. Do You Offer Help with Group Projects or Collaborative Assignments? <div class="icon fa fa-angle-down"></div></div>
-                        <div class="acc-content">
+                                          <P>Absolutely! We understand that group projects can be challenging due to the need for collaboration. Our team can assist with research, writing individual sections, and compiling the final document. By providing the guidelines and your group's input, we can ensure that the final submission reflects all members' contributions while maintaining a cohesive and professional presentation.</P>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. What Are Some Effective Time Management Strategies for Students?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
                                     <div class="content">
                                         <div class="text">
-                                    <p> Absolutely! We understand that group projects can be challenging due to the need for collaboration. Our team can assist with research, writing individual sections, and compiling the final document. By providing the guidelines and your group's input, we can ensure that the final submission reflects all members' contributions while maintaining a cohesive and professional presentation.</p>
+                                         <P>Effective time management is vital for academic success. Students can prioritize tasks by identifying urgent assignments, set specific goals, and break larger projects into manageable tasks. Creating a detailed schedule with a planner can help allocate study time effectively. Minimizing distractions and using techniques like the Pomodoro Technique-studying for 25 minutes followed by a 5-minute break—can improve focus. Regularly reviewing and adjusting schedules as needed is also crucial for staying on track. Implementing these strategies can enhance productivity, reduce stress, and lead to better academic outcomes.</P>
+										</div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="accordion block">
-                        <div class="acc-btn">5. What Are Some Effective Time Management Strategies for Students? <div class="icon fa fa-angle-down"></div></div>
-                        <div class="acc-content">
-                                    <div class="content">
-                                        <div class="text">
-                                    <p> Effective time management is vital for academic success. Students can prioritize tasks by identifying urgent assignments, set specific goals, and break larger projects into manageable tasks. Creating a detailed schedule with a planner can help allocate study time effectively. Minimizing distractions and using techniques like the Pomodoro Technique—studying for 25 minutes followed by a 5-minute break—can improve focus. Regularly reviewing and adjusting schedules as needed is also crucial for staying on track. Implementing these strategies can enhance productivity, reduce stress, and lead to better academic outcomes.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                  </ul>
-                </div>
-            </div>
-        </div>
-      </section>
+                            </li>
+						
+					 
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
 
-
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
+        
  
         
       

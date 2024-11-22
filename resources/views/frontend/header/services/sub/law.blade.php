@@ -920,87 +920,133 @@
 		</div>
 	</section>
 
-     
-        
-   
-       	 <!-- FAQs Question  section for canada -->
-	     <section class="faq-section ">
-			        <div class="auto-container">
-			    	<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                         
-						<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-					   </div>
-                        <ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. How do I submit my law assignment for help?
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>You can submit your assignment either by clicking the submit button on our website or by emailing it with your specific requirements. In both cases, we'll respond to your assignment promptly.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. What is Law Assignment Help?                        
-                                    <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>Law Assignment Help is a service where expert writers assist you with your law assignments. Whether it's criminal law, contract law, constitutional law, or international law, our professionals provide the guidance and support you need to excel.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. How Can I Place an Order for Law Assignment Help?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Placing an order is easy! Just fill out our online form with your assignment details, get a quote, make a secure payment, and we’ll assign your task to a qualified law expert.
-                                            </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. What Are the Qualifications of Your Law Assignment Writers?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Our law assignment writers are highly qualified professionals with extensive knowledge and experience in various legal fields. They have advanced degrees in law and a track record of helping students succeed.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. Do you offer help with legal research and writing?
-                                    <div class="icon fa fa-angle-down">
+        <!-- new section -->
 
+		 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Get the Best Online Law Assignment Writing Help Services Worldwide</h2>
+					  <div class="text">
+						 <p>At Assignment in Need, they offer law assignment writing help to students, with over 30,000 happy clients and 98.2% of orders arriving timely. Whether pursuing studies in Canada, Malaysia, Spain, Australia, the UAE, or the UK, students can rely on the expert team for support with every law assignment. Tackling complex legal topics can be challenging, and Assignment in Need is dedicated to providing reliable, affordable help. Experienced writers handle each assignment, with customer support available 24/7. Trusted payment methods offer extra security, and students can be confident that their assignments will be completed correctly and on time. For those seeking law assignment writing help, Assignment in Need ensures students achieve academic success while making their assignments less stressful.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+        
+    
+ <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+ <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Law Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. How do I submit my law assignment for help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>You can submit your assignment either by clicking the submit button on our website or by emailing it with your specific requirements. In both cases, we'll respond to your assignment promptly.</P>
+										</div>
                                     </div>
                                 </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, we do! Our experts can assist with both legal research and writing, ensuring your assignments are well-researched, clearly written, and properly cited.</p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. What is Law Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <p>Law Assignment Help is a service where expert writers assist you with your law assignments. Whether it's criminal law, contract law, constitutional law, or international law, our professionals provide the guidance and support you need to excel.</p>
+                                           
+                                            
 										</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. How Can I Place an Order for Law Assignment Help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>Placing an order is easy! Just fill out our online form with your assignment details, get a quote, make a secure payment, and we'll assign your task to a qualified law expert.</P>
 									</div>
-								</div>
-							</li>
-
-                           
-
-                           
-						</ul>
-					</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. What Are the Qualifications of Your Law Assignment Writers?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>Our law assignment writers are highly qualified professionals with extensive knowledge and experience in various legal fields. They have advanced degrees in law and a track record of helping students succeed.</P>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. Do you offer help with legal research and writing?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>Yes, we do! Our experts can assist with both legal research and writing, ensuring your assignments are well-researched, clearly written, and properly cited.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+					</ul>
 					
+				</div>
 				 
-			</div>
- </section>
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
       
 @endsection

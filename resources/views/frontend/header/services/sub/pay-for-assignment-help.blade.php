@@ -762,73 +762,135 @@
 				</div>
 			</div>
 		  </section>
-		  <!-- Frequently asked questions -->
-           <section class="faq-section">
-			 <div class="auto-container">
-				<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12 ">
-						<div class="title-box">
-							<h2 style="font-size:30px; color:black; font-weight:500;">Frequently asked questions</h2>
+		   <!-- new section -->
+
+			<section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
+
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Assignment in Need Offer Students for Pay Assignment Help For Me Worldwide</h2>
+					<div class="text">
+						 <p>At Assignment in Need, dedicated support helps students in Canada, Australia, UAE, UK, Spain, and Malaysia with assignment tasks that lighten academic pressure. Skilled writers provide customised assistance across many subjects, making sure your paper matches all your specific needs. We delivered 45000+ assignments worldwide and got a 4.5 rating . Choosing our assignment help means you’re not just paying for a paper—you gain extra time for other important things. If you're looking to pay for assignment help, our straightforward, secure, and efficient process ensures you get the best value. With reasonable prices and flexible options for any budget, let us handle the hard work, so you can achieve success without feeling stressed.</p>
 						</div>
-						<ul class="accordion-box">
-							<li class="accordion block">
-							 <div class="acc-btn">1. How do I know if an assignment help service is reliable? <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>To determine if an assignment help service is reliable, look for a few key things: at Assignment in need you can check out our customer reviews, see if we have a clear track record of delivering on time. We also offer guarantees like free revisions or a refund policy.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">2. Can I request revisions if I'm not satisfied with the assignment? <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Absolutely! Most assignment help services, including Assignment in Need, offer free revisions to ensure you're happy with the final product. If something doesn’t meet your expectations, just let us know, and we'll make the necessary changes until it’s exactly what you need.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. How can I ensure the assignment meets academic standards? <div class="icon fa fa-angle-down"></div></div>
-								 <div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>To ensure your assignment meets academic standards, make sure to provide detailed instructions when placing your order. The more specific you are about your requirements, the better we can tailor the work to match your expectations. Assignment in Need’s expert writers are familiar with various academic formats and styles, so they’ll make sure your assignment is well-researched, properly cited, and meets the required guidelines.</p>
-										</div>
-									</div>
-								 </div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. Are the services confidential when I pay for assignment help?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> Yes, confidentiality is a top priority! Assignment in Need understands the importance of privacy, and all your personal information, as well as payment details, are kept completely secure. When you pay for assignment help, you can rest assured that your data is protected, and your identity remains confidential.</p>
-										</div>
-									</div>
-								</div>
-						    </li>
-							<li class="accordion block">
-								<div class="acc-btn">5. Can I get urgent assignment help if I pay for it? <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Definitely! If you need urgent assignment help, Assignment in Need offers fast-tracked services designed to meet tight deadlines. Just let us know how quickly you need the work done, and we'll prioritize your assignment to ensure it's completed on time, without compromising on quality.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
-					</div>
-				</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
 			 </div>
-		   </section>
 
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
 
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+
+             
+                  <!-- FAQs Question  section for Expert Pay For Assignment Help -->
+ 
+	        
+		<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Assignment Helper</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. How do I know if an assignment help service is reliable?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>To determine if an assignment help service is reliable, look for a few key things: at Assignment in need you can check out our customer reviews, see if we have a clear track record of delivering on time. We also offer guarantees like free revisions or a refund policy.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. Can I request revisions if I'm not satisfied with the assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Absolutely! Most assignment help services, including Assignment in Need, offer free revisions to ensure you're happy with the final product. If something doesn't meet your expectations, just let us know, and we'll make the necessary changes until it's exactly what you need.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. How can I ensure the assignment meets academic standards?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>To ensure your assignment meets academic standards, make sure to provide detailed instructions when placing your order. The more specific you are about your requirements, the better we can tailor the work to match your expectations. Assignment in Need's expert writers are familiar with various academic formats and styles, so they'll make sure your assignment is well-researched, properly cited, and meets the required guidelines.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+						 
+                  	</ul>
+					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					 
+						
+					<li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Are the services confidential when I pay for assignment help? <div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Yes, confidentiality is a top priority! Assignment in Need understands the importance of privacy, and all your personal information, as well as payment details, are kept completely secure. When you pay for assignment help, you can rest assured that your data is protected, and your identity remains confidential.</P>
+											</div>
+                                    </div>
+                                  </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. Can I get urgent assignment help if I pay for it?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <P>Definitely! If you need urgent assignment help, Assignment in Need offers fast-tracked services designed to meet tight deadlines. Just let us know how quickly you need the work done, and we'll prioritize your assignment to ensure it's completed on time, without compromising on quality.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+						
+					 
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
  
 @endsection

@@ -732,7 +732,7 @@
      
         
      <!--Conclusion -->
-     <!-- <section class="py-0">
+     <section class="py-0">
 		<div class="auto-container ">
 			<div class="row clearfix">
 				<div class="title-column col-lg-12 col-md-12 col-sm-12">
@@ -748,121 +748,134 @@
 				</div>
 			</div>
 		</div>
-	</section> -->
-         <!-- new code of conclusion -->
-  
-	<section class="case-study-section mt-5 conclsn">
-    	<div class="auto-container">
-		<div class="row clearfix">
+	</section>
+
+	 <!-- new section -->
+
+	 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
 			<!-- Content Column -->
-			<div class="content-column col-lg-5 col-md-12 col-sm-12   ">
-				<div class="inner-column mt-5">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="py-4">Conclusion </h2>
-					<div class="text">
-						<p>  At Assignment in Need, we offer affordable, top-quality history help from expert writers. With our services, you can submit assignments on time, and get great grades. Let us handle your history assignments and take the stress off your shoulders!  
-						</p>
-						 
-					</div>
-					<!-- <a href="courses-single.html" class="theme-btn btn-style-seven"><span class="txt">Read Case
-							Study</span></a> -->
-				</div>
-			</div>
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Get the Best History Assignment Writing Help Services from Professional Experts Worldwide</h2>
+					  <div class="text">
+						 <p>At Assignment in Need, they offer exceptional History assignment writing help for students, with 98% recurring clients and 9/10 students reporting better grades. Whether studying in the UK, Canada, Malaysia, Spain, Australia, or the UAE, students can rely on their team of expert writers for assistance with history assignments. History can be challenging, often requiring students to recall dates, events, and figures from different regions. To address this, professional historians provide accurate, detailed solutions tailored to academic needs. With affordable prices and 24/7 support, timely delivery and 100% plagiarism-free assignments are guaranteed, ensuring students achieve excellent grades effortlessly. Students can count on Assignment in Need to help them excel in their history studies.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
 
 			<!-- Image Column -->
-			<div class="image-column col-lg-7 col-md-12 col-sm-12">
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
 				<div class="inner-column">
-					<div class="icon-layer-three" style="background-image:url(images2/icons/icon-12.png)"></div>
-					<div class="icon-layer-four" style="background-image:url(images2/icons/icon-3.png)"></div>
-					<div class="icon-layer-six" style="background-image:url(images2/icons/icon-2.png)"></div>
-					<div class="image titlt" data-tilt="" data-tilt-max="4"
-						style="will-change: transform; transform: perspective(300px) rotateX(0deg) rotateY(0deg);">
-						<img src="images2/resource/case.png" alt="">
-					</div>
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
 				</div>
 			</div>
 
 		</div>
 	</div>
-  </section>
-	     <!-- end new code of conclusion -->
-       	 <!-- FAQs Question  section for canada -->
-	     <section class="faq-section ">
-			        <div class="auto-container">
-			    	<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                       
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class=" my-4">Frequently asked questions</h2>
-					</div>
-                        <ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. What types of history assignments can you help with?
-                                <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>When you get expert history assignment help from us, you can relax while we handle your assignments. We cover history essays, long-answer questions, research papers, dissertations, and theses for any education level.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. How do I submit my history assignment for help?                         
-                                    <div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>You can submit your assignment either by clicking the submit button on our website or by emailing it with your specific requirements. In both cases, we'll respond to your assignment promptly.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. What information do you need to help with my history assignment?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We need the basic information like, submission date, type of assignment, and other general instructions you might have. Submit your assignment and our history experts will contact you regarding all the important information.
-                                            </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. How much does history assignment help cost?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We offer the most affordable prices based on your needs and the complexity of the assignment. You'll receive a price quote after we review your assignment.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. How quickly can you complete my history assignment?
-                                    <div class="icon fa fa-angle-down">
+            </section>
 
+            <!-- end new section -->
+         
+       	  
+
+ <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+ <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For History Assignment Writing Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. What types of history assignments can you help with?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                        <P>When you get expert history assignment help from us, you can relax while we handle your assignments. We cover history essays, long-answer questions, research papers, dissertations, and theses for any education level.</P>
+										</div>
                                     </div>
                                 </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Our main aim is to finish your assignment as quickly as possible, ideally one day before it's due. However, in cases where there's a tight deadline, like a 3-day delivery requirement, you can expect your work to be completed by either the second or third day. </p>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. How do I submit my history assignment for help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>You can submit your assignment either by clicking the submit button on our website or by emailing it with your specific requirements. In both cases, we'll respond to your assignment promptly.</P>
 										</div>
-									</div>
-								</div>
-							</li>
-
-                           
-
-                           
-						</ul>
-					</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. What information do you need to help with my history assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>We need the basic information like, submission date, type of assignment, and other general instructions you might have. Submit your assignment and our history experts will contact you regarding all the important information.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+						 
+                  	</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. How much does history assignment help cost?<div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                         <P>We offer the most affordable prices based on your needs and the complexity of the assignment. You'll receive a price quote after we review your assignment.</P>
+										</div>
+                                    </div>
+                                  </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How quickly can you complete my history assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <P>Our main aim is to finish your assignment as quickly as possible, ideally one day before it's due. However, in cases where there's a tight deadline, like a 3-day delivery requirement, you can expect your work to be completed by either the second or third day.</P>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							 
+					</ul>
+					
+				</div>
 				 
-			</div>
- </section>
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
       
 @endsection

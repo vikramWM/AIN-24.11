@@ -877,34 +877,39 @@
 		</div>
 	</section>
 
-        <!-- FAQs Question  section -->
-	<section class="faq-section ">
-			<div class="auto-container">
-				<div class="row clearfix">
-					<div class="column col-lg-12 col-md-12 col-sm-12">
-                        
-                        <div class="sec-title">							
-                        <h2>Frequently asked questions </h2>
-						</div>
-						<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. Do you offer assignment writing services in London?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, Assignment In Need provides comprehensive assignment writing services for students in London. Our team of expert writers is familiar with the academic standards and requirements of universities in London, ensuring top-quality work tailored to your needs.
-											</p>
+        
+
+        <!-- FAQs Question  section for Dissertation Writing Help Services -->
+ 
+	        
+	 <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For   Assignment Writing Help in the London, UK </b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. Do you offer assignment writing services in London? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="display: none;">
+								<div class="content">
+									<div class="text">
+									 <P>Yes, Assignment In Need provides comprehensive assignment writing services for students in London. Our team of expert writers is familiar with the academic standards and requirements of universities in London, ensuring top-quality work tailored to your needs.</P>
 										</div>
-									</div>
 								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. What subjects do you cover for assignment help in London?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>We cover a wide range of subjects for students in London, including but not limited to:
+							</div>
+						</li>
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. What subjects do you cover for assignment help in London?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
+								<div class="content">
+									<div class="text">
+									<p>We cover a wide range of subjects for students in London, including but not limited to:
 												<ul>
 													<li>1. Business and Management</li>
 													<li>2. Engineering</li>
@@ -917,124 +922,126 @@
 												</ul>
 											</p>
 										</div>
-									</div>
 								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3.  Are your assignment writing services in London affordable?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											 <p>Yes, we offer affordable pricing for our assignment writing services in London. We understand that students often have budget constraints, so we provide competitive rates and special discounts to make our services accessible to everyone.
-											 </p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. Can I get a discount on my first order for assignment help in London?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> Yes, we offer special discounts for first-time customers in London. Check our website for the latest promotions and discount codes, and take advantage of our affordable pricing on your first order.
-											</p>
-									
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. Do you have London-based writers for local insights?
-
-                                    <div class="icon fa fa-angle-down">
-
-                                    </div>
-                                </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>While our team consists of writers from various backgrounds, we have several London-based writers who provide local insights and understand the specific requirements of London universities. This ensures that your assignment is tailored to meet the expectations of your institution.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">6. What if I'm not satisfied with the assignment help I receive in London?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We strive to ensure complete satisfaction with our services. If you're not happy with the quality of your assignment, we offer free revisions to make necessary adjustments. Additionally, we have a money-back guarantee if the work does not meet your requirements.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-                            <li class="accordion block">
-								<div class="acc-btn">7. Do you offer proofreading and editing services for students in London?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, in addition to our writing services, Assignment In Need offers proofreading and editing services to help refine and perfect your assignments. Our expert editors will ensure that your work is error-free and adheres to the required academic standards.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
-							<li class="accordion block">
-								<div class="acc-btn">8. Can I get a discount on assignment help services in London?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, we often offer special discounts and promotions for students in London. Check our website for the latest offers and discounts on assignment help services.
-
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">9. How do you ensure the quality of assignments?
-
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p> We have a team of experienced and qualified writers who are experts in their respective fields. Each assignment undergoes a rigorous quality check to ensure it meets academic standards and is free of plagiarism.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">10. Is your service confidential?
-								<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, we prioritize your privacy and confidentiality. All your personal information and order details are kept secure and are never shared with third parties.
-											</p>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
+							</div>
+						</li>
 						
-					</div>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. Are your assignment writing services in London affordable?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>Yes, we offer affordable pricing for our assignment writing services in London. We understand that students often have budget constraints, so we provide competitive rates and special discounts to make our services accessible to everyone.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. Can I get a discount on my first order for assignment help in London?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>Yes, we offer special discounts for first-time customers in London. Check our website for the latest promotions and discount codes, and take advantage of our affordable pricing on your first order. </p>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5. Do you have London-based writers for local insights?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>While our team consists of writers from various backgrounds, we have several London-based writers who provide local insights and understand the specific requirements of London universities. This ensures that your assignment is tailored to meet the expectations of your institution.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+					 
 					
+					</ul>
 					
+				</div>
+			
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					  
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6. What if I'm not satisfied with the assignment help I receive in London?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <p>We strive to ensure complete satisfaction with our services. If you're not happy with the quality of your assignment, we offer free revisions to make necessary adjustments. Additionally, we have a money-back guarantee if the work does not meet your requirements. </p>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. Do you offer proofreading and editing services for students in London?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, in addition to our writing services, Assignment In Need offers proofreading and editing services to help refine and perfect your assignments. Our expert editors will ensure that your work is error-free and adheres to the required academic standards.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+							 
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8. Can I get a discount on assignment help services in London?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, we often offer special discounts and promotions for students in London. Check our website for the latest offers and discounts on assignment help services.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">9. How do you ensure the quality of assignments?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>We have a team of experienced and qualified writers who are experts in their respective fields. Each assignment undergoes a rigorous quality check to ensure it meets academic standards and is free of plagiarism.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">10. Is your service confidential?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										 <P>Yes, we prioritize your privacy and confidentiality. All your personal information and order details are kept secure and are never shared with third parties.</P>
+										</div>
+								</div>
+							</div>
+						</li>
+					
+					</ul>
+					
+				</div>
 				 
-			</div>
-		</section>
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
+		</div>
+		 
+   </section> 
+
+
+
+
 	<script>
 
 		document.addEventListener('DOMContentLoaded', function() {

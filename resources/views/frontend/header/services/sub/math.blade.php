@@ -737,104 +737,153 @@
 			</div>
 		</div>
 	</section>
-     
+      <!-- new section -->
 
-       	 <!-- FAQs Question  section for math -->
-	   
-    
-	  <section class="faq-section">
-		<div class="auto-container">
-			<div class="row clearfix">
-				<div class="column col-lg-12 col-md-12 col-sm-12">
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Frequently asked questions</h2>
-					</div>
-					<ul class="accordion-box">
-							<li class="accordion block ">
-								<div class="acc-btn">1. How do I submit my math assignment for help?	<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>You can submit your assignment in two ways, by clicking on the submit button on our website and the other by emailing it with your specific requirements. In both cases, we’ll respond to your assignment accordingly.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block active-block">
-								<div class="acc-btn active">2. How much does it cost to get help with my math assignment?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content current">
-									<div class="content">
-										<div class="text">
-											<p>We provide the most affordable prices and they depend on your needs and the complexity of the assignment. You'll get a price quote once we review your assignment after you send it to us.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">3. How quickly can I get my assignment done?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Our main goal is to complete your assignment as soon as possible, typically a day before the required date. But in cases of tight deadlines, for example, a 3-day delivery, you can expect your work on day 2 or day 3.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-							<li class="accordion block">
-								<div class="acc-btn">4. Can I get revisions if I'm not satisfied with the solution?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes you can get revisions if you are not satisfied with our work. If you are not happy with the final product then you can ask for changes as many times as you need within a month.</p>
-										</div>
-									</div>
-								</div>
-							</li>
-                            <li class="accordion block">
-								<div class="acc-btn">
-                                    5. How do I know my assignment is original and free of plagiarism?	
-                                    <div class="icon fa fa-angle-down">
+	 <section class="py-4" style="background-color:#BFECFF;"  >
+	            <div class="auto-container">
+                    <div class="row clearfix">
 
+			<!-- Content Column -->
+			  <div class="content-column col-lg-6 col-md-12 col-sm-12">
+				 <div class="inner-column">
+					<h2 class="py-3" style="font-weight:500; font-size: 30px; color:black">Online Math Assignment Writing Help Services for All Students across the World</h2>
+					  <div class="text">
+						 <p>Assignment in Need offers math assignment help designed to support students in Spain, Australia, Canada, UAE, the UK, and Malaysia with their academic needs. With 30,000+ happy clients and 9/10 students reporting better grades, their team of experienced experts provides personalised assistance, guiding learners through every aspect of their maths assignments, from foundational concepts to advanced topics. Whether it’s algebra, calculus, or statistics, the platform ensures improved understanding and performance. With a focus on helping students achieve academic success, prompt delivery, and clear solutions, Assignment in Need makes building a strong foundation in maths both accessible and effective. Mastering maths is within reach, no matter where students are.</p>
+						</div>
+					 
+			          <a href="/upload-your-assignment"> <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >Order Now</button> </a>	 
+			     </div>
+			 </div>
+
+			<!-- Image Column -->
+			<div class="image-column col-lg-6 col-md-12 col-sm-12">
+				<div class="inner-column">
+					 <div class="image titlt"  style="mix-blend-mode: multiply;">
+						<img src="images2\resource\unnamed (5).png  " alt="">  
+					</div>        
+				</div>
+			</div>
+
+		</div>
+	</div>
+            </section>
+
+            <!-- end new section -->
+ 
+	    <!-- FAQs Question  section for Expert Assignment Writing Help -->
+ 
+	        
+		<section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Math Assignment Help</b></h2> 
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">1. How do I submit my math assignment for help?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <p>You can submit your assignment in two ways, by clicking on the submit button on our website and the other by emailing it with your specific requirements. In both cases, we'll respond to your assignment accordingly.</p>
+										</div>
                                     </div>
                                 </div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>We take pride in delivering unique assignments that are original and plagiarism-free. For your surety and peace of mind, we can provide a plagiarism report along with the assignment.	</p>
-										</div>
-									</div>
-								</div>
-							</li>
-
+                            </li>
                             <li class="accordion block">
-								<div class="acc-btn">6. Can I get help with group assignments?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Yes, we also assist with group assignments. Our only requirement is that all the group members  have to be aware and agree to collaborate.	We also have an ongoing offer where you can get 1 group project free of cost! All you have to do is refer us to four friends.</p>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">2. How much does it cost to get help with my math assignment?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                          <p>We provide the most affordable prices and they depend on your needs and the complexity of the assignment. You'll get a price quote once we review your assignment after you send it to us.</p>
 										</div>
-									</div>
-								</div>
-							</li>
-
+                                    </div>
+                                </div>
+                            </li>
                             <li class="accordion block">
-								<div class="acc-btn">7. What if my assignment involves complex mathematical modeling or simulations?<div class="icon fa fa-angle-down"></div></div>
-								<div class="acc-content">
-									<div class="content">
-										<div class="text">
-											<p>Our experts are well-equipped to handle complex mathematical modeling and simulations. All you have to do is submit your assignment with the necessary details, and we’ll match you with one of our experts that specializes in your field.</p>
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">3. How quickly can I get my assignment done?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <p>Our main goal is to complete your assignment as soon as possible, typically a day before the required date. But in cases of tight deadlines, for example, a 3-day delivery, you can expect your work on day 2 or day 3.</p>
 										</div>
-									</div>
-								</div>
-							</li>
-		             </ul>
+                                    </div>
+                                </div>
+                            </li>
+							<li class="accordion block"> 
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">4. Can I get revisions if I'm not satisfied with the solution? <div class="icon fa fa-angle-down"></div></div>
+                                  <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                            <p>Yes you can get revisions if you are not satisfied with our work. If you are not happy with the final product then you can ask for changes as many times as you need within a month.</p>
+											</div>
+                                    </div>
+                                  </div>
+                            </li>
+						 
+                  	</ul>
 					
 				</div>
 			
-				
-			</div>
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					       <li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">5. How do I know my assignment is original and free of plagiarism?<div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                            <p>We take pride in delivering unique assignments that are original and plagiarism-free. For your surety and peace of mind, we can provide a plagiarism report along with the assignment.</p>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black">6. Can I get help with group assignments? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                           <p>Yes, we also assist with group assignments. Our only requirement is that all the group members have to be aware and agree to collaborate. We also have an ongoing offer where you can get 1 group project free of cost! All you have to do is refer us to four friends.</p>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+							<li class="accordion block">
+                                <div class="acc-btn bg-white border" style="font-weight:500; font-size: 20px;; color:black">7. What if my assignment involves complex mathematical modeling or simulations? <div class="icon fa fa-angle-down"></div></div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">
+                                            <p>Our experts are well-equipped to handle complex mathematical modeling and simulations. All you have to do is submit your assignment with the necessary details, and we'll match you with one of our experts that specializes in your field.</p>
+										</div>
+                                    </div>
+                                </div>
+                            </li>
+						
+					 
+						 
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:white; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
 		</div>
-</section>
+		 
+   </section> 
 
 	   
 @endsection

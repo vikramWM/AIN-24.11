@@ -2503,193 +2503,199 @@
    
 <!-- end Running Content -->
 
-
-
-
-<section class="faq-section">
-		<div class="auto-container">
-			<div class="row clearfix">
-				<div class="column col-lg-12 col-md-12 col-sm-12">
-					<div class="title-box">
-						<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Assignment Help FAQs: Everything You Need to Know</h2>
-					</div>
-					<ul class="accordion-box">
-						<li class="accordion block">
-							<div class="acc-btn">1. What types of academic help can you provide for students around the world? <div class="icon fa fa-angle-down"></div></div>
+ 
+	 <!-- FAQs Question  section for assingment writing -->
+ 	  
+	 <section class="faq-section bg-light">
+	    	<div class="auto-container">
+			<div class="row ">
+				<div class="titel-column col-lg-12 col-md-12 col-sm-12">
+				    <div class="title-box text-center">
+						<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4"><b>Frequently Asked Questions For Online Assignment Help Services</b></h2>
+					 </div>
+					<div class="row"> 
+					 		 
+				<div class="column col-lg-6 col-md-6 col-sm-12 ">
+					 
+					<ul class="accordion-box ">
+						<li class="accordion block ">
+							<div class="acc-btn bg-white border " style="font-weight:500; font-size: 20px;; color:black" >1. What types of academic help can you provide for students around the world? <div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="display: none;">
 								<div class="content">
 									<div class="text">
-										<p>We offer a wide range of academic assistance including assignment writing help, dissertation writing support, essay writing services, research paper help, and homework assistance. Whether you're in the UK, Canada, Australia, Spain, Malaysia, or the UAE, our expert team is here to support your academic needs..</p>
+										 <p>We offer a wide range of academic assistance including assignment writing help, dissertation writing support, essay writing services, research paper help, and homework assistance. Whether you're in the UK, Canada, Australia, Spain, Malaysia, or the UAE, our expert team is here to support your academic needs.</p>
 									</div>
 								</div>
 							</div>
 						</li>
-						<li class="accordion block active-block">
-							<div class="acc-btn active">2. How do I get started with your assignment help services? <div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content current" style="display: block;">
+						<li class="accordion block ">
+							<div class="acc-btn  bg-white  border" style="font-weight:500; font-size: 20px;; color:black">2. How do I get started with your assignment help services? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content"  >
 								<div class="content">
 									<div class="text">
-										<p>Getting started is easy! Simply select the type of service you need—whether it's assignment writing, dissertation help, or essay assistance—provide the necessary details about your assignment, and our team will match you with a qualified expert. We ensure timely delivery and high-quality work.</p>
+										<p> Getting started is easy! Simply select the type of service you need—whether it's assignment writing, dissertation help, or essay assistance-provide the necessary details about your assignment, and our team will match you with a qualified expert. We ensure timely delivery and high-quality work.</p>
 									</div>
 								</div>
 							</div>
 						</li>
 						
 						<li class="accordion block">
-							<div class="acc-btn">3. Can you help with urgent assignment requests?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >3. Can you help with urgent assignment requests?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-										Yes, we offer expedited services for urgent assignment requests. Whether you need help with an assignment, homework, or a research paper on a tight deadline, our team is equipped to handle quick turnarounds while maintaining quality.</p>
+										<p>Yes, we offer expedited services for urgent assignment requests. Whether you need help with an assignment, homework, or a research paper on a tight deadline, our team is equipped to handle quick turnarounds while maintaining quality.  </p>
 									</div>
 								</div>
 							</div>
 						</li>
 
 						<li class="accordion block">
-							<div class="acc-btn">4. What makes your dissertation writing services stand out?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black" >4. What makes your dissertation writing services stand out?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-										Our dissertation writing services stand out due to our commitment to academic excellence and personalized support. We provide comprehensive assistance, from research and writing to editing and defense preparation, ensuring your dissertation meets all academic standards.
-										</p>
+										<p>Our dissertation writing services stand out due to our commitment to academic excellence and personalized support. We provide comprehensive assistance, from research and writing to editing and defense preparation, ensuring your dissertation meets all academic standards. </p>
 									</div>
 								</div>
 							</div>
 						</li>
-						
 						<li class="accordion block">
-							<div class="acc-btn">5.How do you ensure the originality of the work you provide?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">5.How do you ensure the originality of the work you provide?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>										
-                                            We guarantee originality by writing all content from scratch and using advanced plagiarism detection tools to ensure the work is unique. Our commitment to academic integrity ensures that your assignments, essays, and research papers are free from plagiarism.
-										</p>
+										<p>We guarantee originality by writing all content from scratch and using advanced plagiarism detection tools to ensure the work is unique. Our commitment to academic integrity ensures that your assignments, essays, and research papers are free from plagiarism. </p>
 									</div>
 								</div>
 							</div>
 						</li>
-						
 						<li class="accordion block">
-							<div class="acc-btn">6.Can I communicate directly with the writer working on my assignment?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">6.Can I communicate directly with the writer working on my assignment?<div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>
-										Yes, our platform allows you to communicate directly with your writer. This ensures that you can provide additional details, ask questions, and receive updates throughout the writing process to ensure the final work meets your expectations.
-
-										</p>
+										<p>Yes, our platform allows you to communicate directly with your writer. This ensures that you can provide additional details, ask questions, and receive updates throughout the writing process to ensure the final work meets your expectations. </p>
 									</div>
 								</div>
 							</div>
 						</li>
-						
 						<li class="accordion block">
-							<div class="acc-btn">7.Do you offer discounts for multiple assignments or long-term projects?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">7. What subjects and academic levels do you cover? <div class="icon fa fa-angle-down"></div></div>
 							<div class="acc-content" style="">
 								<div class="content">
 									<div class="text">
-										<p>										
-                                            Yes, we offer discounts for multiple assignments and long-term projects. For example, place five orders and get one free of cost. Contact us to learn more about our discount offers and how we can support your ongoing academic needs.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">8. What subjects and academic levels do you cover?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>					
-										We cover a wide range of subjects and academic levels, from high school to university. Whether you need help with mathematics, chemistry, English, history, law, linguistics, nursing, physics, accounting, sociology, engineering, finance, or programming, our experts are here to assist.
-
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">9. How can students in different countries access your services?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>															
-										Students from various countries, including the UK, Australia, Spain, Canada, Malaysia, and the UAE, can access our services online. Simply visit our website, choose your service, and provide the necessary details to get started.
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						
-						<li class="accordion block">
-							<div class="acc-btn">10. What is your refund policy if I'm not satisfied with the work? <div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>										
-										We offer a 120% money-back guarantee if we miss the delivery deadline or fail to meet your expectations. Your satisfaction is our priority, and we ensure that you receive the highest quality work or your money back.
-										</p>
+									 <p>We cover a wide range of subjects and academic levels, from high school to university. Whether you need help with mathematics, chemistry, English, history, law, linguistics, nursing, physics, accounting, sociology, engineering, finance, or programming, our experts are here to assist.</p>			
+								 
 									</div>
 								</div>
 							</div>
 						</li>
 						 
-						<li class="accordion block">
-							<div class="acc-btn">11. Can I hire someone to help with my case study?  <div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p> Yes, you can hire our expert writers to help with your case study assignment writing. Simply visit our website, and provide the necessary details about your assignment, Our team is dedicated to delivering high-quality, customized case study assignment help in every subject.</p>
-									</div>
-								</div>
-							</div>
-						</li>
-						<li class="accordion block">
-							<div class="acc-btn">12. Do you offer help with writing a CV?<div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>Yes, we provide assistance with writing a professional CV that highlights your skills and experiences. Our resume writing service helps to get the best job in any filled employer. </p>
-									</div>
-								</div>
-							</div>
-						</li>
-						<li class="accordion block">
-							<div class="acc-btn">13. How Can I pay someone to write my dissertation for me?  <div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>Yes, You can pay someone for your dissertation. We offer a range of writing services to meet your university and academic needs. </p>
-									</div>
-								</div>
-							</div>
-						</li>
-						<li class="accordion block">
-							<div class="acc-btn">14. How quickly can I get instant writing help?  <div class="icon fa fa-angle-down"></div></div>
-							<div class="acc-content" style="">
-								<div class="content">
-									<div class="text">
-										<p>Our instant writing help is available to meet your urgent helps. You can receive support for your assignment or any writing task almost immediately after placing your order. 
-										</p>
-									</div>
-								</div>
-							</div>
-						</li>
-				
+					
 					</ul>
 					
 				</div>
 			
-				
-			</div>
+				<div class="column col-lg-6 col-md-6 col-sm-12">
+					 
+					<ul class="accordion-box">
+					<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">8.Do you offer discounts for multiple assignments or long-term projects?<div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+										<p> Yes, we offer discounts for multiple assignments and long-term projects. For example, place five orders and get one free of cost. Contact us to learn more about our discount offers and how we can support your ongoing academic needs.</p>
+									</div>
+								</div>
+							</div>
+						</li>
+					   
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">9. How can students in different countries access your services? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>Students from various countries, including the UK, Australia, Spain, Canada, Malaysia, and the UAE, can access our services online. Simply visit our website, choose your service, and provide the necessary details to get started.</p>			
+								 
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">10. What is your refund policy if I'm not satisfied with the work? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>We offer a 120% money-back guarantee if we miss the delivery deadline or fail to meet your expectations. Your satisfaction is our priority, and we ensure that you receive the highest quality work or your money back.</p>			
+								 
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">11. Can I hire someone to help with my case study? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>Yes, you can hire our expert writers to help with your case study assignment writing. Simply visit our website, and provide the necessary details about your assignment, Our team is dedicated to delivering high-quality, customized case study assignment help in every subject.</p>			
+								 
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">12. Do you offer help with writing a CV? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>Yes, we provide assistance with writing a professional CV that highlights your skills and experiences. Our resume writing service helps to get the best job in any filled employer.</p>			
+								 
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">13. How Can I pay someone to write my dissertation for me? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>Yes, You can pay someone for your dissertation. We offer a range of writing services to meet your university and academic needs.</p>			
+								 
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="accordion block">
+							<div class="acc-btn bg-white  border" style="font-weight:500; font-size: 20px;; color:black">14. How quickly can I get instant writing help? <div class="icon fa fa-angle-down"></div></div>
+							<div class="acc-content" style="">
+								<div class="content">
+									<div class="text">
+									 <p>Our instant writing help is available to meet your urgent helps. You can receive support for your assignment or any writing task almost immediately after placing your order.</p>			
+								 
+									</div>
+								</div>
+							</div>
+						</li>
+						
+					
+					</ul>
+					
+				</div>
+				 
+				 
+			     </div>
+				   <div class="title-box text-center">
+				   <button style="background: #37AFE1;  color:black; padding: 20px 80px; border-radius: 50px; margin: 10px; font-weight: 500; 	font-size: 20px;  " >View More FAQs</button>
+				   </div> 
+
+				</div> 
+				 
+ 			</div>
+			  
 		</div>
-	</section>
+		 
+   </section> 
 
 
 
