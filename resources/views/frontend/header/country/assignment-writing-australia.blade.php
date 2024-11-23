@@ -943,7 +943,7 @@
 					<div class="inner-column">
 						<div class="title-box">
 							<div class="section-color-layer"></div>
-							<h2 style="font-weight:500; font-size: 30px;; color:black" class="  my-4">Australia's Best Assignment Writing Experts Ready to Assist</h2>
+							<h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4">Australia's Best Assignment Writing Experts Ready to Assist</h2>
 							<p>Students from every corner of Australia love our assignment experts for their amazing ability to deliver top-quality work with a personal touch. When you choose our Australian assignment writing service, you'll get to connect directly with our experts, ensuring clear and easy communication
 							</p>
 							<p>We're all about offering great value with our competitive prices and special discounts. So, if you're watching your budget but still need top-notch help, we've got you covered!

@@ -4,9 +4,9 @@
     <link rel="preconnect" href="https://www.googletagmanager.com">
     
     <meta charset="utf-8">
-    <title>{{$data['title']}}</title>
-	<meta name="description" content="{{$data['description']}}" />
-    <meta name="keywords" content="{{$data['keyword']}}" />
+    <title>{{$data['title']?? ''}}</title>
+	<meta name="description" content="{{$data['description']?? ''}}" />
+    <meta name="keywords" content="{{$data['keyword']?? ''}}" />
     @if(isset($data['canonical']))
         <link rel="canonical" href="{{ $data['canonical'] }}" />
     @endif

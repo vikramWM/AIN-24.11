@@ -655,15 +655,109 @@ class HomeController extends Controller
         
         return view('blog-sample.sample');
     }
-    public function sample_list()
+    
+
+    // get method for sample by navneet
+    public function sample_list(Request $request)
     {
-        
-        $data = [
-            'blog' => Blog::where('type', 'sample')->orderBy('created_at', 'desc')->get(),
-        ];        
-       
+        // Retrieve the filter parameters from the request
+        $title = $request->input('title');
+        $type = $request->input('type');
+    
+        // Initialize the query builder for the Blog model
+        $query = Sample::query();
+    
+        // Apply the title filter if provided
+        if ($title) {
+            $query->where('title', 'like', '%' . $title . '%');
+        }
+    
+        // Apply the type filter if provided
+        if ($type) {
+            $query->where('type', $type);
+        }
+    
+        // Order the results by creation date and paginate
+        $data['sample'] = $query->orderBy('created_at', 'desc')->paginate(20);
+    
+        // Pass the filtered blog list to the view
         return view("blog-sample.sample-list", compact('data'));
     }
+
+    //    sample edit function
+    public function sample_edit(Request $request, $id)
+    {
+        // Find the blog by ID
+        $sample = Sample::find($id);
+        if (!$sample) {
+            return redirect()->back()->with('error', 'sample not found');
+        }
+    
+        $sampleContent = $request->input('sampleContent');
+        $images = [];
+    
+        // Extract and download images from <img> tags in the content
+        if (preg_match_all('/<img[^>]+src="([^">]+)"/', $sampleContent, $matches)) {
+            foreach ($matches[1] as $imageUrl) {
+                $fileName = basename($imageUrl);
+                $destinationPath = base_path('assets/media/samplethumbnail');
+    
+                try {
+                    // Ensure directory exists
+                    if (!file_exists($destinationPath)) {
+                        mkdir($destinationPath, 0755, true);
+                    }
+    
+                    // Download and save the image
+                    $imageContents = file_get_contents($imageUrl);
+                    $fullPath = $destinationPath . '/' . $fileName;
+                    file_put_contents($fullPath, $imageContents);
+    
+                    // Store relative path for later use
+                    $images[] = 'assets/media/samplethumbnail/' . $fileName;
+                } catch (\Exception $e) {
+                    // Log the error if image download or save fails
+                    \Log::error('Failed to download or save image: ' . $e->getMessage());
+                }
+            }
+        }
+    
+        // Update the blog attributes
+        $sample->tittle = $request->input('blogTitle');
+        $sample->slug = Str::slug($request->input('sampleTitle'), '-');
+        $sample->content = $sampleContent;
+    
+        // Handle main photo upload if provided
+        if ($request->hasFile('photo')) {
+            $uploadedFile = $request->file('photo');
+            $fileName = uniqid() . '_' . $uploadedFile->getClientOriginalName();
+            $destinationPath = base_path('assets/media/samplethumbnail');
+    
+            // Ensure directory exists
+            if (!file_exists($destinationPath)) {
+                mkdir($destinationPath, 0755, true);
+            }
+    
+            // Save the uploaded photo
+            $uploadedFile->move($destinationPath, $fileName);
+            $sample->Images = 'assets/media/blogthumbnail/' . $fileName;
+        }
+    
+        // Save the updated blog entry
+        $sample->save();
+    
+        return redirect()->back()->with('success', 'sample updated successfully');
+    }
+
+    // public function sample_list()
+    // {
+        
+    //     $data = [
+    //         'blog' => Blog::where('type', 'sample')->orderBy('created_at', 'desc')->get(),
+    //     ];        
+       
+    //     return view("blog-sample.sample-listt", compact('data'));
+    // }
     public function destroySample($id)
     {
         // Logic to delete the blog entry
@@ -673,6 +767,8 @@ class HomeController extends Controller
         // Redirect or respond as needed
         return redirect()->back()->with('success', 'Sample entry deleted successfully');
     }
+
+
     public function pricing()
     {
         $data['title'] = 'Affordable Prices For All Assignment Help 40% Off & Free CV- Assignment In Need';

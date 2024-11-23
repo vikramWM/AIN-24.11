@@ -16,7 +16,6 @@
     <div class="content d-flex flex-column flex-column-fluid" id="kt_content">
         <div id="kt_content_container" class="container-xxl">
         <div class="col-xl-12">
-        <div class="col-xl-12">
 				<div class="card card-xxl-stretch mb-5 mb-xl-8">
 					<div class="card-header border-0 pt-5">
 						<h3 class="card-title align-items-start flex-column">
@@ -24,27 +23,35 @@
 						</h3>
 					</div>
 					<div class="card-body py-3">
+						
 						<form action="">
 							<div class="row mb-3">
+
 								<div class="col-lg-3 fv-row fv-plugins-icon-container">
-									<input value="" name="title" class="form-control form-control-solid"  placeholder="Search By title nd name"/>
-								</div>
-                                <div class="col-lg-3 fv-row fv-plugins-icon-container">
-								    <select name="type" aria-label="Select a Language" data-control="select2" data-placeholder="Search By Type" class="form-select form-select-solid form-select-lg select2-hidden-accessible" data-select2-id="select2-data-13-mh4q" tabindex="-1" aria-hidden="true">
-										<option value="" data-select2-id="select2-data-15-jtqd"></option>
-										<option value="blog" >Blog</option>
-										<option value="sample" >Sample</option>
+									<select name="user_id" aria-label="Select a Timezone" data-control="select2" data-placeholder="Search By Name email" class="form-select form-select-solid form-select-lg select2-hidden-accessible" data-select2-id="select2-data-16-7969" tabindex="-1" aria-hidden="true">
+										<option value="" data-select2-id="select2-data-18-e9lh"></option>
+										
+										
 									</select>
-                                </div>
+								<div class="fv-plugins-message-container invalid-feedback"></div></div>
+								<!-- <div class="col-lg-3 fv-row fv-plugins-icon-container">
+									<select name="refer" aria-label="Select a Language" data-control="select2" data-placeholder="refer code" class="form-select form-select-solid form-select-lg select2-hidden-accessible" data-select2-id="select2-data-13-mh4q" tabindex="-1" aria-hidden="true">
+										<option value="" data-select2-id="select2-data-15-jtqd"></option>
+									
+									</select>
+									<div class="fv-plugins-message-container invalid-feedback"></div>
+								</div> -->
+								</div>
+
 								<div class="col-lg-3 fv-row fv-plugins-icon-container">
 									<button type='submit' class="btn btn-sm btn-primary" >Search</button>
-									<a href="/blog_list" class="btn btn-sm btn-danger" >reset</a>
+									<a href="/user" class="btn btn-sm btn-danger" >reset </a>
 								</div>
+
+							
 							</div>
 						</form>
-				    </div>
-			    </div>
-			</div>
+				</div>
 			</div>
             <div class="toolbar" id="kt_toolbar">
                 <div id="kt_toolbar_container" class="container-fluid d-flex flex-stack">
@@ -80,32 +87,32 @@
 										</tr>
 									</thead>
 									<tbody>
-                                        @foreach($data['sample'] as $sample)
+                                        @foreach($data['blog'] as $blog)
 										<tr>
 											<td>
 												<div class="d-flex align-items-center">
 													<div class="symbol symbol-45px me-5">
-														    <!-- <img src="{{ asset($sample->images) }}" alt=""> -->
+														    <img src="{{ asset($blog->images) }}" alt="">
                                                       
                                                     </div>
 													
 												</div>
 											</td>
 											<td>
-												<a href="#" class="text-dark fw-bolder text-hover-primary d-block fs-6">{{$sample->title}}</a>
+												<a href="#" class="text-dark fw-bolder text-hover-primary d-block fs-6">{{$blog->tittle}}</a>
 											</td>
 											
 											<td class="text-end">
 												<div class="d-flex flex-column w-100 me-2">
 													<div class="d-flex flex-stack mb-2">
-														<span class="text-muted me-2 fs-7 fw-bold">{{$sample->created_at->format('d D Y (H:i:s)')}}</span>
+														<span class="text-muted me-2 fs-7 fw-bold">{{$blog->created_at->format('d D Y (H:i:s)')}}</span>
 													</div>
 													
 												</div>
 											</td>
 											<td>
 												<div class="d-flex justify-content-end flex-shrink-0">
-													<a  data-bs-toggle="modal" data-bs-target="#kt_modal_create_edit{{$sample->id}}" href="#" class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm me-1" >
+													<a  data-bs-toggle="modal" data-bs-target="#kt_modal_create_edit{{$blog->id}}" href="#" class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm me-1" >
 														<span class="svg-icon svg-icon-3">
 															<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
 																<path opacity="0.3" d="M21.4 8.35303L19.241 10.511L13.485 4.755L15.643 2.59595C16.0248 2.21423 16.5426 1.99988 17.0825 1.99988C17.6224 1.99988 18.1402 2.21423 18.522 2.59595L21.4 5.474C21.7817 5.85581 21.9962 6.37355 21.9962 6.91345C21.9962 7.45335 21.7817 7.97122 21.4 8.35303ZM3.68699 21.932L9.88699 19.865L4.13099 14.109L2.06399 20.309C1.98815 20.5354 1.97703 20.7787 2.03189 21.0111C2.08674 21.2436 2.2054 21.4561 2.37449 21.6248C2.54359 21.7934 2.75641 21.9115 2.989 21.9658C3.22158 22.0201 3.4647 22.0084 3.69099 21.932H3.68699Z" fill="black"></path>
@@ -113,7 +120,7 @@
 															</svg>
 														</span>
 													</a>
-                                                    <div class="modal fade" id="kt_modal_create_edit{{$sample->id}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                                    <div class="modal fade" id="kt_modal_create_edit{{$blog->id}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                                         <div class="modal-dialog">
                                                             <div class="modal-content">
                                                                 <div class="modal-header">
@@ -171,7 +178,7 @@
                                                                 </div>
                                                                 <div class="modal-footer">
                                                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                                                    <form action="{{ route('sample.edit', $sample->id) }}" method="POST">
+                                                                    <form action="{{ route('sample.edit', $blog->id) }}" method="POST">
                                                                         @csrf
                                                                         @method('put')
                                                                         <button type="submit" class="btn btn-danger">Submit</button>
@@ -182,7 +189,7 @@
                                                     </div>
 
 
-													<a data-bs-toggle="modal" data-bs-target="#kt_modal_create_delete{{$sample->id}}" href="#" class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm">
+													<a data-bs-toggle="modal" data-bs-target="#kt_modal_create_delete{{$blog->id}}" href="#" class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm">
 														<span class="svg-icon svg-icon-3">
 															<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
 																<path d="M5 9C5 8.44772 5.44772 8 6 8H18C18.5523 8 19 8.44772 19 9V18C19 19.6569 17.6569 21 16 21H8C6.34315 21 5 19.6569 5 18V9Z" fill="black"></path>
@@ -192,7 +199,7 @@
 														</span>
 													</a>
 
-                                                    <div class="modal fade" id="kt_modal_create_delete{{$sample->id}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                                    <div class="modal fade" id="kt_modal_create_delete{{$blog->id}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                                         <div class="modal-dialog">
                                                             <div class="modal-content">
                                                                 <div class="modal-header">
@@ -204,7 +211,7 @@
                                                                 </div>
                                                                 <div class="modal-footer">
                                                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                                                    <form action="{{ route('sample.destroy', $sample->id) }}" method="POST">
+                                                                    <form action="{{ route('sample.destroy', $blog->id) }}" method="POST">
                                                                         @csrf
                                                                         @method('DELETE')
                                                                         <button type="submit" class="btn btn-danger">Delete</button>
