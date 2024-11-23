@@ -1612,7 +1612,70 @@ route::get('/uk/cheap-assignment-writing-help', function()
         $data['canonical']='https://www.assignnmentinneed.com/uk/literature-review-writing-help-online';
         return view('frontend.header.country.uk.literature-review-writing-help-online', compact('data'));
       });
-   
+
+      //22/11/24 new page in uk country Dissertation Proposal Writing Services
+      route::get('/uk/dissertation-proposal-writing-services', function(){
+        $data['title']='Dissertation Proposal Writing Help Service-40% Off & Free CV';
+        $data['description']='Get help with your PhD dissertation proposal writing help in uk from experienced british writers who make it simple, clear, and ready to meet your academic needs.';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/dissertation-proposal-writing-services';
+        return view('frontend.header.country.uk.dissertation-proposal-writing-services', compact('data'));
+      });
+
+          //22/11/24 new page in uk country Law Dissertation Writing Services
+          route::get('/uk/law-dissertation-writing-services', function(){
+            $data['title']='Law Dissertation Writing Help Service- 40% Off & Get Free CV';
+            $data['description']='Get professional law dissertation writing help in uk from skilled writers, offering original, high-quality dissertations help tailored to your academic needs.';
+            $data['keyword']='';
+            $data['canonical']='https://www.assignnmentinneed.com/uk/law-dissertation-writing-services';
+            return view('frontend.header.country.uk.law-dissertation-writing-services', compact('data'));
+          });  
+ 
+          //22/11/24 new page in uk country Phd Dissertation Writing Services
+          route::get('/uk/phd-dissertation-writing-services', function(){
+            $data['title']='PHD Dissertation Writing Help Service- 40% Off & Get Free CV';
+            $data['description']='Get reliable dissertation writing help in uk from experienced writers, whether for a complete dissertation or a single chapter, tailored to your academic needs.';
+            $data['keyword']='';
+            $data['canonical']='https://www.assignnmentinneed.com/uk/phd-dissertation-writing-services';
+            return view('frontend.header.country.uk.phd-dissertation-writing-services', compact('data'));
+          });    
+
+        //23/11/24 new page in uk country Undergraduatence Dissertation Writing Services
+        route::get('/uk/undergraduatence-dissertation-writing-services', function(){
+        $data['title']='Undergraduatence Dissertation Writing Help-40% Off & Free CV';
+        $data['description']="Get expert dissertation help in UK for undergraduate, LLB, LLM, or master's studies from qualified writers, ensuring quality research, writing, and editing support.";
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/undergraduatence-dissertation-writing-services';
+         return view('frontend.header.country.uk.undergraduatence-dissertation-writing-services', compact('data'));
+        });
+
+        //23/11/24 new page in uk country Critical essay Writing Services
+        route::get('/uk/critical-essay', function(){
+        $data['title']='Critical Essay Writing Help Service In UK- 40% Off & Free CV';
+        $data['description']="Need help with your critical essay? Our writers provide well-researched, thoughtful essays in uk tailored to your assignment, ensuring clarity and academic excellence.";
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/critical-essay';
+        return view('frontend.header.country.uk.critical-essay', compact('data'));
+        }); 
+    
+            //23/11/24 new page in uk country Expository Essay Writing Services
+        route::get('/uk/expository-essay', function(){
+        $data['title']='Expository Essay Writing Help In UK- 40% Off & Get Free CV';
+        $data['description']='Receive expert help with every stage of your expository essay in uk, from planning to final draft. Our writers ensure high-quality, well-crafted essays for top grades.';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/expository-essay';
+        return view('frontend.header.country.uk.expository-essay', compact('data'));
+        }); 
+        
+        //23/11/24 new page in uk country narrative-essay Writing Services
+        route::get('/uk/narrative-essay', function(){
+        $data['title']='Narrative Essay Writing Help Services UK- 40% Off & Free CV';
+        $data['description']='Get professional help with your narrative essay in uk. Our expert writers help you craft compelling stories, ensuring creativity, structure, and strong impact.';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/uk/narrative-essay';
+        return view('frontend.header.country.uk.narrative-essay', compact('data'));
+        }); 
+
    /// 05/11/24 made new page of Place Your Order
    route::get('/place-your-order', function(){
     $data['title'] ='Online Assignment Help Service @ 40% Off & Get a Free CV!';
