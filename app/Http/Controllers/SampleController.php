@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
+use App\Models\CategoyType;
 use App\Models\Sample;
 use Illuminate\Http\Request;
 use App\Models\SampleCategory;
@@ -92,7 +93,8 @@ public function destroy($id)
 public function samplewrite()
 {
     $sampleCategory = SampleCategory::all();
-    return view('sample.writesample' , compact('sampleCategory'));
+    $type = CategoyType::all();
+    return view('sample.writesample' , compact('sampleCategory', 'type'));
     
 }
 
@@ -102,14 +104,16 @@ public function storeService(Request $request)
         'category' => 'required|integer',
         'editorContent' => 'required|string',
         'title' => 'required|string',
+        'type' => 'required|integer',
     ]);
-
+    // dd( $validatedData);
     $validatedData['slug'] = Str::slug($validatedData['title'], '-');
 
     Sample::create([
         'category' => $validatedData['category'],
         'content' => $validatedData['editorContent'],
         'title' => $validatedData['title'],
+        'type_id' => $validatedData['type'],
         'slug' => $validatedData['slug'],
     ]);
 
@@ -130,7 +134,31 @@ public function sampleDeatails(Request $request , $title, $subject)
   return view('sample.sampleDetails', compact('sample', 'samplesuggestion', 'categoryName'));
 }
 
- 
+public function sample_listt(Request $request)
+{
+    // Retrieve the filter parameters from the request
+    $title = $request->input('title');
+    $type = $request->input('type');
+
+    // Initialize the query builder for the Blog model
+    $query = Sample::query();
+
+    // Apply the title filter if provided
+    if ($title) {
+        $query->where('title', 'like', '%' . $title . '%');
+    }
+
+    // Apply the type filter if provided
+    if ($type) {
+        $query->where('type', $type);
+    }
+
+    // Order the results by creation date and paginate
+    $data['sample'] = $query->orderBy('created_at', 'desc')->paginate(20);
+
+    // Pass the filtered blog list to the view
+    return view("blog-sample.sample-list", compact('data'));
+}
 
 
 
@@ -154,4 +182,128 @@ public function downloadSample($slug)
 }
 
 
+// routing for sample by navneet
+
+public function samplesShows (Request $request)
+{
+        // Retrieve the filter parameters from the request
+        $title = $request->input('title');
+        $category = $request->input('category');
+    
+        // Initialize the query builder for the Blog model
+        $query = Sample::with('categotyData', 'type');
+    
+        // Apply the title filter if provided
+        if ($title) {
+            $query->where('title', 'like', '%' . $title . '%');
+        }
+    
+        // Apply the type filter if provided
+        // if ($category) {
+        //     $query->where('category', $category);
+        // }
+        if (!empty($category)) {
+            $query->whereHas('category', function ($q) use ($category) {
+                $q->where('name', $category) // Filter by category ID
+                  ->orWhere('name', 'like', '%' . $category . '%'); // Or by category name
+            });
+        }
+       $data['samples'] = $query->get();
+
+ 
+    // echo '<pre>'; print_r($data); exit;
+
+    return view('sample.sample-list' , compact('data'));
 }
+
+
+
+ public function samplesUpades($id){
+    $sampleCategory = SampleCategory::all();
+    $type = CategoyType::all();
+    $sample = Sample::find($id);
+
+    // echo $sample ;
+
+    return view('sample.writesample' , compact('sampleCategory', 'sample' , 'type'));
+ }
+
+
+ public function Sampleupdate(Request $req, $id)
+ {
+     // Validate the incoming request data
+     $validatedData = $req->validate([
+         'category' => 'required|integer',
+         'editorContent' => 'required|string',
+         'title' => 'required|string',
+         'type' => 'required|integer',
+     ]);
+ 
+     // Generate a slug from the title
+     $validatedData['slug'] = Str::slug($validatedData['title'], '-');
+ 
+     // Find the record by ID and update it
+     $sample = Sample::findOrFail($id);
+     $sample->update([
+         'category' => $validatedData['category'],
+         'content' => $validatedData['editorContent'],
+         'title' => $validatedData['title'],
+         'type_id' => $validatedData['type'],
+         'slug' => $validatedData['slug'],
+     ]);
+ 
+     // Redirect back with a success message
+     return redirect('/samples')->with('success', 'Content updated successfully!');
+ }
+
+
+ public function destroySample($id)
+
+ {
+      
+     $sample = Sample::find($id);
+     $sample->delete();
+
+      
+     return redirect()->back()->with('success', 'Sample deleted successfully');
+ }
+
+ public function indexType(){
+
+    $CategoryType = CategoyType::orderBy('id', 'desc')->get();
+    // echo '<pre>'; print_r($CategoryType); exit;
+    return view("sample.categorytype", compact('CategoryType'));
+ }
+
+ public function sampleTypeStore(Request $req)
+ {
+    
+    $type =  new CategoyType();
+    $type->name = $req->input('name');
+    $type->save();
+    return redirect()->back()->with('sucess', 'Sample Type Save Succesfully');
+ }
+
+ public function sampleTypeUpdate(Request $req ,$id )
+ {
+    $type =  CategoyType::find($id);
+    $type->name = $req->input('name');
+    $type->save();
+    return redirect()->back()->with('sucess', 'Sample Type Updated Succesfully');
+ }
+
+
+  public function destroysampleType($id)
+
+  {
+
+    $type = CategoyType::find($id);
+    $type->delete();
+    return redirect()->back()->with('sucess', 'Sample Type deleted Succesfully');
+
+  }
+
+
+
+}
+

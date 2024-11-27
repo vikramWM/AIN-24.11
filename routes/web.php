@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\SampleController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Http\Request;
 
@@ -302,6 +303,19 @@ Route::post('/neworder-fromhome', [LeadsController::class, 'FrontEndLeads'])->na
 Route::post('/placeNewOrder', [LeadsController::class, 'FrontEndLeadsNew']);
 Route::get('/get-files-by-order', [LeadsController::class, 'findfiles'])->name('get-files-by-order');
 Route::get('thank-you', [HomeController::class, 'thankyou'])->name('thank-you');
+
+// frontnd routing for sample page
+Route::get('free-samples', [SampleController::class, 'indexpage'])->name('free-samples');
+Route::get('free-samples/{title}', [SampleController::class, 'categoryDeatails'])->name('free-samples/title');
+Route::get('free-samples/{title}/{subject}', [SampleController::class, 'sampleDeatails'])->name('free-samples/title/subject');
+Route::get('downloads-sample/{slug}', [SampleController::class, 'downloadSample'])->name('downloads-sample/slug');
+
+// routing for get method 
+  // route::get('/sample-list',[SampleController::class,]);
+ 
+
+
+
 
 route::get('place-your-order', function(){
   $data['title'] ='Online Assignment Help Service @ 40% Off & Get a Free CV!';
@@ -1649,32 +1663,41 @@ route::get('/uk/cheap-assignment-writing-help', function()
          return view('frontend.header.country.uk.undergraduatence-dissertation-writing-services', compact('data'));
         });
 
-        //23/11/24 new page in uk country Critical essay Writing Services
-        route::get('/uk/critical-essay', function(){
+        //23/11/24 new page in uk country critical essay writing help online
+        route::get('/uk/critical-essay-writing-help-online', function(){
         $data['title']='Critical Essay Writing Help Service In UK- 40% Off & Free CV';
         $data['description']="Need help with your critical essay? Our writers provide well-researched, thoughtful essays in uk tailored to your assignment, ensuring clarity and academic excellence.";
         $data['keyword']='';
-        $data['canonical']='https://www.assignnmentinneed.com/uk/critical-essay';
-        return view('frontend.header.country.uk.critical-essay', compact('data'));
+        $data['canonical']='https://www.assignnmentinneed.com/uk/critical-essay-writing-help-online';
+        return view('frontend.header.country.uk.critical-essay-writing-help-online', compact('data'));
         }); 
     
-            //23/11/24 new page in uk country Expository Essay Writing Services
-        route::get('/uk/expository-essay', function(){
+            //23/11/24 new page in uk country expository essay writing help online
+        route::get('/uk/expository-essay-writing-help-online', function(){
         $data['title']='Expository Essay Writing Help In UK- 40% Off & Get Free CV';
         $data['description']='Receive expert help with every stage of your expository essay in uk, from planning to final draft. Our writers ensure high-quality, well-crafted essays for top grades.';
         $data['keyword']='';
-        $data['canonical']='https://www.assignnmentinneed.com/uk/expository-essay';
-        return view('frontend.header.country.uk.expository-essay', compact('data'));
+        $data['canonical']='https://www.assignnmentinneed.com/uk/expository-essay-writing-help-online';
+        return view('frontend.header.country.uk.expository-essay-writing-help-online', compact('data'));
         }); 
         
-        //23/11/24 new page in uk country narrative-essay Writing Services
-        route::get('/uk/narrative-essay', function(){
+        //23/11/24 new page in uk country narrative essay writing help online Services
+        route::get('/uk/narrative-essay-writing-help-online', function(){
         $data['title']='Narrative Essay Writing Help Services UK- 40% Off & Free CV';
         $data['description']='Get professional help with your narrative essay in uk. Our expert writers help you craft compelling stories, ensuring creativity, structure, and strong impact.';
         $data['keyword']='';
-        $data['canonical']='https://www.assignnmentinneed.com/uk/narrative-essay';
-        return view('frontend.header.country.uk.narrative-essay', compact('data'));
+        $data['canonical']='https://www.assignnmentinneed.com/uk/narrative-essay-writing-help-online';
+        return view('frontend.header.country.uk.narrative-essay-writing-help-online', compact('data'));
         }); 
+
+        //23/11/24 new page in uk country compare and contrast essay writing help by navneet
+          route::get('/uk/compare-and-contrast-essay-writing-help', function(){
+          $data['title']='Compare & Contrast Essay Writing Help UK- 40% Off & Free CV';
+          $data['description']='Need help with your compare and contrast essay in uk? Our writers help you craft clear, engaging comparisons, ensuring strong arguments and well-organized content.';
+          $data['keyword']='';
+          $data['canonical']='https://www.assignnmentinneed.com/uk/compare-and-contrast-essay-writing-help';
+          return view('frontend.header.country.uk.compare-and-contrast-essay-writing-help', compact('data'));
+        });
 
    /// 05/11/24 made new page of Place Your Order
    route::get('/place-your-order', function(){
@@ -2370,7 +2393,6 @@ Route::delete('/blog_list/{id}', [HomeController::class, 'editBlog'])->name('blo
 
 Route::get('/samples', [HomeController::class, 'sample'])->name('samples');
 Route::get('/create_sample', [HomeController::class, 'create_sample'])->name('create_sample');
-Route::get('/sample_list', [HomeController::class, 'sample_list'])->name('sample_list');
 
 Route::post('/submit_sample', [HomeController::class, 'sample_store'])->name('submit_sample');
 Route::get('/sample/{slug}', [HomeController::class, 'getSampleBySlug']);
@@ -2845,7 +2867,32 @@ Route::middleware(['auth'])->group(function () {
         Route::post('/image-upload', [WhatsappController::class, 'uploagImages'])->name('image.upload');
         Route::post('/complaint.submit', [WhatsappController::class, 'sendMessage'])->name('complaint.submit');
 
-    });
+    
+        //backand routing for sample page
+          route::get('/free-sample', [SampleController::class, 'index'])->name('free-sample');
+          route::post('/free-sample', [SampleController::class, 'store'])->name('free-sample');
+
+          Route::put('/sample-category/{id}', [SampleController::class, 'update'])->name('sample-category.update');
+          Route::delete('/sample-category/{id}', [SampleController::class, 'destroy'])->name('sample-category.destroy');
+
+          route::get('/free-sample-write', [SampleController::class, 'samplewrite'])->name('free-sample-write');
+          route::post('/free-sample-write', [SampleController::class, 'storeService'])->name('services.store');
+          Route::get('/samples', [SampleController::class, 'samplesShows'])->name('samples');
+          Route::get('/update{id}', [SampleController::class, 'samplesUpades'])->name('free-samples.update');
+          Route::put('/services/{id}', [SampleController::class, 'Sampleupdate'])->name('services.update');
+
+          Route::delete('/deletesample/{id}', [SampleController::class,'destroySample'])->name('deletesample');
+          route::get('/free-samples-type', [SampleController::class, 'indexType'])->name('free-samples-type');
+          route::post('/free-samples-type', [SampleController::class, 'sampleTypeStore'])->name('free-samples-type');
+          Route::put('/sample-type/{id}', [SampleController::class, 'sampleTypeUpdate'])->name('sample-type.update');
+          Route::delete('/sample-type/{id}', [SampleController::class, 'destroysampleType'])->name('sample-type.destroy');
+           
+          Route::delete('/sample/{id}', [SampleController::class, 'destroysample'])->name('sample.destroy');
+           
+
+        });
+
+
 
   
     
@@ -2874,6 +2921,11 @@ Route::middleware(['auth', 'letslearn.access'])->group(function () {
 
   // get ll user
   Route::get('/ll-search-user', [ApiControllerForLetsLearn::class, 'll_SearchUser'])->name('ll_search_user');
+
+
+
+
+  // sample list by navneet
 
   // Route for LetsLearn End
 });
