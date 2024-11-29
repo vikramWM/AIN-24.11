@@ -10,7 +10,7 @@
                 <div class="page-title d-flex align-items-center flex-wrap me-3">
                     <h1 class="d-flex align-items-center text-dark fw-bolder fs-3 my-1">Type Of Services</h1>
                     <span class="h-20px border-gray-200 border-start ms-3 mx-2"></span>
-                    <small class="text-muted fs-7 fw-bold my-1 ms-1">Assignment In Need</small>
+                    <small class="text-muted fs-7 fw-bold my-1 ms-1">Assignment In Need </small>
                 </div>
             </div>
         </div>
@@ -45,20 +45,27 @@
                         </h3>
                     </div>
                     <div class="card-body py-3">
+                    @if(isset($sample) && $sample)
+                        <form action="{{ route('services.update', $sample->id) }}" method="POST">
+                        @method('PUT')
+                    @else
                         <form action="{{ route('services.store') }}" method="POST">
+                    @endif
+                        
                             @csrf
                             <div class="mt-4 mb-4">
                                 <label for="title" class="form-label fw-bold">Title</label>
-                                <input type="text" class="form-control " name="title">
+                                <input type="text"  value=" {{$sample->title ?? ''}}" class="form-control " name="title">
                             </div>
                             <!-- Quill Editor -->
                             <link href="https://cdn.jsdelivr.net/npm/quill@2.0.2/dist/quill.snow.css" rel="stylesheet" />
                             <div id="editor" style="height: 200px;">
-                                <p><br /></p>
+                                <p><br /> {!!$sample->content ?? ''!!}</p>
                             </div>
 
                             <!-- Hidden Field for Editor Content -->
-                            <input type="hidden" name="editorContent" id="editorContent">
+                            <input type="hidden" value="{{$sample->content ?? ''}}"  name="editorContent" id="editorContent">
+                            
 
                             <!-- Category Dropdown -->
                             <div class="mt-4">
@@ -66,14 +73,33 @@
                                 <select name="category" class="form-control" id="category" required>
                                     <option value="">Select Category</option>
                                     @foreach ($sampleCategory as $obj)
-                                        <option value="{{ $obj->id }}">{{ $obj->name }}</option>
+                                        <option value="{{ $obj->id }}" {{ $obj->id == ($sample->category ?? '') ? 'selected' : '' }}>
+                                            {{ $obj->name }}
+                                        </option>
                                     @endforeach
                                 </select>
                             </div>
+                              <!-- type Dropdown -->
+                              <div class="mt-4">
+                                <label for="type" class="form-label fw-bold">Type</label>
+                                <select name="type" class="form-control" id="category" required>
+                                    <option value="">Select Category</option>
+                                    @foreach ($type as $obj)
+                                        <option value="{{ $obj->id }}" {{ $obj->id == ($sample->type_id ?? '') ? 'selected' : '' }}>
+                                            {{ $obj->name }}
+                                        </option>
+                                    @endforeach
+                                </select>
+                             </div>
 
                             <!-- Submit Button -->
                             <div class="mt-4">
-                                <button type="submit" class="btn btn-primary">Submit</button>
+                                <button type="submit" class="btn btn-primary">@if(isset($sample) && $sample) 
+                                        Update 
+                                    @else 
+                                        Submit 
+                                    @endif
+                                </button>
                             </div>
                         </form>
 

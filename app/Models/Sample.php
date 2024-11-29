@@ -21,10 +21,21 @@ class Sample extends Model
 {
     use HasFactory;
     protected $table = 'sample';
-    protected $fillable = ['category', 'content', 'title' , 'slug']; 
+    protected $fillable = ['category', 'content', 'title' , 'slug', 'type_id']; 
 
     public function category()
     {
         return $this->hasMany('App\Models\SampleCategory', 'id','category', );              
     }
+
+    public function categotyData()
+    {
+        return $this->belongsTo('App\Models\SampleCategory', 'category', 'id',);
+    }
+   
+    public function type()
+{
+    return $this->belongsTo('App\Models\CategoyType', 'type_id', 'id',);
+}
+
 }
