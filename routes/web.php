@@ -755,6 +755,54 @@ Route::get('/engineering-assignment-writing-help', function () {
   return view('frontend.header.services.sub.engineering-assignment-writing-help', compact('data'));
 });
 
+  // 28/11/24  made new page of Management Assignment Writing Help in subject  by navneet
+
+Route::get('/management-assignment-writing-help', function(){
+  $data['title'] = 'Management Assignment & Homework Help- 40% Off & Free CV';
+  $data['description'] = 'Assignment in Need offers expert Management Assignment Writing Help. From project management to operations and management homework help, get affordable, reliable help';
+  $data['keyword'] = '';
+  $data['canonical'] = 'https://www.assignnmentinneed.com/management-assignment-writing-help';
+  return view('frontend.header.services.sub.management-assignment-writing-help', compact('data'));
+});
+
+// 28//11/24 made new page of Business Assignment Writing Help in subject by navneet
+Route::get('/business-assignment-writing-help', function(){
+  $data['title']='Online Business Assignment & Homework Help-40% Off & Free CV';
+  $data['description']='Assignment in Need provides top-notch Business Assignment Help. From essays to research papers, homework and dissertations, get affordable, expert assistance today';
+  $data['keyword'] = '';
+  $data['canonical'] = 'https://www.assignnmentinneed.com/business-assignment-writing-help';
+  return view('frontend.header.services.sub.business-assignment-writing-help', compact('data'));
+});
+
+//28/11/24 made new page  of thesis writing help in subject by navneet
+Route::get('/thesis-writing-help', function(){
+   
+    $data['title']=' ';
+    $data['description']=' ';
+    $data['keyword'] = '';
+    $data['canonical'] = 'https://www.assignnmentinneed.com/thesis-writing-help';
+    return view('frontend.header.services.sub.thesis-writing-help', compact('data'));
+});
+
+//28/11/24 made new page of Summary writing help in subject by navneet
+Route::get('/summary-writing-help', function(){
+   
+  $data['title']=' ';
+  $data['description']=' ';
+  $data['keyword'] = '';
+  $data['canonical'] = 'https://www.assignnmentinneed.com/summary-writing-help';
+  return view('frontend.header.services.sub.summary-writing-help', compact('data'));
+});
+//28/11/24 made new page of Term writing help in subject by navneet
+Route::get('/term-writing-help', function(){
+   
+  $data['title']=' ';
+  $data['description']=' ';
+  $data['keyword'] = '';
+  $data['canonical'] = 'https://www.assignnmentinneed.com/term-writing-help';
+  return view('frontend.header.services.sub.term-writing-help', compact('data'));
+});
+
 // cheap page
 Route::get('/cheap-assignment-writing-help', function () {
   $data['title'] = 'Cheap Assignment Writing help Sevices 40% Off & Get Free CV';

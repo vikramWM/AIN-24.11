@@ -10,7 +10,7 @@
 				<div class="page-title d-flex align-items-center flex-wrap me-3">
 					<h1 class="d-flex align-items-center text-dark fw-bolder fs-3 my-1">Type Of Services</h1>
 					<span class="h-20px border-gray-200 border-start ms-3 mx-2"></span>
-					<small class="text-muted fs-7 fw-bold my-1 ms-1">Assignment In Need</small>
+					<small class="text-muted fs-7 fw-bold my-1 ms-1">Assignment In Need </small>
 				</div>
 			</div>
 		</div>
@@ -32,9 +32,9 @@
 								<div class="col-lg-12">
 									<div class="fv-row fv-plugins-icon-container mb-3">
 										<label for="name" class="col-form-label required fw-bold fs-6">Category</label>
-										<input required type="text" id="name" name="name"
+										<input   type="text" id="name" name="name"
 											class="form-control form-control-lg form-control-solid"
-											placeholder="Account" value="{{ old('name') }}">
+											placeholder="Type" value="{{ old('name') }}">
 										@if ($errors->has('name'))
 											<div class="fv-plugins-message-container invalid-feedback">
 												{{ $errors->first('name') }}

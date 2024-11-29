@@ -9,7 +9,8 @@ use Illuminate\Http\Request;
 use App\Models\SampleCategory;
 use Illuminate\Tests\Integration\Database\EloquentHasManyThroughTest\Category;
 use Illuminate\Support\Str;
-use Barryvdh\DomPDF\Facade\Pdf; // Ensure this package is installed and configured
+use Barryvdh\DomPDF\Facade\Pdf; 
+use Validator;// Ensure this package is installed and configured
 
 class SampleController extends Controller
 {
@@ -277,29 +278,69 @@ public function samplesShows (Request $request)
 
  public function sampleTypeStore(Request $req)
  {
-    
+    $req->validate([
+        'name' => 'required|string|max:255',
+    ]);
     $type =  new CategoyType();
-    $type->name = $req->input('name');
-    $type->save();
-    return redirect()->back()->with('sucess', 'Sample Type Save Succesfully');
+       
+
+    try {
+        $type->name = $req->input('name');
+        $type->save();
+        return redirect()->back()->with('success', 'Data submitted successfully.');
+    } catch (\Exception $e) {
+        \Log::error("Error submitting data: {$e->getMessage()}");
+        return redirect()->back()->with('error', 'An error occurred while submitting the data.');
+    }
+//    $req->validate([
+//     'name'=> 'required'
+//    ]);
+    
+//     $type =  new CategoyType();
+//     $type->name = $req->input('name');
+//     $type->save();
+//     return redirect()->back()->with('sucess', 'Sample Type Save Succesfully');
  }
+ 
+
 
  public function sampleTypeUpdate(Request $req ,$id )
  {
     $type =  CategoyType::find($id);
-    $type->name = $req->input('name');
-    $type->save();
-    return redirect()->back()->with('sucess', 'Sample Type Updated Succesfully');
+
+    try {
+        $type->name = $req->input('name');
+        $type->save();
+        return redirect()->back()->with('success', 'Sample Type Updated Succesfully.');
+    } catch (\Exception $e) {
+        \Log::error("Error submitting data: {$e->getMessage()}");
+        return redirect()->back()->with('error', 'An error occurred while submitting the data.');
+    }
+
+    // $type =  CategoyType::find($id);
+    // $type->name = $req->input('name');
+    // $type->save();
+    // return redirect()->back()->with('sucess', 'Sample Type Updated Succesfully');
+
  }
 
 
   public function destroysampleType($id)
-
+       
   {
-
     $type = CategoyType::find($id);
-    $type->delete();
-    return redirect()->back()->with('sucess', 'Sample Type deleted Succesfully');
+    try {
+        
+        $type->delete();
+        return redirect()->back()->with('success', 'Sample Type deleted Succesfully.');
+    } catch (\Exception $e) {
+        \Log::error("Error submitting data: {$e->getMessage()}");
+        return redirect()->back()->with('error', 'An error occurred while submitting the data.');
+    }
+
+    // $type = CategoyType::find($id);
+    // $type->delete();
+    // return redirect()->back()->with('sucess', 'Sample Type deleted Succesfully');
 
   }
 
