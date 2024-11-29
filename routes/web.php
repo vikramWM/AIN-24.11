@@ -403,14 +403,26 @@ Route::get('/assignment-help-expert-uk', function () {
 
 Route::get('/why-choose-us', function () {
   $data = [
-    'title' => 'Online Assignment Writing Service @ 40% Off - Assignment In Need',
-    'description' => 'Expert Assignment Writers from Assignment In Need. Pay for Assignment writing help with 120% refund: If we fail to meet your needs, get 120% of your money back.',
+    'title' => 'Why Choose Assignment in Need For Assignment Help- 40% Off & Free CV',
+    'description' => 'Why Choose Assignment in Need for reliable assignment help. With expert writers, on-time delivery, and affordable rates, we ensure academic excellence every time',
     'keyword' => '',
     'canonical' => 'https://www.assignnmentinneed.com/why-choose-us',
   ];
 
   return view('frontend.header.company.why-choose-us', compact('data'));
 });
+
+   //26/11/24 new page in benefits Writing Services
+        route::get('/benefits-of-assignments', function(){
+        $data['title']='Benefits of Assignment in Need For Assignments Help- 40% Off & Free CV';
+        $data['description']='Get top-notch assignment help benefits with Assignment in Need! Enjoy expert guidance, 24/7 support, affordable pricing, and timely delivery for stress-free success.';
+        $data['keyword']='';
+        $data['canonical']='https://www.assignnmentinneed.com/benefits-of-assignments';
+        return view('frontend.header.company.benefits', compact('data'));
+        });
+
+
+
 ///24-10-2024 made new page of Best Online Assignment Writing Service by navneet
 
 
@@ -796,6 +808,50 @@ Route::get('/assignment-helper', function () {
   $data['schema'] = generateSchema($data['title'], $data['description'], $data['canonical'], $priceRanges);
   return view('frontend.header.services.sub.assignment-helper-writing-help', compact('data'));
 });
+
+// 27-11-2024 for My Assignment Help page
+Route::get('/my-assignment-help', function () {
+  $data['title'] = 'Online My Assignment Help Services- 40% Off & Get Free CV';
+  $data['description'] = 'Assignment in Need offers premium online My Assignment Help services. Trusted for reliability, it’s your go-to choice for expert support in assignments.';
+  $data['keyword'] = '';
+  $data['canonical'] = 'https://www.assignnmentinneed.com/my-assignment-help';
+  $priceRanges = [
+    ['currency' => 'GBP', 'low' => '7.99', 'high' => '9.99'],
+    ['currency' => 'AUD', 'low' => '14.99', 'high' => '19.99']
+  ];
+  $data['schema'] = generateSchema($data['title'], $data['description'], $data['canonical'], $priceRanges);
+  return view('frontend.header.services.sub.my-assignment-help', compact('data'));
+});
+
+// 27-11-2024 for instant assignment Help page
+Route::get('/instant-assignment-help', function () {
+  $data['title'] = 'Online Instant Assignment & Homework Help- 40% Off & Free CV';
+  $data['description'] = 'Get Instant Assignment Help online with Assignment in Need. Enjoy urgent, quick, and affordable assistance for essays, homework, and more. Try our urgent services now';
+  $data['keyword'] = '';
+  $data['canonical'] = 'https://www.assignnmentinneed.com/instant-assignment-help';
+  $priceRanges = [
+    ['currency' => 'GBP', 'low' => '7.99', 'high' => '9.99'],
+    ['currency' => 'AUD', 'low' => '14.99', 'high' => '19.99']
+  ];
+  $data['schema'] = generateSchema($data['title'], $data['description'], $data['canonical'], $priceRanges);
+  return view('frontend.header.services.sub.instant-assignment-help', compact('data'));
+});
+
+
+// 27-11-2024 for coursework writing Help page
+Route::get('/coursework-writing-help', function () {
+  $data['title'] = 'Online Coursework Writing help Services- 40% Off & Free CV';
+  $data['description'] = 'Assignment in Need offers expert Coursework Writing Help with affordable coursework writers. Get university-level assistance for assignments and homework now';
+  $data['keyword'] = '';
+  $data['canonical'] = 'https://www.assignnmentinneed.com/coursework-writing-help';
+  $priceRanges = [
+    ['currency' => 'GBP', 'low' => '7.99', 'high' => '9.99'],
+    ['currency' => 'AUD', 'low' => '14.99', 'high' => '19.99']
+  ];
+  $data['schema'] = generateSchema($data['title'], $data['description'], $data['canonical'], $priceRanges);
+  return view('frontend.header.services.coursework-writing-help', compact('data'));
+});
+
 
 
 Route::get('/pay-for-assignment-help', function () {
@@ -1675,6 +1731,9 @@ route::get('/uk/cheap-assignment-writing-help', function()
         $data['canonical']='https://www.assignnmentinneed.com/uk/narrative-essay';
         return view('frontend.header.country.uk.narrative-essay', compact('data'));
         }); 
+      
+
+         
 
    /// 05/11/24 made new page of Place Your Order
    route::get('/place-your-order', function(){

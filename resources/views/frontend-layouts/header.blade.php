@@ -268,6 +268,7 @@ background: linear-gradient(281deg, rgba(0,127,193,0.5718662464985995) 11%, rgba
 												<!-- <li><a href="about">About Us</a></li> -->
 												<li><a href="what-we-are">What We Are</a></li>
 												<li><a href="why-choose-us">Why Choose Us</a></li>
+												<li><a href="benefits-of-assignments">Benefits</a></li>
 											</ul>
 										</li>
 										
@@ -319,15 +320,18 @@ background: linear-gradient(281deg, rgba(0,127,193,0.5718662464985995) 11%, rgba
         												<li><a href="pay-for-assignment-help">Pay For Assignment Help</a></li>
 														<li><a href="best-online-assignment-writing-service">Best Online Assignment Writing Service</a></li>
         												<li><a href="do-my-assignment-for-me">Do my Assignment for me</a></li> 
-														<li><a href="academic-assignment-writing-help-service">Academic Assignment Writing Help Service</a></li>
+														<li><a href="my-assignment-help">My Assignment Help</a></li>
+														<li><a href="instant-assignment-help">Instant Assignment Help</a></li>
 														<li><a href="top-assignment-writing-help-service">Top Assignment Writing Help Service</a></li>
         												
-        											</ul>
+                                             </ul>
         										</li>												
         										<li><a href="dissertation-writing-help-services">Dissertation Writing</a></li>
 												<li><a href="essay-writing-help-services">Essay Writing</a></li>
+												<li><a href="academic-assignment-writing-help-service">Academic Assignment Writing Help Service</a></li>
 												<li><a href="research-paper-writing-services">Research Paper Writing</a></li>
 												<li><a href="homework-writing-help-services">Homework Writing</a></li>
+												<li><a href="coursework-writing-help">Coursework Writing</a></li>
 											</ul>
 										</li>
 										<li class="dropdown"><a >Subjects</a>
