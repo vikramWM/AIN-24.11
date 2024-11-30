@@ -70,7 +70,7 @@
 										<li><a href="/uk/proofreading-and-editing-writing-help">Proofreading And Editing Help UK</a></li>
 										<li><a href="/uk/cheap-assignment-writing-help">Cheap Assignment Help UK</a></li>
 										<li><a href="/uk/instant-assignment-writing-help">Instant Assignment Help UK</a></li>
-										<li><a href="/uk/online-math-assignment-helper">Pay for My Assignment Help UK</a></li>
+										<li><a href="/uk/pay-someone-to-do-my-assignment-writing-help">Pay for My Assignment Help UK</a></li>
 										<li><a href="/uk/do-my-assignment-for-me">Do My Assignment For Me UK</a></li>
 										<li><a href="/uk/thesis-assignment-writing-help">Thesis Writing Help UK</a></li>
 										<li><a href="/uk/case-study-writing-help">Case Study Writing Help UK</a></li>
