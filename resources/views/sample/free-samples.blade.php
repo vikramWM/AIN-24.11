@@ -50,13 +50,14 @@
         <div class="row">
             
             @foreach ($categories as $letter => $group) <!-- Loop through each group -->
+                 <a href="/free-samples"> 
                 <div class="col-md-4 mb-3">
                     <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="icon-box">
                             <div class="icon">{{ $letter }}</div> <!-- Display the letter -->
                         </div>
                         @foreach ($group as $category)
-                             
+                     
                              <div class="subject-list">
                                 <div class="subject-container">
                                     <h4 class="subject-header">
@@ -72,6 +73,7 @@
                        
                     </div>
                 </div>
+                </a>
             @endforeach
         </div>
 

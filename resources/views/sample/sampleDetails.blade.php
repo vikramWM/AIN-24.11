@@ -850,11 +850,14 @@
         <button class="arrow left-arrow" id="prevBtn">←</button>
         <div class="card-slider">
           @foreach ($samplesuggestion as $obj)
+          <a href="free-samples/{{$categoryName}}/{{$obj->slug}}"> 
             <div class="card">
               <h4>{!! Str::limit($obj->title, 30, '...') !!}</h4>
               <p>{!! Str::limit($obj->content, 300, '...') !!}</p>
               <a href="free-samples/{{$categoryName}}/{{$obj->slug}}" class="link">View or Download Sample →</a>
             </div>
+             </a>
+
           @endforeach
         </div>
         <button class="arrow right-arrow" id="nextBtn">→</button>

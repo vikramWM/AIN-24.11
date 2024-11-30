@@ -345,7 +345,7 @@
 		<div class="auto-container">
 			<div class="row clearfix">
 				<div class="col-md-12 col-md-offset-2">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="text-center my-4">How Our Business Assignment Help</h2>
+					<h2 style="font-weight:500; font-size: 30px;; color:black" class="text-center my-4">How Our Business Assignment Writing Help Work?</h2>
 					 
 				</div>
 				<div class="blocks-column col-lg-12 col-md-12 col-sm-12 mt-2">
@@ -667,10 +667,10 @@
                             <p>Creating top-notch business management assignments requires time and a deep understanding of diverse topics. If you’re short on time or struggling with complex concepts, Assignment in Need’s professional business writing services are here to help. With our expert business coursework help, you can transform your grades effortlessly.</p>
                             <p><b>Why Choose Our Business Homework Help Online?</b></p>
                             <ul>
-                                <li><b>Expert Writers:</b> With a team of over 3000+ specialists, we assign subject matter experts to craft your assignments with precision.</li>
-                                <li><b>Thorough Research:</b> Our researchers ensure every paper is backed by accurate, relevant data.</li>
-                                <li><b>Customized Content:</b> Every assignment is written from scratch, adhering to your unique instructions.</li>
-                                <li><b>Rigorous Quality Checks:</b> We revise, edit, and scan each assignment multiple times to ensure it's flawless and plagiarism-free.</li>
+                                <li><b>1. Expert Writers:</b> With a team of over 3000+ specialists, we assign subject matter experts to craft your assignments with precision.</li>
+                                <li><b>2. Thorough Research:</b> Our researchers ensure every paper is backed by accurate, relevant data.</li>
+                                <li><b>3. Customized Content:</b> Every assignment is written from scratch, adhering to your unique instructions.</li>
+                                <li><b>4. Rigorous Quality Checks:</b> We revise, edit, and scan each assignment multiple times to ensure it's flawless and plagiarism-free.</li>
                             </ul>
                         </div>
                     </div>
@@ -718,9 +718,9 @@
                                     <p>Looking for reliable business writing help? Assignment in Need is a trusted choice for students worldwide, offering <a href="https://www.assignnmentinneed.com/cheap-assignment-writing-help"><b>cheap business assignment help</b></a>  for essays, dissertations, case studies, research projects, and more. Whether you’re tackling business analytics, finance, or management studies, our experts are ready to guide you through every challenge.</p>
                                      <p><b>What Sets Us Apart?</b></p>
                                      <ul>
-                                        <li><b>3000+ Skilled Writers:</b> Our team includes trained professionals proficient in various business disciplines.</li>
-                                        <li><b>4.5/5 Quality Rating:</b>Students around the world trust us for consistently high-quality work.</li>
-                                        <li><b>100% Unique Content:</b> We guarantee plagiarism-free assignments crafted from scratch.</li>
+                                        <li><b>1. 3000+ Skilled Writers:</b> Our team includes trained professionals proficient in various business disciplines.</li>
+                                        <li><b>2. 4.5/5 Quality Rating:</b>Students around the world trust us for consistently high-quality work.</li>
+                                        <li><b>3. 100% Unique Content:</b> We guarantee plagiarism-free assignments crafted from scratch.</li>
                                      </ul>
                                     </div>
                             </div>
@@ -774,12 +774,12 @@
                                     <h3>Exclusive Perks with Assignment in Need</h3>
                                     <p>When you choose us for business homework help online, you unlock a range of benefits designed to make your experience seamless:</p>
                                      <ul>
-                                        <li><b>Fast Turnaround:</b>Timely delivery, every time.</li>
-                                        <li><b>Unlimited Revisions:</b> Free reworks until you're satisfied.</li>
-                                        <li><b>Live Alerts:</b>SMS updates on your order status.</li>
-                                        <li><b>Simple Ordering Process:</b> Quick and hassle-free.</li>
-                                        <li><b>Secure Payment Options:</b> Your transactions are safe with us.</li>
-                                        <li><b>Free Samples Repository:</b> Access a library of examples to guide you.</li>
+                                        <li><b>1. Fast Turnaround:</b>Timely delivery, every time.</li>
+                                        <li><b>2. Unlimited Revisions:</b> Free reworks until you're satisfied.</li>
+                                        <li><b>3. Live Alerts:</b>SMS updates on your order status.</li>
+                                        <li><b>4. Simple Ordering Process:</b> Quick and hassle-free.</li>
+                                        <li><b>5. Secure Payment Options:</b> Your transactions are safe with us.</li>
+                                        <li><b>6. Free Samples Repository:</b> Access a library of examples to guide you.</li>
                                      </ul>
                                      <p>With so much to offer, there’s no reason to hesitate. Place your order with Assignment in Need, a leading business essay help provider, and make the most of our exclusive deals and offers. It’s a win-win!</p>
                                 </div>

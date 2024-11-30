@@ -52,6 +52,7 @@
   .button:hover {
     background-color: #e6a806;
   }
+   
 
   .icon-section {
     display: flex;
@@ -435,7 +436,21 @@
   }
 </style>
 
+<style>
+.heading-2{
+  font-weight:600;
+   font-size: 20px;
+    color:black;
+}
 
+
+  .heading-2:hover {
+  
+    color: #007bff;
+     
+ 
+  }
+</style>
 
 
 <section class="banner-section-three header-section ">
@@ -501,8 +516,9 @@
         </div>
       </div>
       @foreach ($sample as $obj)
+      <a href="free-samples/{{$categoryName}}/{{$obj->slug}}"> 
       <div class="sample-card mb-4">
-          <h2 style="font-weight:600; font-size: 20px;; color:black" >{{ $obj->title }}</h2>
+          <h2 class="heading-2" >{{ $obj->title }}</h2>
           <div class="sample-info">
               <span>Downloads: {{ $obj->downloads }}</span> | 
           
@@ -518,6 +534,7 @@
           </p>
           <a href="free-samples/{{$categoryName}}/{{$obj->slug}}" class="download-link">View or Download →</a>
       </div>
+      </a>
       @endforeach
 
 

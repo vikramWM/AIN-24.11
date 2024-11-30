@@ -196,8 +196,56 @@
 	.testimonial-section-three .owl-carousel .owl-stage-outer {
     padding: 0px 0px 0px;
 }
-      /* Assignment Writing */
+         /* new code */
+
+		 
+	.subject-container {
+		background-color: #fff;
+		/* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+
+		padding: 20px;
+		border-radius: 10px;
+		margin-bottom: 20px;
+		 
+	}
+
+	.subject-image {
+		border-radius: 50%;
+		max-width: 100%;
+		height: auto;
+	}
+
+	.subject-list-box {
+		background: rgb(0, 127, 193);
+		background: linear-gradient(281deg, rgba(0, 127, 193, 0.5718662464985995) 11%, rgba(71, 199, 204, 1) 60%, rgba(0, 127, 193, 1) 100%);
+		/* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+		padding: 20px;
+		border-radius: 15px;
+
+	}
+
+    
+
+	.subject-list {
+		list-style: none;
+		padding-left: 0;
+	}
+
+	.subject-list li {
+		margin-bottom: 10px;
+		font-size: 16px;
+		color: white;
+	}
+
+	.subject-list li i {
+		color: white;
+		margin-right: 8px;
+	}
+
+	  /* endcode */
 	</style>
+       
+	 
 	<section class="banner-section-three header-section" >
 		<div class="auto-container" style="margin-top: 10px;">
 			<div style="text-align: center;">
@@ -345,7 +393,7 @@
 		<div class="auto-container">
 			<div class="row clearfix">
 				<div class="col-md-12 col-md-offset-2">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="text-center my-4">How Our Thesis Writing Help</h2>
+					<h2 style="font-weight:500; font-size: 30px;; color:black" class="text-center my-4">How Our Thesis Writing Help Work?</h2>
 					 
 				</div>
 				<div class="blocks-column col-lg-12 col-md-12 col-sm-12 mt-2">
@@ -813,6 +861,68 @@
             </div>
         </div>
     </section>
+	 
+	<!-- Types of Subjects We Cover For Thesis Writing Help -->
+    <section class="py-0">
+		<div class="auto-container">
+			<div class="row clearfix">
+				<div class="title-column col-lg-12 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<div class="title-box">
+							<div class="section-color-layer"></div>
+							<h2 style="font-weight:500; font-size:30px; color:black" class="py-4">Types of Subjects We Cover For Thesis Writing Help</h2>
+						<div class="subject-container card bg-light">
+		                     <div class="row justify-content-center align-items-center">
+		                        <div class="col-lg-12 col-md-12 col-sm-12">
+	                                <div class="subject-list-box">
+		                                 <div class="row">
+			                                   <div class="col-lg-4 col-md-4 col-sm-12">
+				                                  <ul class="subject-list">
+		                                            	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/philosophy-assignment-writing-help"><b> Philosophy Thesis Writing Help</b></a></li>
+		                                            	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/sociology-assignment-writing-help"><b> Sociology Thesis Writing Help</b></a></li>
+		                                            	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/nursing-assignment-writing-help"><b> Nursing Thesis Writing Help</b></a></li>
+		                                            	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/marketing-assignment-writing-help"><b> Marketing Thesis Writing Help</b></a></li>
+		                                            	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/finance-assignment-writing-help"><b> Finance Thesis Writing Help</b></a></li>
+		                                            	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/statistics-assignment-writing-help"><b> Statistics Thesis Writing Help</b></a></li>
+		                                            	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/accounting-assignment-writing-help"><b> Accounting Thesis Writing Help</b></a></li>
+		                                            	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/math-assignment-help"><b> Mathematics Thesis Writing Help</b></a></li>
+				                                  </ul>
+			                                  </div>
+			                                   <div class="col-lg-4 col-md-4 col-sm-12">
+				                                      <ul class="subject-list">
+		                                                 	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/english-assignment-writing-help"><b> English Thesis Writing Help</b></a></li>
+		                                                 	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/linguistic-assignment-writing-help"><b> Linguistic Thesis Writing Help</b></a></li>
+		                                                 	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/physics-assignment-writing-help"><b> Physics Thesis Writing Help</b></a></li>
+		                                                 	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/management-assignment-writing-help"><b> Management Thesis Writing Help</b></a></li>
+		                                                 	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/history-assignment-writing-help"><b> History Thesis Writing Help</b></a></li>
+		                                                 	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/economic-assignment-writing-help"><b> Economics Thesis Writing Help</b></a></li>
+		                                                 	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/geography-assignment-writing-help"><b> Geography Thesis Writing Help</b></a></li>
+		                                                 	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/chemistry-assignment-writing-help"><b> Chemistry Thesis Writing Help</b></a></li>
+				                                      </ul>
+			                                   </div>
+			                                   <div class="col-lg-4 col-md-4 col-sm-12">
+				                                   <ul class="subject-list">
+		                                               	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/programming-assignment-writing-help"><b> Programming Thesis Writing Help</b></a></li>
+		                                               	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/law-assignment-writing-help"><b> Law Thesis Writing Help</b></a></li>
+		                                               	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/engineering-assignment-writing-help"><b> Engineering Thesis Writing Help</b></a></li>
+		                                               	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/computer-science-assignment-writing-help"><b> Computer Science Thesis Writing Help</b></a></li>
+		                                               	<li><i class="fas fa-book-open"></i> <b> Supply Chain Thesis Writing Help</b></a></li>
+		                                               	<li><i class="fas fa-book-open"></i> <b> Coding Thesis Writing Help</b></a> </li>
+		                                               	<li><i class="fas fa-book-open"></i> <b> MBA Thesis Writing Help</b> </a></li>
+		                                               	<li><i class="fas fa-book-open"></i><a class="text-white" href="https://www.assignnmentinneed.com/business-assignment-writing-help"><b> Business Thesis Writing Help</b> </a></li>
+				                                     </ul>
+			                                     </div>
+		                                    </div>
+										</div>
+	                               </div>
+                                </div>
+                           </div>
+						 
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 
     <!-- Discover a Stress-Free Thesis Research Paper Writing Help -->
     <section>

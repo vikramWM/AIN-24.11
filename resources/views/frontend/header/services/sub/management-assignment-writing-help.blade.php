@@ -345,7 +345,7 @@
 		<div class="auto-container">
 			<div class="row clearfix">
 				<div class="col-md-12 col-md-offset-2">
-					<h2 style="font-weight:500; font-size: 30px;; color:black" class="text-center my-4">How Our Management Assignment Writing Help</h2>
+					<h2 style="font-weight:500; font-size: 30px;; color:black" class="text-center my-4">How Our Management Assignment Writing Help Work?</h2>
 					 
 				</div>
 				<div class="blocks-column col-lg-12 col-md-12 col-sm-12 mt-2">
@@ -658,10 +658,10 @@
                                 <h3>Expert Help With Management Assignment On All Topics</h3>
                                 <p>Management covers a wide range of topics, each with its own set of challenges. Whether you need management dissertation writing help or <a href="https://www.assignnmentinneed.com/essay-writing-help-services"><b>management essay writing help</b></a> , we’re here to lighten the load. Our affordable help is tailored to support you across different management subjects, including: 
                               <ul>
-                              <li><b>Project Management:</b> Learn how to organize, plan, and complete tasks like a pro.</li>
-                              <li><b>Business Strategy:</b>  Get a better understanding of market trends and how companies make strategic decisions.</li>
-                              <li><b>Human Resources:</b> Receive expert guidance on HR policies, recruitment processes, and managing employee relations.</li>  
-                              <li><b>Operations & Finance:</b> Tackle complex financial tasks and operational challenges with ease.</li>  
+                              <li><b>1. Project Management:</b> Learn how to organize, plan, and complete tasks like a pro.</li>
+                              <li><b>2. Business Strategy:</b>  Get a better understanding of market trends and how companies make strategic decisions.</li>
+                              <li><b>3. Human Resources:</b> Receive expert guidance on HR policies, recruitment processes, and managing employee relations.</li>  
+                              <li><b>4. Operations & Finance:</b> Tackle complex financial tasks and operational challenges with ease.</li>  
                             </ul>
                             </p>
                             </div>
@@ -713,10 +713,10 @@
                                 <div class="section-color-layer"></div>
                                  <h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4">Your Choice for Trusted Management Dissertation writing help</h2>
                                   <ul>
-                                    <li><b>Affordable Pricing:</b> We offer great value without compromising on quality.</li>
-                                    <li><b>Dependability:</b> Count on us for editing, proofreading, and more.</li>
-                                    <li><b>On-Time Delivery:</b> We always deliver on time.</li>
-                                    <li><b>Plagiarism-Free Content:</b> We use modern tools to ensure originality</li>
+                                    <li><b>1. Affordable Pricing:</b> We offer great value without compromising on quality.</li>
+                                    <li><b>2. Dependability:</b> Count on us for editing, proofreading, and more.</li>
+                                    <li><b>3. On-Time Delivery:</b> We always deliver on time.</li>
+                                    <li><b>4. Plagiarism-Free Content:</b> We use modern tools to ensure originality</li>
                                   </ul>
                             </div>
                         </div>
@@ -819,10 +819,10 @@
                                     <h2 style="font-weight:500; font-size: 30px;; color:black" class="my-4">Effortless Steps to Access Top Management Assignment Services</h2>
                                     <p>Our management assignment services are designed to be straightforward and efficient. Here’s how you can get help with project management assignment:</p>
                                     <ul>
-                                        <li><b>Share Your Project Instructions:</b>Simply provide us with your project details, including any specific requirements or guidelines.</li>
-                                        <li><b>Assign a Writer:</b> Based on your project, our team will assign a suitable writer with the relevant expertise, or you can choose a writer yourself.</li>
-                                        <li><b>Direct Communication:</b> You can communicate directly with your assigned writer through our secure chat system. Track progress, ask for revisions, or clarify instructions whenever needed.</li>
-                                        <li><b>Review the Paper:</b> Once your assignment is completed, download and review it. If needed, request revisions before approving and releasing payment.</li>
+                                        <li><b>1. Share Your Project Instructions:</b>Simply provide us with your project details, including any specific requirements or guidelines.</li>
+                                        <li><b>2. Assign a Writer:</b> Based on your project, our team will assign a suitable writer with the relevant expertise, or you can choose a writer yourself.</li>
+                                        <li><b>3. Direct Communication:</b> You can communicate directly with your assigned writer through our secure chat system. Track progress, ask for revisions, or clarify instructions whenever needed.</li>
+                                        <li><b>4. Review the Paper:</b> Once your assignment is completed, download and review it. If needed, request revisions before approving and releasing payment.</li>
                                     </ul>
                                 </div>
                             </div>
