@@ -295,7 +295,7 @@
         list-style: none;
         border: 1px solid #ccc;
         border-radius: 5px;
-        z-index: 1;
+        z-index: 2;
         width: max-content;
         max-height: 200px; /* Limit height */
         overflow-y: auto;
