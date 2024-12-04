@@ -1804,6 +1804,34 @@ route::get('/uk/cheap-assignment-writing-help', function()
           $data['canonical']='https://www.assignnmentinneed.com/uk/compare-and-contrast-essay-writing-help';
           return view('frontend.header.country.uk.compare-and-contrast-essay-writing-help', compact('data'));
         });
+        // 02/12/24 new page in uk country political science research paper
+        route::get('/uk/political-science-research-paper', function(){
+          $data['title']='Political Science Research Paper Help UK- 40% Off & Free CV';
+          $data['description']='Expert Political Science research paper Writing help in the UK. Achieve top grades with personalized, reliable and affordable help for all your academic needs';
+          $data['keyword']='';
+          $data['canonical']='https://www.assignnmentinneed.com/uk/political-science-research-paper';
+          return view('frontend.header.country.uk.political-science-research-paper', compact('data'));
+        });
+
+         
+       // 02/12/24 new page in uk country primary homework help
+       route::get('/uk/primary-homework-help', function(){
+         $data['title']='Online Primary Homework Help In UK- 40% Off & Get Free CV';
+         $data['description']='Online Primary Homework Help in the UK made easy! Get expert help for stress-free learning and better grades for school to post-graduation students ';
+         $data['keyword']='';
+         $data['canonical']='https://www.assignnmentinneed.com/uk/primary-homework-help';
+         return view('frontend.header.country.uk.primary-homework-help', compact('data'));
+       });
+
+        
+       // 02/12/24 new page in uk country write my assignment for me
+       route::get('/uk/write-my-assignment-for-me', function(){
+         $data['title']='Write My Assignment for Me In UK- 40% Off & Get Free CV';
+         $data['description']='Online Write my assignment for me Services in the UK? We’ve got you covered! Get top-quality, cheap assignments delivered on time by trusted experts, available 24/7';
+         $data['keyword']='';
+         $data['canonical']='https://www.assignnmentinneed.com/uk/write-my-assignment-for-me';
+         return view('frontend.header.country.uk.write-my-assignment-for-me', compact('data'));
+        });
 
    /// 05/11/24 made new page of Place Your Order
    route::get('/place-your-order', function(){
