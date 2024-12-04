@@ -51,7 +51,6 @@ function generateSchema($title, $description, $canonical, $priceRanges)
     }, $priceRanges),
     "aggregateRating" => [
       "@type" => "AggregateRating",
-      "ratingValue" => "4.5",
       "ratingCount" => "100" // Adjust this count as needed
     ],
     "url" => $canonical
@@ -305,7 +304,7 @@ Route::get('/get-files-by-order', [LeadsController::class, 'findfiles'])->name('
 Route::get('thank-you', [HomeController::class, 'thankyou'])->name('thank-you');
 
 // frontnd routing for sample page
-Route::get('free-samples', [SampleController::class, 'indexpage'])->name('free-samples');
+Route::get('free-samples', [SampleController::class, 'free-samples'])->name('free-samples');
 Route::get('free-samples/{title}', [SampleController::class, 'categoryDeatails'])->name('free-samples/title');
 Route::get('free-samples/{title}/{subject}', [SampleController::class, 'sampleDeatails'])->name('free-samples/title/subject');
 Route::get('downloads-sample/{slug}', [SampleController::class, 'downloadSample'])->name('downloads-sample/slug');
@@ -2512,6 +2511,7 @@ Route::get('/orders_data', function () {
 });
 
 Route::get('/blog-sitemap', [SitemapController::class, 'blogSitemap'])->name('blog-sitemap');
+Route::get('/sample-sitemap', [SitemapController::class, 'freeSampleSitemap'])->name('sample-sitemap');
 
 
 Route::get('/dashboard', [HomeController::class, 'dashboard'])->middleware(['auth'])->name('dashboard');

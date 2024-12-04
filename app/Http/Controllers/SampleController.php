@@ -14,6 +14,112 @@ use Validator;// Ensure this package is installed and configured
 
 class SampleController extends Controller
 {
+
+    function generateSchema($type, $title , $description)
+{
+    if ($type === 'Article') {
+        return json_encode([
+            "@context" => "http://schema.org",
+            "@type" => "Article",
+            "mainEntityOfPage" => [
+                "@type" => "WebPage",
+                "@id" => env('CANONICAL_URL', url()->current()) ?? ""
+            ],
+            "headline" =>  $title ?? "",
+            "datePublished" => $pdalishDate ?? "",
+            "dateModified" => $updalishDate ?? "",
+            "author" => [
+                "@type" => "Organization",
+                "name" =>  "Assignmenntinneed"
+            ],
+            "publisher" => [
+                "@type" => "Organization",
+                "name" => 'Assignmenntinneed',
+                "logo" => [
+                    "@type" => "ImageObject",
+                    "url" =>  "https://www.assignnmentinneed.com/assets/media/layout/assignment_logo.webp"
+                ]
+            ],
+            "description" => $description
+        ], JSON_UNESCAPED_SLASHES);
+    }
+
+    if ($type === 'Product') {
+        return json_encode([
+            "@context" => "http://schema.org/",
+            "@type" => "Product",
+            "name" => $data['name'] ?? "Assignmenntinneed",
+            "image" => $data['image'] ?? "https://www.assignnmentinneed.com/assets/media/layout/assignment_logo.webp",
+            "offers" => [
+                "@type" => "AggregateOffer",
+                "priceCurrency" => $data['priceCurrency'] ?? "USD",
+                "price" => $data['price'] ?? "0"
+            ],
+            "aggregateRating" => [
+                "@type" => "AggregateRating",
+                "ratingValue" => $data['ratingValue'] ?? "4.5",
+                "ratingCount" => $data['ratingCount'] ?? "100"
+            ]
+        ], JSON_UNESCAPED_SLASHES);
+    }
+
+    return null; // Return null if no valid type is provided
+}
+
+    private function generateArticleSchema($headline, $description, $createdAt, $updatedAt, $url)
+    {
+        // Create the schema array for the article
+        $data['schema'] = json_encode([
+            "@context" => "http://schema.org",
+            "@type" => "Article",
+            "mainEntityOfPage" => [
+                "@type" => "FreeSample",
+                "@id" => $url
+            ],
+            "headline" => $headline,
+            "datePublished" => $createdAt, 
+            "dateModified" => $updatedAt, 
+            "author" => [
+                "@type" => "Organization",
+                "name" => "AssignmentInNeed"
+            ],
+            "publisher" => [
+                "@type" => "Organization",
+                "name" => "AssignmentInNeed",
+                "logo" => [
+                    "@type" => "ImageObject",
+                    "url" => "https://www.assignnmentinneed.com/assets/media/layout/assignment_logo.webp"
+                ]
+            ],
+            "description" => $description
+        ], JSON_UNESCAPED_SLASHES);
+    
+        return $data;
+    }
+
+
+    private function BreadcrumbList(array $breadcrumbs): string
+    {
+        $breadcrumbSchema = [
+            "@context" => "https://schema.org",
+            "@type" => "BreadcrumbList",
+            "itemListElement" => []
+        ];
+    
+        foreach ($breadcrumbs as $position => $breadcrumb) {
+            $breadcrumbSchema['itemListElement'][] = [
+                "@type" => "ListItem",
+                "position" => $position + 1,
+                "name" => $breadcrumb['name'],
+                "item" => $breadcrumb['url']
+            ];
+        }
+    
+        return json_encode($breadcrumbSchema, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+    }
+    
+    
+
     public function index()
     {
         $sampleCategory = SampleCategory::all();
@@ -23,13 +129,19 @@ class SampleController extends Controller
 
     public function indexpage()
     {
-        $categories = SampleCategory::withCount('sample')
+
+           $categories = SampleCategory::withCount('sample')
             ->having('sample_count', '>', 0) 
             ->orderBy('name', 'asc') 
             ->get()
             ->groupBy(function ($category) {
                 return strtoupper(substr($category->name, 0, 1)); // Group by first letter
             });;
+
+            $title = 'List of Free Assignments Samples and Examples for Students';
+            $description = 'Download all types of free assignment samples for student assistance. Access university-level examples to guide your work and boost your academic performance.';
+            $data['schema'] = $this->generateSchema( $title ,  $description);
+
     
         return view('sample.free-samples', compact('categories'));
     }
@@ -343,6 +455,9 @@ public function samplesShows (Request $request)
     // return redirect()->back()->with('sucess', 'Sample Type deleted Succesfully');
 
   }
+
+
+ 
 
 
 
