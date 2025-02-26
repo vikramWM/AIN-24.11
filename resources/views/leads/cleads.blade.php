@@ -69,12 +69,13 @@
                                                 id="kt_drawer_chat_toggle{{ $lead->id }}"
                                                 class="btn btn-icon btn-bg-warning btn-active-color-light btn-sm me-1">Call</a>
                                             @include('leads.section.call-lead')
-                                                
+                                                @if(auth()->user()->role_id === 1)
                                                 <a href="#" id="{{$lead->id}}" style="color:white" class="btn btn-icon btn-bg-danger btn-active-color-light btn-sm me-1 delete-link">
                                                     <span class="svg-icon svg-icon-3">
                                                         <li class="fa fa-trash fa-lg"></li>
                                                     </span>
                                                 </a>
+                                                @endif
                                             </td>
                                             <td>{{ $lead->order_id }}</td>
                                             

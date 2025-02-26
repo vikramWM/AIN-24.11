@@ -2870,10 +2870,7 @@ Route::middleware(['auth'])->group(function () {
         Route::put('/typeofpaper/{id}', [MasterController::class, 'paper_update'])->name('typeofpaper.update');
         Route::delete('/typeofpaper/{id}', [MasterController::class, 'delete_paper'])->name('typeofpaper.delete');
 
-        Route::get('/c-leads', [LeadsController::class, 'cancelleads'])->name('c-leads');
-        Route::put('/cancel_leads{id}', [LeadsController::class, 'leads_Cancel'])->name('leads.update');
-        Route::put('/active_leads{id}', [LeadsController::class, 'leads_Active'])->name('leads.update');
-        Route::Delete('/Delete{id}', [LeadsController::class, 'delete_leads'])->name('leads.Delete');
+        
 
         Route::get('/export', [ExportController::class, 'export'])->name('export.orders');
         Route::get('/export-leads', [ExportController::class, 'exportLeads'])->name('export.leads');
@@ -2890,6 +2887,10 @@ Route::middleware(['auth'])->group(function () {
 
         Route::Post('/order/feedback', [OrderController::class, 'saveFeedback'])->name('feedback');
 
+        Route::get('/c-leads', [LeadsController::class, 'cancelleads'])->name('c-leads');
+        Route::put('/cancel_leads{id}', [LeadsController::class, 'leads_Cancel'])->name('leads.update');
+        Route::put('/active_leads{id}', [LeadsController::class, 'leads_Active'])->name('leads.update');
+        Route::Delete('/Delete{id}', [LeadsController::class, 'delete_leads'])->name('leads.Delete');
 
 
 
